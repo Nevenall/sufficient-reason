@@ -1,4 +1,6 @@
 # Working Magick
+  
+  Working magick.
 
 ## Focused Magick
 
@@ -51,7 +53,7 @@
 
   It's possible to perform workings that are not focused through your paradigm and instead rely upon your raw will and experience with reality. These can be very difficult to achieve and thus quite dangerous.
 
-**Raw Magick Dice Pool**
+### Raw Magick Dice Pool
 
   - Arete
     - You may spend Quintessence of any kind of a raw working
@@ -79,7 +81,7 @@
 
   Once you've rolled to create your effect, Reality will oppose you with a dice pool that's composed based on the effect you are attempting to create.
 
-  **Reality Dice Pool**
+### Reality Dice Pool
 
   - The Size of your Effect (d6 or larger)
     - This can be a single Effect larger than d12
