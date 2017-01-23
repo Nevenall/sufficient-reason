@@ -3,7 +3,6 @@
 *Describe who your Mage is. In five words or less.*
 
 
-
 # Avatar
 
 *Pick an Essence (Dynamic, Pattern, Primordial, or Questing) for your avatar and characterize it a bit.*
