@@ -1,31 +1,30 @@
-# Concept
+## Concept
 
 *Describe who your Mage is. In five words or less.*
 
 
-
-# Avatar
+## Avatar
 
 *Pick an Essence (Dynamic, Pattern, Primordial, or Questing) for your avatar and characterize it a bit.*
 
 *Avatar rating starts at 1 and may be bought as high as 5 with Character Dice. Avatar 2 costs 1d6, 3 costs 2d6, 4 costs 4d6, 5 costs 8d6.*
 
 
-# Focus
+## Focus
 
 *Pick a Paradigm, at least one Magickal practice, and 7 Instruments.*
 
 
 
-# Attributes
+## Attributes
 
 *Assign d6, d8, d10 to three Attributes: Physical, Mental, Social.*
 
 Physical | Mental | Social
 :-------:|:------:|:-----:
- d6      | d8 		| d10
+         |  		| 
  
-# Distinctions
+## Distinctions
 
 *Pick a Tradition and 3 other Distinctions.*
 
@@ -34,7 +33,7 @@ Physical | Mental | Social
 * Two 
 * Three
 
-# Skills
+## Skills
 
 *All skills start at Untrained d4. Spend Character Dice to advance them up to Master d12.*
 
@@ -62,11 +61,11 @@ Subterfuge  	| d4	  |
 Survival  		| d4	  |
 Technology 		| d4	  |
 
-# Arete
+## Arete
 
 *Arete starts at Sleep Walker d4. You may spend Character Dice to increase it up to d12.*
 
-# Spheres
+## Spheres
 
 *Each starts at Inexperienced d4. Spend Character Dice to increase your Spheres. No sphere can be higher then your Arete.*
 
@@ -82,7 +81,6 @@ Prime 			| d4
 Spirit 			| d4	  
 Time 				| d4	  
 
-# Backgrounds
+## Backgrounds
 
 *Purchase with Character Dice from: Allies, Contacts, Backup, Gang, Cult, Servants, Spies, Retainers, Arcane, Chantry, Demesne, Dreaming, Fame, Influence, Rank, Familiar, Companion, Library, Mentor, Node, Patron, Resources, Sanctum, Status, Wonders.*
-
