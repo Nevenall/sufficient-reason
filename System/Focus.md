@@ -7,6 +7,16 @@
   What does the mage use in that practice? = instruments
 
   All combined = focus
+  
+>Practices are the practical part of magick. Beliefs are the power and direction, but a practice is the objects, actions, and patterns. A Practice is the part of magick you can actually show someone and teach to them. Even mages can get tangled up in thinking that their Practice is the most important thing because it's the part they can see.
+>They break down generally into Technocratic and Mystickal. The technocratic practices fit into the modern world, by design. 
+>On the other hand most of the Mystickal practices seem very out of place, because they are. 
+>By core challenge I mean: Mystickal practices have an uphill battle to fight against reality because they don't fit in. It's hard to believe that just waving a wand and a sword around are enough, so, high ritual magick "works" by requiring very exacting precision and attention to detail. You can maybe think about the core challenge of a practice as the reason why mages who do it believe it works. And it's also an excuse for why a particular working fails. "I didn't pronounce the invocation exactly right." 
+
+
+
+  
+  
 
 ## Paradigms
 
