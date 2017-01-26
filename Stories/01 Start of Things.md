@@ -23,8 +23,7 @@
   {also assuming this works for you}
 
   You become conscious that you are standing in a park looking at a statue. 
-
-  [statue](https://www.google.com/maps/@37.8060289,-122.4293169,3a,75y,24.38h,99.92t/data=!3m8!1e1!3m6!1s-dgPyWC_qh5U%2FUOOf8GswW8I%2FAAAAAAAAelg%2FuMrYzP4CL_g3CnSHpxmLUZoK12Nrv7SMgCJkC!2e4!3e11!6s%2F%2Flh6.googleusercontent.com%2F-dgPyWC_qh5U%2FUOOf8GswW8I%2FAAAAAAAAelg%2FuMrYzP4CL_g3CnSHpxmLUZoK12Nrv7SMgCJkC%2Fw203-h100-k-no-pi0-ya267.9265-ro-0-fo100%2F!7i4014!8i1937)
-
   
+  ![By Glen Bowman from Newcastle, England [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bufano_statue_and_stars_and_stripes_flag_-_Great_Meadow_Park_at_Fort_Mason_-_San_Francisco%2C_California%2C_USA_%2821001399300%29.jpg/450px-Bufano_statue_and_stars_and_stripes_flag_-_Great_Meadow_Park_at_Fort_Mason_-_San_Francisco%2C_California%2C_USA_%2821001399300%29.jpg)
+
   {How do you recieve a command/feeling/direction to find someone called the Bag Lady?}
