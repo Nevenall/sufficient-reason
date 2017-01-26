@@ -1,8 +1,8 @@
-# Introduction
+# The Start of Things
+
+  ![Gerrythrash at English Wikipedia [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bay_Bride_from_Yerba_Buena_Island.JPG/640px-Bay_Bride_from_Yerba_Buena_Island.JPG)
 
 ## San Francisco - Modern Day 
-
-  ![Gerrythrash at English Wikipedia [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/8/86/Bay_Bride_from_Yerba_Buena_Island.JPG)
 
   A place of history, hills, and high tech. San Francisco is also a battle ground in the Reality War; being an hour's drive from both the technocratic stronghold of Silicon Valley and the mystick upwelling that is Muir Wood.
 
