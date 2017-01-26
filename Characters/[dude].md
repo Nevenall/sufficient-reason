@@ -72,3 +72,22 @@
 ## Backgrounds
 
   Arcane d10, Dreaming d10
+
+
+# Questions & Answers
+  1. What was your awakening like? 
+      - Accidental.  Was the subject of temporary Faerie infatuation and after drinking some glamoured wine, the spark ignited.  Unfortunately the Fae are fickle and the relationship ended rather suddenly--no goodbyes, also no real explanation of the supernatural world into which [dude] was sort of inducted.
+  2. Who was the first to find you and teach you about Magick? 
+      - Faerie girlfriend sort of mentioned some of the supernatural world when explanations became necessary--really the relationship was about living out her own private fantasy so explanations were incomplete and vague.  Only later was [dude] able to mine them to make some sense out of his stutter-step Awakening.
+  3. Do you still have a relationship with them?
+      -  [Dude] still pines for his girlfriend but has no idea how to find her.  She probably never thinks about him except as a fun fling.
+  4. Do you know any other Mages in SF?
+      - Knows that they exist, worried that he's in over his head and not sure who to trust, so he's been digging around real careful-like and hasn't initiated any contacts yet.
+  5. How much do you know about other Mages?
+      - Very little.
+  6. How much do you know about the Reality War? 
+      - Almost nothing.
+  7. How much are you involved in the Reality War?
+      - Almost nothing.
+  8. Why are you in San Francisco right now?
+      - Came out of a sort of vague notion that he'd be able to join some kind of humanitarian organization and become a world-class Guest on Oprah-level do-gooder, but ignorance and naivete prevented any meaningful achievement and then his girlfriend knocked everything sideways.

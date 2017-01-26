@@ -72,3 +72,22 @@
 ## Backgrounds
 
   Arcane d8, Dreaming d8, Mentor d8
+
+# Questions & Answers
+
+  1. What was your awakening like? 
+      - I was executed at San Quinton State Prison. Everything before that was confinement. Now I’m out.
+  2. Who was the first to find you and teach you about Magick? 
+      - I remember speaking to the coroner afterwards. It seemed like we talked forever. I don’t remember what he said, only that I understood everything.
+  3. Do you still have a relationship with them?
+      - I’m pretty sure that I do. I can’t tell you what the coroner looked like, but I know I would recognize him.
+  4. Do you know any other Mages in SF?
+      - Not yet. I know that there are others, but not who they are.
+  5. How much do you know about other Mages?
+      - Some that are living need to be made dead like me. It doesn’t bother me to do it.
+  6. How much do you know about the Reality War? 
+      - I’m not sure. Only my work is important to me.
+  7. How much are you involved in the Reality War?
+      - Unfinished business.
+  8. Why are you in San Francisco right now?
+      - Tradition is going to be Euthanatoi. Character believes that he is dead, and that everything he is experiencing is the afterlife. Some kind of purgatory maybe. Memories are too fragmented to know for sure. He does not feel evil, but he does acknowledge that he may have been a psychopath and a killer.
