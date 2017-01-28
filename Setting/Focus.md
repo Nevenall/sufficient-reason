@@ -306,7 +306,7 @@
 
   Books and periodicals
 
-  Brain/ computer interface
+  Brain/computer interface
 
   Brews and concoctions
 

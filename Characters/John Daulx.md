@@ -1,4 +1,4 @@
-# \[Dude\]
+# John Daulx
 
 ## Drifting do-gooder
 
@@ -11,8 +11,8 @@
   Component   | Focus
   -----------:|:------
   Paradigm    | Divine Order, Earthy Chaos
-  Practice    | Demagogy
-  Instruments | Blessings and Curses, Drugs and Poisons, Numbers and Numerology, Prayers and Invocations, Social Domination, Eye Contact
+  Practice    | Dominion/Art of Desire
+  Instruments | Books & Periodicals (pamphlets), Social Domination (virtue signalling), Herbal Remedies, Group Rites (meetups), Speeches, Meditation (positive thought forms)
 
 ## Attributes
 
