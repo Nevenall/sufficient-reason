@@ -1,27 +1,21 @@
 # Working Magick
-  
-  Working magick.
 
-  > some notes to make here. Need to clean up the correspondence and prime vs. just strait up duration traits. So that it's clear how to make an effect. 
-  > also, need to workout what happens when you target someone. 
-  > I think this right now: if you target a sleeper, they can't resist with magic. They can maybe resist with mundane traits, based on your effect, but that's it. As a mage you have to beat both reality and their resistance? or maybe not. Maybe you can just blugh sleepers all you want? 
-  > if you target someone with magick though, they can add their arete and avatar rating, which now becomes a trait, to reality's dice pool. or maybe just avatar? eitherway, they are harder to effect, and if they detect your working they can work their own countermagick which allows them to roll a full magicalk counter?
-  > then what? the main issue here is do we add to reality's dice pool, or do we all for a second resistance roll that you must also beat? Either one is possible, but which is easier?
-  > if its a second roll, like, someone could still roll to dodge the physical manifestation of your spell? I don't like that. but if we just add to reality's pool...the main thing to ask is how avatar and arete actualyl work. logically, not mechanically. the more you know about how magick works in the SETTING the easier these kinds of questions are to answer. Therefore, as a mage you can resist a working directed at you with your avatar. And various sanctums traits and such for your location. If you are aware of the working and resist it, you can add your arete. If you practice some countermagick based on your correct
-  > Counter-magick is page 546 in the m20 book
-  > from their perspective, if you sucessfully create a fireball you still have to hit someone with it. 
-  > which I am dubious about. 
-  > thats two rolls for the same thing. and, if your working includes, say, shoot for shooting, then there's no need to make a second attack roll, but...and this is a but, it may be that they can dodge your physical attack if they can see it coming. Which does kinda mean that they get a chance to make a roll to beat your total. just like reality does. eh, there are worse things. 
-  > be free with information to the players. There's no need to hide things. With Cortexplus it will all even out. 
-  > which says to me, that you can dodge physical effects maybe, you can also resist magic if you have an avatar and some arete.  Avatar is always added. 
-  > I wonder if you could thus, mundanely resist mind control? that's what willpower was suppose to be for. 
-  > 
+  When performing magick start by defining the *Effect* of your working; how you will alter reality, how extensive and long lasting that change will be, and how it flows from your focus. The clearer your statement of narrative intent the easier it will be to decide which Spheres and and mundane traits apply to the action.  
+
+  > For example: You need to cross a gap between two building to escape some technocratic agents. Your *Effect* is to take a quick herbal conconction to enhance your musculature, making it possible to leap the distance. This clearly invokes your Occult skill and Herbalism specialty. Enhancing your own body requires using the Life Sphere.
+ 
+  > Alternately: You might calculate the coordinates of the rooftop you wish to be on and run a quick script on your wrist computer to alter your token's position in the virtual reality simulation that is reality; effectively teleporting across the distance. This accomplishes the same goal, but clearly uses Technology and the sphere of Corrispondence.   
+
+  Once your *Effect* is clear enough that you can assemble a dice pool for your action, you'll roll and determine a *total* for reality to attempt to meet or beat with dice based on how radical and complex your *Effect* is. 
+
+  If reality's total fails to meet or beat the total for your effect, then your working will succeed. You may generate some Paradox from a successful effect, but if your effect fails you are gaurenteed to generate Paradox.
+  
 
 ## Focused Magick
 
-  Your focus describes a collection of beliefs about how reality works and tools through which you focus the power of those beliefs into magick.
+  Your focus describes a belief about how reality works and also concrte ways through which you focus the power of your beliefs to shape reality to better fit your belief.
 
-  When performing focused magick start by defining the Effect of your working; specifically how it flows from your focus. The clearer your statement of narrative intent is the easier the rest of the process will be.
+  Focused magick is much easier to accomplish because it allows you to enlist dice from mundane traits such as skills and attributes in your working. The drawback is that your *Effect* is limited by your belief and especially the nature of your practice. If suddenly growing armored skin is not an *Effect* that fits into your Focus, then it's not a *Effect* you can accomplish with Focused Magick.   
 
 ### Spheres
 
@@ -66,7 +60,9 @@
 
 ## Raw Magick
 
-  It's possible to perform workings that are not focused through your paradigm and instead rely upon your raw will and experience with reality. These can be very difficult to achieve and thus quite dangerous.
+  Raw magick is an instantaneous working of pure will that trancends all of your beliefs about reality. It is often a desparate Mage's last resort because it is difficult and dangerous. 
+  
+  You can use only your Mystickal traits when working Raw Magick which means fewer dice and a greater chance of failure. On the other hand, the *Effect* of Raw Magick is not bound by your practice and requires no instruments or preparation.  
 
 ### Raw Magick Dice Pool
 
@@ -122,6 +118,27 @@
   For Vulgar workings Reality gets 3 dice for it's total and you'll get an extra d6 Paradox regardless of whether your working succeeds or fails.
 
   If you meet or beat reality's total your working is a success. Otherwise, your effect dice gets added to your paradox pool, and perhaps greater retribution if paradox burns off.
+
+# Divider {draft verisons of things}
+
+## Resisting workings, targeting sleepers or other awakened
+
+  > some notes to make here. Need to clean up the correspondence and prime vs. just strait up duration traits. So that it's clear how to make an effect. 
+  > also, need to workout what happens when you target someone. 
+  > I think this right now: if you target a sleeper, they can't resist with magic. They can maybe resist with mundane traits, based on your effect, but that's it. As a mage you have to beat both reality and their resistance? or maybe not. Maybe you can just blugh sleepers all you want? 
+  > if you target someone with magick though, they can add their arete and avatar rating, which now becomes a trait, to reality's dice pool. or maybe just avatar? eitherway, they are harder to effect, and if they detect your working they can work their own countermagick which allows them to roll a full magicalk counter?
+  > then what? the main issue here is do we add to reality's dice pool, or do we all for a second resistance roll that you must also beat? Either one is possible, but which is easier?
+  > if its a second roll, like, someone could still roll to dodge the physical manifestation of your spell? I don't like that. but if we just add to reality's pool...the main thing to ask is how avatar and arete actualyl work. logically, not mechanically. the more you know about how magick works in the SETTING the easier these kinds of questions are to answer. Therefore, as a mage you can resist a working directed at you with your avatar. And various sanctums traits and such for your location. If you are aware of the working and resist it, you can add your arete. If you practice some countermagick based on your correct
+  > Counter-magick is page 546 in the m20 book
+  > from their perspective, if you sucessfully create a fireball you still have to hit someone with it. 
+  > which I am dubious about. 
+  > thats two rolls for the same thing. and, if your working includes, say, shoot for shooting, then there's no need to make a second attack roll, but...and this is a but, it may be that they can dodge your physical attack if they can see it coming. Which does kinda mean that they get a chance to make a roll to beat your total. just like reality does. eh, there are worse things. 
+  > be free with information to the players. There's no need to hide things. With Cortexplus it will all even out. 
+  > which says to me, that you can dodge physical effects maybe, you can also resist magic if you have an avatar and some arete.  Avatar is always added. 
+  > I wonder if you could thus, mundanely resist mind control? that's what willpower was suppose to be for. 
+  > 
+
+
 
 ## Duration
 
