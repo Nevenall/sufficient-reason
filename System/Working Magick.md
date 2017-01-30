@@ -11,13 +11,12 @@
   If reality's total fails to meet or beat the total for your effect, then your working will succeed. You may generate some Paradox from a successful effect, but if your effect fails you are gaurenteed to generate Paradox.
   
 
-## Focused Magick
 
-  Your focus describes a belief about how reality works and also concrte ways through which you focus the power of your beliefs to shape reality to better fit your belief.
-
-  Focused magick is much easier to accomplish because it allows you to enlist dice from mundane traits such as skills and attributes in your working. The drawback is that your *Effect* is limited by your belief and especially the nature of your practice. If suddenly growing armored skin is not an *Effect* that fits into your Focus, then it's not a *Effect* you can accomplish with Focused Magick.   
-
-### Spheres
+## Effect 
+  
+  {this is more about effect and maybe effect dice? might be handy to have a chart for each sphere that breaks down what an effect die for that might be. }
+  
+## Spheres
 
   Once you have a clear intent for your Effect break it down into discrete component Spheres and determine the level required from each Sphere.
 
@@ -26,13 +25,54 @@
   > For example, if your magickal attack has a d8 Fire effect and a d8 electricity effect, you have two Forces 3 components.
   > In this case you add your Forces trait once, and reality get 2d8 to resist your working.
 
-### Range
+## Range
 
   The Range of your Effect will be a Correspondence component.
+  The distance your effect will reach across. \[this is a targeting kind of thing\]
 
-### Duration
+  Trait | Range
+  -----:|-------
+  D4    | Only yourself.
+  D6    | Takes your action. Pass the initiative.
+  D8    | Takes this action and your next one.
+  D10   | Takes the scene.
+  D12   | Takes longer than the scene.
+
+## Duration
 
   The Duration of your Effect will be Prime component.
+  How long will your effect last?
+
+  Trait | Duration
+  -----:|---------
+  d4    | No Time. Lasts only long enough for a reaction.
+  d6    | Lasts until your next action.
+  d8    | Lasts for a Scene.
+  d10   | Lasts until the next dusk/dawn.
+  d12   | Lasts for a Season.
+
+## Scope
+
+  {I have an outstanding question about if scope is a thing. It may very well be a part of the effect die. but it could be a separate thing for you to have to deal with. A d12 effect might be strong but it might also be limited in scope to a single target. If you keep your scope limited to yourself, then reality will generate more opportunities for you to activate. Which is }
+  How large and widespread is your effect?
+
+  Trait | Scope
+  -----:|------
+  D4    | Only yourself
+  D6    | One person
+  D8    | A crowd
+  D10   | A Building
+  D12   | Takes longer than the scene.
+
+
+## Casting Time
+
+## Focused Magick
+
+  Your focus describes a belief about how reality works and also concrte ways through which you focus the power of your beliefs to shape reality to better fit your belief.
+
+  Focused magick is much easier to accomplish because it allows you to enlist dice from mundane traits such as skills and attributes in your working. The drawback is that your *Effect* is limited by your belief and especially the nature of your practice. If suddenly growing armored skin is not an *Effect* that fits into your Focus, then it's not a *Effect* you can accomplish with Focused Magick.   
+
 
 ### Focused Magick Dice Pool
 
@@ -58,6 +98,7 @@
     - If you spend extra time performing your working
     - The demands of your focal instruments may affect what's possible here.
 
+
 ## Raw Magick
 
   Raw magick is an instantaneous working of pure will that trancends all of your beliefs about reality. It is often a desparate Mage's last resort because it is difficult and dangerous. 
@@ -76,7 +117,7 @@
   - Time
     - If you spend extra time performing your working
 
-## Casting Time
+
 
   How long you take to achieve your working.
   
@@ -140,41 +181,11 @@
 
 
 
-## Duration
 
-  How long will your effect last?
+ 
 
-  Trait | Duration
-  -----:|---------
-  d4    | No Time. Lasts only long enough for a reaction.
-  d6    | Lasts until your next action.
-  d8    | Lasts for a Scene.
-  d10   | Lasts until the next dusk/dawn.
-  d12   | Lasts for a Season.
+ 
 
-## Range
-
-  The distance your effect will reach across. \[this is a targeting kind of thing\]
-
-  Trait | Range
-  -----:|-------
-  D4    | Only yourself.
-  D6    | Takes your action. Pass the initiative.
-  D8    | Takes this action and your next one.
-  D10   | Takes the scene.
-  D12   | Takes longer than the scene.
-
-## Scope
-
-  How large and widespread is your effect?
-
-  Trait | Scope
-  -----:|------
-  D4    | Only yourself
-  D6    | One person
-  D8    | A crowd
-  D10   | A Building
-  D12   | Takes longer than the scene.
 
 ## Ritual Workings
 
