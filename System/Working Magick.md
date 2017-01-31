@@ -1,5 +1,16 @@
 # Working Magick
 
+  Overview of how magick works.
+  
+  Declare a narrative *effect*. This is what and about reality you want to be different, and it be literally anything. As big, complex, and crazy universe shattering as you wish, but the bigger you go, the more dice reality gets to resist you. 
+
+  You don't have to, but if you can define your effect within the context of your practice it will be much easier becuase you will be able to enlist dice from your mundane traits, not just your mystick ones.
+
+  Each effect gets broken down into Spheres and ratings based on what parts of reality it affects and how serious the change is. {These represent the dice reality will roll against you. }
+
+
+## Effect 
+  
   When performing magick start by defining the *Effect* of your working; how you will alter reality, how extensive and long lasting that change will be, and how it flows from your focus. The clearer your statement of narrative intent the easier it will be to decide which Spheres and and mundane traits apply to the action.  
 
   > For example: You need to cross a gap between two building to escape some technocratic agents. Your *Effect* is to take a quick herbal conconction to enhance your musculature, making it possible to leap the distance. This clearly invokes your Occult skill and Herbalism specialty. Enhancing your own body requires using the Life Sphere.
@@ -9,12 +20,6 @@
   Once your *Effect* is clear enough that you can assemble a dice pool for your action, you'll roll and determine a *total* for reality to attempt to meet or beat with dice based on how radical and complex your *Effect* is. 
 
   If reality's total fails to meet or beat the total for your effect, then your working will succeed. You may generate some Paradox from a successful effect, but if your effect fails you are gaurenteed to generate Paradox.
-  
-
-
-## Effect 
-  
-  {this is more about effect and maybe effect dice? might be handy to have a chart for each sphere that breaks down what an effect die for that might be. }
   
 ## Spheres
 
