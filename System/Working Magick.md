@@ -1,17 +1,18 @@
 # Working Magick
 
-  Overview of how magick works.
-  
-  Declare a narrative *effect*. This is what and about reality you want to be different, and it be literally anything. As big, complex, and crazy universe shattering as you wish, but the bigger you go, the more dice reality gets to resist you. 
-
-  You don't have to, but if you can define your effect within the context of your practice it will be much easier becuase you will be able to enlist dice from your mundane traits, not just your mystick ones.
-
-  Each effect gets broken down into Spheres and ratings based on what parts of reality it affects and how serious the change is. {These represent the dice reality will roll against you. }
-
+  Reality may seem like a solid wall to bounce your head against, but it's true nature is far more maliable then that. There are some few people who've awakened to this and with their Will can affect changes in reality. We call this *Magick*.   
 
 ## Effect 
   
-  When performing magick start by defining the *Effect* of your working; how you will alter reality, how extensive and long lasting that change will be, and how it flows from your focus. The clearer your statement of narrative intent the easier it will be to decide which Spheres and and mundane traits apply to the action.  
+  To work magick begin by clearly stating what you will change. This is your narrative *effect* and it may be literally anything. As big, complex, and as unlikely as you can imagine, but be warned, the bigger your effect the more dice you'll give reality to resist you. 
+
+  You don't have to, but if you can define your effect within the context of your practice it will be much easy because you'll be able to use dice from your mundane traits and not just your mystickal ones.
+
+## Spheres
+
+  Mysticks have traditionally parceled all of reality into nine *spheres* that they might study them individually. Each sphere represents a Mage's understanding of one facet of reality and their ability to manipulate it.  
+
+  Once your effect is clear
 
   > For example: You need to cross a gap between two building to escape some technocratic agents. Your *Effect* is to take a quick herbal conconction to enhance your musculature, making it possible to leap the distance. This clearly invokes your Occult skill and Herbalism specialty. Enhancing your own body requires using the Life Sphere.
  
