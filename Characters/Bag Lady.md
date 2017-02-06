@@ -37,7 +37,7 @@
   --------------:|:------|:------------
   Academics 		| d8	  |
   Art 			    | d4	  |
-  Atheletics 		| d6	  |
+  Athletics 		| d6	  |
   Cosmology 		| d4	  |
   Craft 			  | d4	  |
   Drive 			  | d6	  |
