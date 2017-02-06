@@ -73,8 +73,7 @@
 
   Arcane d10, Dreaming d10
 
-
-# Questions & Answers
+## Questions & Answers
   1. What was your awakening like? 
       - Accidental.  Was the subject of temporary Faerie infatuation and after drinking some glamoured wine, the spark ignited.  Unfortunately the Fae are fickle and the relationship ended rather suddenly--no goodbyes, also no real explanation of the supernatural world into which [dude] was sort of inducted.
   2. Who was the first to find you and teach you about Magick? 

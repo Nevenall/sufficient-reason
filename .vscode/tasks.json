@@ -21,6 +21,12 @@
       "isShellCommand": true,
       "isBuildCommand": true,
       "showOutput": "always"
+    },
+    {
+      "taskName": "spelling",
+      "command": "cmd /C 'for /R %f in (*.md) do type \"%f\" | aspell list'",
+      "isShellCommand": true,
+      "showOutput": "always"    
     }
   ]
 }

@@ -73,7 +73,7 @@
 
   Arcane d8, Dreaming d8, Mentor d8
 
-# Questions & Answers
+## Questions & Answers
 
   1. What was your awakening like? 
       - I was executed at San Quinton State Prison. Everything before that was confinement. Now I’m out.

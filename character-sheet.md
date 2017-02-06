@@ -71,4 +71,12 @@
 
 ## Backgrounds
 
-  
+## Questions & Answers
+  1. What was your awakening like?
+  2. Who was the first to find you and teach you about Magick? 
+  3. Do you still have a relationship with them?
+  4. Do you know any other Mages in SF?
+  5. How much do you know about other Mages?
+  6. How much do you know about the Reality War? 
+  7. How much are you involved in the Reality War?
+  8. Why are you in San Francisco right now?  

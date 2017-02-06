@@ -72,7 +72,7 @@
 ## Backgrounds
   If Any
   
-# Questions & Answers
+## Questions & Answers
 
   1. What was your awakening like? 
       - Great Horned Ram level initiation into Masonic Lodge - been a mason since joining being invited by a fraternity brother while in MBA program at ASU. Having already 'drunk the koolaid' he was neither too surprised nor overwhelmed by what came from the awakening, though somewhat shocked by the depth/breadth of the powers involved in being an awakened one.
