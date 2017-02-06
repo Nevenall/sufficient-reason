@@ -1,0 +1,3 @@
+A powershell version of the markdown build task.
+
+Get-ChildItem *.md -Recurse | ForEach-Object -Process {pandoc.exe $_.FullName -t html5 -o "$($_.BaseName).html"}
