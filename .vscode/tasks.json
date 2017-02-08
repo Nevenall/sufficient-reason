@@ -16,7 +16,7 @@
     },
     {
       "taskName": "build",
-      "command": "Get-ChildItem *.md -Recurse | ForEach-Object -Process {pandoc.exe $_.FullName -t html5 -o \"html\\$($_.BaseName).html\"}",
+      "command": "Get-ChildItem *.md -Recurse | ForEach-Object -Process { pandoc.exe $_.FullName -t html5 -o \"html\\$($_.BaseName).html\" }",
       "args": [],
       "isShellCommand": true,
       "isBuildCommand": true,
@@ -33,10 +33,29 @@
       "taskName": "spell check all files",
       "command": ".\\SpellCheckAllFiles.ps1",
       "isShellCommand": true,
-      "showOutput": "always"
-      // , "problemMatcher": {}
+      "showOutput": "always",
+      "problemMatcher": {
+        "owner": "aspell",
+        "severity": "warning",
+        "fileLocation": "absolute",
+
+        "pattern": [
+          {
+            "regexp": "File - (.+)",
+            "file": 1
+          },
+          {
+            "regexp": "(\\d+) & (.+) (\\d+) (\\d+): (.+)",
+            "line": 1,
+            "codaspe": 2,
+            "column": 4,
+            "message": 5,
+            "loop": true
+          }
+        ]
+      }
     },
-     {
+    {
       "taskName": "count",
       "command": "Get-ChildItem *.md -Recurse | Get-Content | Measure-Object -Line -Word -Character",
       "isShellCommand": true,
