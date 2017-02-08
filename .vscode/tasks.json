@@ -9,14 +9,14 @@
   "tasks": [
     {
       "taskName": "clean html",
-      "command": "cmd /C 'del /Q /F html\\*.html'",
+      "command": "rm html\\*.html -Force",
       "args": [],
       "isShellCommand": true,
       "showOutput": "always"
     },
     {
       "taskName": "build",
-      "command": "cmd /C 'for /R %f in (*.md) do pandoc \"%f\" -t html5 -o \"html\\%~nf.html\"'",
+      "command": "Get-ChildItem *.md -Recurse | ForEach-Object -Process {pandoc.exe $_.FullName -t html5 -o \"html\\$($_.BaseName).html\"}",
       "args": [],
       "isShellCommand": true,
       "isBuildCommand": true,
@@ -31,7 +31,14 @@
     },
     {
       "taskName": "spell check all files",
-      "command": "cmd /C 'for /R %f in (*.md) do type \"%f\" | aspell list'",
+      "command": ".\\SpellCheckAllFiles.ps1",
+      "isShellCommand": true,
+      "showOutput": "always"
+      // , "problemMatcher": {}
+    },
+     {
+      "taskName": "count",
+      "command": "Get-ChildItem *.md -Recurse | Get-Content | Measure-Object -Line -Word -Character",
       "isShellCommand": true,
       "showOutput": "always"
     }
