@@ -4,15 +4,37 @@
 
 ## Effect 
   
-  To work magick begin by clearly stating what you will change. This is your narrative *effect* and it may be literally anything. As big, complex, and as unlikely as you can imagine, but be warned, the bigger your effect the more dice you'll give reality to resist you. 
+  Begin by clearly stating what you will change about reality. This is your narrative *effect* and it may be literally anything. As grand and unlikely as you can imagine, but be warned, the bigger your effect the more dice you'll give reality to resist you. 
 
-  You don't have to, but if you can define your effect within the context of your practice it will be much easy because you'll be able to use dice from your mundane traits and not just your mystickal ones.
+  It's not a requirement, but if you can define your effect within the context of your magickal *practice* it will be much easier to succeed because you'll be able to add dice from your mundane traits and not just your mystickal ones.
 
 ## Spheres
 
-  Mysticks have traditionally parceled all of reality into nine *spheres* that they might study them individually. Each sphere represents a Mage's understanding of one facet of reality and their ability to manipulate it.  
+  Mysticks traditionally parcel all of reality into nine *spheres* that they might focus their studies. Each sphere represents a Mage's understanding of some facet of reality and their ability to manipulate it.  
 
-  Once your effect is clear
+  Corrispondence
+  ~ space, places, and their relations
+  ~ the range of your spell is a facet 
+
+  Entropy
+  ~ decay, chaos, and probability
+
+  Forces
+  ~ elemental energies: fire, ice, gravity
+  
+  Life
+  ~ things that live
+
+  Matter
+  ~ things that do not live
+
+  Mind
+  ~ sapience 
+
+  Prime
+  ~ primordial energies, 
+
+  Once your effect is clear enough
 
   > For example: You need to cross a gap between two building to escape some technocratic agents. Your *Effect* is to take a quick herbal conconction to enhance your musculature, making it possible to leap the distance. This clearly invokes your Occult skill and Herbalism specialty. Enhancing your own body requires using the Life Sphere.
  
@@ -22,8 +44,6 @@
 
   If reality's total fails to meet or beat the total for your effect, then your working will succeed. You may generate some Paradox from a successful effect, but if your effect fails you are gaurenteed to generate Paradox.
   
-## Spheres
-
   Once you have a clear intent for your Effect break it down into discrete component Spheres and determine the level required from each Sphere.
 
   It is possible for your Effect to have multiple components of the same Sphere.

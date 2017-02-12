@@ -8,15 +8,8 @@
   "echoCommand": true,
   "tasks": [
     {
-      "taskName": "clean html",
-      "command": "rm html\\*.html -Force",
-      "args": [],
-      "isShellCommand": true,
-      "showOutput": "always"
-    },
-    {
       "taskName": "build",
-      "command": "Get-ChildItem *.md -Recurse | ForEach-Object -Process { pandoc.exe $_.FullName -t html5 -o \"html\\$($_.BaseName).html\" }",
+      "command": "rm html\\*.html; Get-ChildItem *.md -Recurse | ForEach-Object -Process { pandoc.exe $_.FullName -t html5 -o \"html\\$($_.BaseName).html\" };",
       "args": [],
       "isShellCommand": true,
       "isBuildCommand": true,
@@ -24,32 +17,49 @@
     },
     // setup spell check tasks to use personal dictionary in the proj directory
     {
-      "taskName": "spell check this file",
-      "command": "aspell check ${file} --dont-backup",
-      "isShellCommand": true,
-      "showOutput": "always"
-    },
-    {
       "taskName": "spell check all files",
-      "command": ".\\SpellCheckAllFiles.ps1",
+      "command": "gci *.md -Recurse | foreach { write-output \"\nFile - $($_.FullName)\"; SpellCheckTask $_; }",
       "isShellCommand": true,
       "showOutput": "always",
+      "isTestCommand": true,
       "problemMatcher": {
-        "owner": "aspell",
+        "owner": "SpellCheckTask",
         "severity": "warning",
         "fileLocation": "absolute",
-
         "pattern": [
           {
             "regexp": "File - (.+)",
             "file": 1
           },
           {
-            "regexp": "(\\d+) & (.+) (\\d+) (\\d+): (.+)",
+            "regexp": "(\\d+):(\\d+) (.+ -> .*)",
             "line": 1,
-            "codaspe": 2,
-            "column": 4,
-            "message": 5,
+            "column": 2,
+            "message": 3,
+            "loop": true
+          }
+        ]
+      }
+    },
+    {
+      "taskName": "spell check this file",
+      "command": "Write-Output \"File - ${file}\"; SpellCheckTask ${file}",
+      "isShellCommand": true,
+      "showOutput": "always",
+      "problemMatcher": {
+        "owner": "SpellCheckTask",
+        "severity": "warning",
+        "fileLocation": "absolute",
+        "pattern": [
+          {
+            "regexp": "File - (.+)",
+            "file": 1
+          },
+          {
+            "regexp": "(\\d+):(\\d+) (.+ -> .*)",
+            "line": 1,
+            "column": 2,
+            "message": 3,
             "loop": true
           }
         ]

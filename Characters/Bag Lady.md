@@ -4,11 +4,11 @@
 
 ## Neuro-spirituality researcher
 
-  She works for a technocatic research outpost attempting to isolate the part of the brain that is responsible for feelings of anxiety and uncetainty.  
+  She works for a technocratic research outpost attempting to isolate the part of the brain that is responsible for feelings of anxiety and uncertainty.  
 
 ## Avatar:  (Rating 1)
   
-  Alba's eidelon is a 
+  Alba's eidolon is 
 
 ## Focus
 
@@ -83,5 +83,5 @@
 
 ## Notes
 
-  Who is Alba? How much do we need to know. She may not last that long. She came from england. 
-  She has a bit of a nurse Wratchet feel to me. 
+  Who is Alba? How much do we need to know. She may not last that long. She came from England. 
+  She has a bit of a nurse Ratchet feel to me. 
