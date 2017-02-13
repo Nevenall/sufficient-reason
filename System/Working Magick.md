@@ -1,6 +1,6 @@
 # Working Magick
 
-  Reality may seem like a solid wall to bounce your head against, but it's true nature is far more maliable then that. There are some few people who've awakened to this and with their Will can affect changes in reality. We call this *Magick*.   
+  Reality may seem like a solid wall to bounce your head against, but it's true nature is far more malleable then that. There are some few people who've awakened to this and with their Will can affect changes in reality. We call this *Magick*.   
 
 ## Effect 
   
