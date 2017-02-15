@@ -13,8 +13,8 @@
   Mysticks traditionally parcel all of reality into nine *spheres* that they might focus their studies. Each sphere represents a Mage's understanding of some facet of reality and their ability to manipulate it.  
 
   Corrispondence
-  ~ space, places, and their relations
-  ~ the range of your spell is a facet 
+  ~ space, places, and relations between things
+  ~ the distance, real or metaphorical, between you the target of your spell is a corrispondence effect.
 
   Entropy
   ~ decay, chaos, and probability
@@ -32,7 +32,14 @@
   ~ sapience 
 
   Prime
-  ~ primordial energies, 
+  ~ primordial energies of reality
+  ~ how long your spell will last is an effect of Prime.
+
+  Spirit
+  ~ Other worlds and their entities. 
+
+  Time
+  ~ Perception and flow of temporal nature. 
 
   Once your effect is clear enough
 
