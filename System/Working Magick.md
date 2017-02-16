@@ -10,11 +10,11 @@
 
 ## Spheres
 
-  Mysticks traditionally parcel all of reality into nine *spheres* that they might focus their studies. Each sphere represents a Mage's understanding of some facet of reality and their ability to manipulate it.  
+  Mysticks traditionally parcel all of reality into nine *spheres* to facilite their studies. Each sphere represents your understanding of some facet of reality and your ability to manipulate it.  
 
   Corrispondence
   ~ space, places, and relations between things
-  ~ the distance, real or metaphorical, between you the target of your spell is a corrispondence effect.
+  ~ the distance, real or metaphorical, between you and the target of your spell is a corrispondence effect
 
   Entropy
   ~ decay, chaos, and probability
@@ -39,9 +39,11 @@
   ~ Other worlds and their entities. 
 
   Time
-  ~ Perception and flow of temporal nature. 
+  ~ Perception and flow of temporal reality.
 
-  Once your effect is clear enough
+## Breaking it Down
+
+  Once your effect is clear enough to see what Spheres are involved, you can determine dice and roll.  
 
   > For example: You need to cross a gap between two building to escape some technocratic agents. Your *Effect* is to take a quick herbal conconction to enhance your musculature, making it possible to leap the distance. This clearly invokes your Occult skill and Herbalism specialty. Enhancing your own body requires using the Life Sphere.
  
@@ -99,6 +101,10 @@
 
 
 ## Casting Time
+
+ 
+
+
 
 ## Focused Magick
 
