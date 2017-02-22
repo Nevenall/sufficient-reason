@@ -2,7 +2,7 @@
 
   Reality may seem like a solid wall to bounce your head against, but it's true nature is far more malleable then that. There are some few people who've awakened to this and with their Will can affect changes in reality. We call this *Magick*.   
 
-## Effect 
+## Effect
   
   Begin by clearly stating what you will change about reality. This is your narrative *effect* and it may be literally anything. As grand and unlikely as you can imagine, but be warned, the bigger your effect the more dice you'll give reality to resist you. 
 
@@ -100,11 +100,11 @@
   D12   | Takes longer than the scene.
 
 
+
+
+
+
 ## Casting Time
-
- 
-
-
 
 ## Focused Magick
 
