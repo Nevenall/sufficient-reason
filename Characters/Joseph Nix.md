@@ -4,7 +4,7 @@
 
 ## Avatar: Primordial (2)
   
-  {Little something about what this avatar is like}
+  A creepy feeling. 
 
 ## Focus
 

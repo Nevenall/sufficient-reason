@@ -220,12 +220,6 @@
 
 
 
-
- 
-
- 
-
-
 ## Ritual Workings
 
   \[draft\] If two mages have compatible paradigms they can cooperate on a working with a greater chance of success.
