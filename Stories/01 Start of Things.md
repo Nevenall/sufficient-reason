@@ -14,7 +14,7 @@
 
   Seeking good to do in SF, you've been doing work with the homeless population and recently you've personally experienced an uptick in the number and severity of people with psychotic symptoms. 
 
-  In fact, you've had a close enounter with someone the rest of the rescue staff just call the Bag Lady. She wears a widebrimmed hat and amorphous high collared coat that conceals most of her face. She pushes a shopping cart loaded with bags, but with angel figurings and christian icons wired all around the outside of the cart. 
+  In fact, you've had a close encounter with someone the rest of the rescue staff just call the Bag Lady. She wears a wide brimmed hat and amorphous high collared coat that conceals most of her face. She pushes a shopping cart loaded with bags, but with angel figurines and Christian icons wired all around the outside of the cart. 
 
   {Tell us what your encounter with her was like. Why it was scary and especially what unexplainable thing she did.} 
 
@@ -56,7 +56,7 @@ because action and Salazar had made up his ​ about her I believe.
 
 
 I like that even better. She is a dedicated mind/spirit technocrat. And she has her research notes
-Ooo…what if she uses her collection of angels as kind of a memory palace storage for her research and for her 
+Ooo… what if she uses her collection of angels as kind of a memory palace storage for her research and for her 
 Watching over the locals. 
 
 
@@ -81,7 +81,7 @@ What kind of reaction do they get? Maybe you
 
 Say you are working to influence someone with mind magick. You roll and reality rolls to counter you. It could be that you have to overcome both reality and the resistance of others. Maybe you can affect sleepers all you want. Maybe they just add a die to reality.
 
-What about targetting other will workers? Maybe they get their arete and their avatar? By default. 
+What about targeting other will workers? Maybe they get their arete and their avatar? By default. 
 If they are taking efforts to perform countermagick then they can use some spheres and mundane traits. 
 That makes sense. 
 

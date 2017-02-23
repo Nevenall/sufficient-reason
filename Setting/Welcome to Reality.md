@@ -22,6 +22,6 @@
   
   Funny I should mention war. You see, us Mages accept a diversity of beliefs about what we do and how it works. Some believe they are doing divine will on earth, some believe that reality is a computer simulation and they can hack the code. Crazy stuff. But, there are people out there who understand the true nature of reality and want it to be exactly one way. Their way.  
   
-  They're called the Technocracy and they invented physics, science, TV, global economies and all that and they disseminated it to the Sleepers. They got enough people to believe it that – well, I don't have to tell you what a shitshow reality is.  
+  They're called the Technocracy and they invented physics, science, TV, global economies and all that and they disseminated it to the Sleepers. They got enough people to believe it that – well, I don't have to tell you what a shit-show reality is.  
   
   They started a war for reality and we are the only ones who even know there is something to fight for. I heard they call us Reality Deviants and hunt us down. If they can find us. Which is why you shouldn't conjure a forest in the subway.

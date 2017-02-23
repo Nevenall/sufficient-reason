@@ -2,9 +2,9 @@
 
 ## Death Row Convict
 
-## Avatar: Primodial 
+## Avatar: Primordial (1)
   
-  Rating 1 
+  Strange missives
 
 ## Focus
 
@@ -12,7 +12,7 @@
   -----------:|:------
   Paradigm    | Divine Order, Earthy Chaos
   Practice    | Faith
-  Instruments | Blessings and Curses, Drugs and Poisons, Numbers and Numerology, Prayers and Invocations, Social Domination, Eye Contact
+  Instruments | Blessings and Curses, Drugs and Poisons, Eye Contact, Numbers and Numerology, Prayers and Invocations, ]Social Domination 
 
 ## Attributes
 
@@ -29,8 +29,8 @@
 
 ## Skills
 
-  Skill 			| Trait | Specialties
-  --------------:|:------|:------------
+  Skill 		  	| Trait | Specialties
+  -------------:|:------|:------------
   Academics 		| d4	  |
   Art 				  | d4	  |
   Athletics 		| d4	  |

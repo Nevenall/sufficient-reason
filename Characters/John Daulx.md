@@ -12,7 +12,7 @@
   -----------:|:------
   Paradigm    | Divine Order, Earthy Chaos
   Practice    | Dominion/Art of Desire
-  Instruments | Books & Periodicals (pamphlets), Social Domination (virtue signalling), Herbal Remedies, Group Rites (meetups), Speeches, Meditation (positive thought forms)
+  Instruments | Books & Periodicals (pamphlets), Social Domination (virtue signaling), Herbal Remedies, Group Rites (meetups), Speeches, Meditation (positive thought forms)
 
 ## Attributes
 
@@ -29,27 +29,27 @@
 
 ## Skills
 
-  Skill 			| Trait | Specialties
-  --------------:|:------|:------------
-  Academics 		| d4  |
-  Art 				  | d6  |
-  Athletics 		| d8  |
-  Cosmology 		| d6  |
-  Craft 			  | d4  |
-  Drive 			  | d6  |
-  Etiquette 		| d4  |
-  Fight 			  | d4  |
-  Focus 			  | d4  |
-  Influence 		| d8  |
-  Investigation | d8  |
-  Occult  			| d4  |
-  Science  		  | d4  |
-  Shoot  			  | d4  |
-  Stealth  		  | d4  |
-  Streetwise  	| d6  |
-  Subterfuge  	| d6  |
-  Survival  		| d4  |
-  Technology 		| d4  |
+  Skill 	  		| Trait | Specialties
+  -------------:|:------|:------------
+  Academics 		| d4    |
+  Art 				  | d6    |
+  Athletics 		| d8    |
+  Cosmology 		| d6    |
+  Craft 			  | d4    |
+  Drive 			  | d6    |
+  Etiquette 		| d4    |
+  Fight 			  | d4    |
+  Focus 			  | d4    |
+  Influence 		| d8    |
+  Investigation | d8    |
+  Occult  			| d4    |
+  Science  		  | d4    |
+  Shoot  			  | d4    |
+  Stealth  		  | d4    |
+  Streetwise  	| d6    |
+  Subterfuge  	| d6    |
+  Survival  		| d4    |
+  Technology 		| d4    |
 
 ## Arete
 

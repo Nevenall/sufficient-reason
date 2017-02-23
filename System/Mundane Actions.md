@@ -12,7 +12,7 @@
 
 ## Setting Stakes
   
-  If the there's no applicable character to set stakes with the GM can use the follow guidelines to derive a dice pool. Start by determining the general difficulty of the task, and then character's relative postion regarding it. 
+  If the there's no applicable character to set stakes with the GM can use the follow guidelines to derive a dice pool. Start by determining the general difficulty of the task, and then character's relative position regarding it. 
 
   Difficulty | Dice Size 
   ----------:|:---------
@@ -24,7 +24,7 @@
 
   Footing   | # of Dice | Description
   ---------:|:---------:|------------
-  Solid     | 2d        | Acting on your own terms. Exploiting a domniant advantage.
+  Solid     | 2d        | Acting on your own terms. Exploiting a dominant advantage.
   Even      | 3d        | Going head to head. Taking a chance.
   Desperate | 4d        | Overreaching yourself. In serious trouble.
   

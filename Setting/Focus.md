@@ -246,7 +246,7 @@
 
  Like craftwork, healing is a diverse and ancient practice. Across all the different arts and frameworks the core of any Medicine-Work practice is the *duty* to heal. The medicine working has a responsibility to find the cause of hurt, whatever that hurt might be, and fix it. It's the sacredness of that duty, which often comes with the associated duty to do no harm, and the strong belief in a particular practice that makes a medicine worker.
 
- **Associated Abilities** - Academics (healing practices, herbalism, energy work, bodywork, healing and meditative practices), Art (masks, dance, music, etc.), Influence, Occult (engery work), Science (medicine), Technology
+ **Associated Abilities** - Academics (healing practices, herbalism, energy work, bodywork, healing and meditative practices), Art (masks, dance, music, etc.), Influence, Occult (energy work), Science (medicine), Technology
 
  **Common Instruments** - Artwork, blessings and curses, blood and fluids, bodywork, bones and remains, books, brews and concoctions, computers, cups and vessels, dance and movement, devices and machines, drugs and poisons, group rites (operations), herbs, laboratories, languages (Latin, jargon, and that weird script doctors use when writing prescriptions), meditation, music, offerings and sacrifices, prayers and invocations, social domination, voice, weapons (surgical instruments)
 
@@ -274,7 +274,7 @@
 
 ### Voudoun
 
- Voudoun is a complex art, though rich might be a better word. It's essential roots are slavery, despair, and subversive synthesis of aspects of the tyrant culture. The power of Voudoun is idiosyncratic, but most practitioners believe it comes from extremes of power disparity. Practitioner seeks alliances beyond hope with Loa; nnpowers that transcend death, enslavement, and the extremity of their condition.
+ Voudoun is a complex art, though rich might be a better word. It's essential roots are slavery, despair, and subversive synthesis of aspects of the tyrant culture. The power of Voudoun is idiosyncratic, but most practitioners believe it comes from extremes of power disparity. Practitioner seeks alliances beyond hope with Loa; for powers that transcend death, enslavement, and the extremity of their condition.
 
  **Associated Abilities** - Art, Athletics, Awareness, Belief Systems, Carousing, Crafts, Empathy, Intimidation, Lucid Dreaming, Medicine, Meditation, Streetwise
 
@@ -284,7 +284,7 @@
   Weird science
   
 ### Witchcraft
-  Wichcraft
+  Witchcraft
 
 ### Yoga
 
@@ -292,112 +292,58 @@
 
 ## Instruments
 
-  Armor
-
-  Artwork
-
-  Blessings and curses
-
-  Blood and fluids
-
-  Bodywork
-
-  Bones and remains
-
-  Books and periodicals
-
-  Brain/computer interface
-
-  Brews and concoctions
-
-  Cards and instruments of chance
-
-  Celestial alignments
-
-  Circles and designs
-
-  Computer gear
-
-  Crossroads and crossing-days
-
-  Cups and vessels
-
-  Dances and movement
-
-  Devices and machines
-
-  Drugs and poisons
-
-  Elements
-
-  Energy
-
-  Eye contact
-
-  Fashion
-
-  Food and drink
-
-  Formulae and math
-
-  Gadgets and inventions
-
-  Gems and stones
-
-  Group rites
-
-  Herbs and plants
-
-  Household tools
-
-  Knots and ropes
-
-  Labs and gear
-
-  Languages
-
-  Management and HR
-
-  Mass media
-
-  Meditation
-
-  Money and wealth
-
-  Music
-
-  Nanotech
-
-  Numbers and numerology
-
-  Offerings and sacrifices
-
-  Ordeals and exertions
-
-  Prayers and invocations
-
-  Sacred iconography
-
-  Sex and sensuality
-
-  Social domination
-
-  Symbols
-
-  Thought-forms
-
-  Toys
-
-  Tricks and illusions
-
-  True Names
-
-  Vehicles
-
-  Voice and vocalizations
-
-  Wands and staves
-
-  Weapons
-
-  Writings, inscriptions and runes
+  * Armor
+  * Artwork
+  * Blessings and curses
+  * Blood and fluids
+  * Bodywork
+  * Bones and remains
+  * Books and periodicals
+  * Brain/computer interface
+  * Brews and concoctions
+  * Cards and instruments of chance
+  * Celestial alignments
+  * Circles and designs
+  * Computer gear
+  * Crossroads and crossing-days
+  * Cups and vessels
+  * Dances and movement
+  * Devices and machines
+  * Drugs and poisons
+  * Elements
+  * Energy
+  * Eye contact
+  * Fashion
+  * Food and drink
+  * Formulae and math
+  * Gadgets and inventions
+  * Gems and stones
+  * Group rites
+  * Herbs and plants
+  * Household tools
+  * Knots and ropes
+  * Labs and gear
+  * Languages
+  * Management and HR
+  * Mass media
+  * Meditation
+  * Money and wealth
+  * Music
+  * Nanotech
+  * Numbers and numerology
+  * Offerings and sacrifices
+  * Ordeals and exertions
+  * Prayers and invocations
+  * Sacred iconography
+  * Sex and sensuality
+  * Social domination
+  * Symbols
+  * Thought-forms
+  * Toys
+  * Tricks and illusions
+  * True Names
+  * Vehicles
+  * Voice and vocalizations
+  * Wands and staves
+  * Weapons
+  * Writings, inscriptions and runes

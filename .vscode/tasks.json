@@ -18,12 +18,12 @@
     // setup spell check tasks to use personal dictionary in the proj directory
     {
       "taskName": "spell check all files",
-      "command": "gci *.md -Recurse | foreach { write-output \"\nFile - $($_.FullName)\"; SpellCheckTask $_; }",
+      "command": "gci *.md -Recurse | foreach { write-output \"\nFile - $($_.FullName)\"; OddSpell.exe $_; }",
       "isShellCommand": true,
       "showOutput": "always",
       "isTestCommand": true,
       "problemMatcher": {
-        "owner": "SpellCheckTask",
+        "owner": "OddSpell",
         "severity": "warning",
         "fileLocation": "absolute",
         "pattern": [
@@ -43,11 +43,11 @@
     },
     {
       "taskName": "spell check this file",
-      "command": "Write-Output \"File - ${file}\"; SpellCheckTask \"${file}\";",
+      "command": "Write-Output \"File - ${file}\"; OddSpell \"${file}\";",
       "isShellCommand": true,
       "showOutput": "always",
       "problemMatcher": {
-        "owner": "SpellCheckTask",
+        "owner": "OddSpell",
         "severity": "warning",
         "fileLocation": "absolute",
         "pattern": [
