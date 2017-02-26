@@ -26,7 +26,7 @@
  
 ## Distinctions
 
-  * Technocratic Convention: NWO maybe 
+  * Tradition: Celestial Chorus
   * 
   * 
   * 

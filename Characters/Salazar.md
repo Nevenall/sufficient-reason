@@ -77,7 +77,7 @@
 
   1. What was your awakening like? 
       - I was executed at San Quinton State Prison. Everything before that was confinement. Now I’m out.
-  2. Who was the first to find you and teach you about Magick? 
+  2. Who was the first to find you and teach you about Magick 
       - I remember speaking to the coroner afterwards. It seemed like we talked forever. I don’t remember what he said, only that I understood everything.
   3. Do you still have a relationship with them?
       - I’m pretty sure that I do. I can’t tell you what the coroner looked like, but I know I would recognize him.

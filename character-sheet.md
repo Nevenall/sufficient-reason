@@ -2,9 +2,9 @@
 
 ## {Concept}
 
-## Avatar:  
+## Avatar: Dynamic, Pattern, Primordial, or Questing (rating)
   
-  Rating 1 
+  Characterization of my avatar.
 
 ## Focus
 
@@ -73,7 +73,7 @@
 
 ## Questions & Answers
   1. What was your awakening like?
-  2. Who was the first to find you and teach you about Magick? 
+  2. Who was the first to find you and teach you about Magick?
   3. Do you still have a relationship with them?
   4. Do you know any other Mages in SF?
   5. How much do you know about other Mages?

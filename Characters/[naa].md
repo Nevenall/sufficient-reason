@@ -2,7 +2,7 @@
 
 ## {Concept}
 
-## Avatar:  
+## Avatar (rating)
   
   Rating 1 
 
@@ -70,6 +70,7 @@
   Time 				   | d4	  
 
 ## Backgrounds
+
   If Any
   
 ## Questions & Answers

@@ -1,47 +1,14 @@
 # Working Magick
 
-  Reality may seem like a solid wall to bounce your head against, but it's true nature is far more malleable then that. There are some few people who've awakened to this and with their Will can affect changes in reality. We call this *Magick*.   
+  Magick is a working of Will and whatever you want can come to pass if your have the power to push it through.
 
 ## Effect
   
-  Begin by clearly stating what you will change about reality. This is your narrative *effect* and it may be literally anything. As grand and unlikely as you can imagine, but be warned, the bigger your effect the more dice you'll give reality to resist you. 
+  Clearly state what you wish to happen and pick the number and size of your Effect Dice. This is your narrative *effect* and it can what ever and as large as you wish, but the dice you pick for an Effect will be rolled by Reality to resist your working. 
 
-  It's not a requirement, but if you can define your effect within the context of your magickal *practice* it will be much easier to succeed because you'll be able to add dice from your mundane traits and not just your mystickal ones.
+  If you can define your effect within the context of your magickal *practice* you'll be able to add dice from your mundane traits and not just your mystickal ones.
 
 ## Spheres
-
-  Mysticks traditionally parcel all of reality into nine *spheres* to facilitate their studies. Each sphere represents your understanding of some facet of reality and your ability to manipulate it.  
-
-  Correspondence
-  ~ space, places, and relations between things
-  ~ the distance, real or metaphorical, between you and the target of your spell is a correspondence effect
-
-  Entropy
-  ~ decay, chaos, and probability
-
-  Forces
-  ~ elemental energies: fire, ice, gravity
-  
-  Life
-  ~ things that live
-
-  Matter
-  ~ things that do not live
-
-  Mind
-  ~ sapience 
-
-  Prime
-  ~ primordial energies of reality
-  ~ how long your spell will last is an effect of Prime.
-
-  Spirit
-  ~ Other worlds and their entities. 
-
-  Time
-  ~ Perception and flow of temporal reality.
-
-## Breaking it Down
 
   Once your effect is clear enough to see what Spheres are involved, you can determine dice and roll.  
 

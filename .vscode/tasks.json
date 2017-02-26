@@ -1,7 +1,6 @@
 {
   // See https://go.microsoft.com/fwlink/?LinkId=733558
   // for the documentation about the tasks.json format
-  // A command to compile the ghosting the edge manuscript.docx to markdown
   //  pandoc manuscript.docx -t markdown -o manuscript.md --wrap=none --atx-headers
   "version": "0.1.0",
   "_runner": "terminal",
@@ -15,10 +14,9 @@
       "isBuildCommand": true,
       "showOutput": "always"
     },
-    // setup spell check tasks to use personal dictionary in the proj directory
     {
       "taskName": "spell check all files",
-      "command": "gci *.md -Recurse | foreach { write-output \"\nFile - $($_.FullName)\"; OddSpell.exe $_; }",
+      "command": "gci *.md -Recurse | foreach { write-output \"\nFile - $($_.FullName)\"; OddSpell $_; }",
       "isShellCommand": true,
       "showOutput": "always",
       "isTestCommand": true,

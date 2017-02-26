@@ -2,11 +2,11 @@
 
   Declare what you intend to achieve and how you are going to do it.
 
-  If it does not invoke your Will it is a mundane action and the GM will first set stakes for your action by rolling dice based on either the traits of the NPC(s) opposing you, or the general difficulty of the action.
+  If it does not invoke your Will it is a mundane action and the GM will set stakes first by rolling dice based on either the traits of the NPC(s) opposing you, or the general difficulty of the action.
 
   Once these stakes are set you must meet or beat that total using only your mundane traits: Attributes, Distinctions, Skills, mundane Backgrounds, and Assets.
 
-  You can't use mystic traits when performing a mundane action, but you can use assets created through Will working.
+  You can't use mystick traits when performing a mundane action, but you can use assets created through Will working.
 
   Successful mundane actions will allow you to pick a die to represent your effect. You might use it to inflict stress or a complication. Or, to create an asset you or an ally can use. As usual you can also pay a PP to keep a second effect die.
 
