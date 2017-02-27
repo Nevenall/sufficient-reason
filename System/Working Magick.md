@@ -10,7 +10,7 @@
 
 ## Spheres
 
-  Once your effect is clear enough to see what Spheres are involved, you can determine dice and roll.  
+  Once your effect is clear we'll break it down into Spheres.   
 
   > For example: You need to cross a gap between two building to escape some technocratic agents. Your *Effect* is to take a quick herbal concoction to enhance your musculature, making it possible to leap the distance. This clearly invokes your Occult skill and Herbalism specialty. Enhancing your own body requires using the Life Sphere.
  
