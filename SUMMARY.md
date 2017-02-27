@@ -1,4 +1,4 @@
 # summary
 
 * [System](system/readme.md)
-  * [Making a Mage](system/making a mage.md)
+  * [Making a Mage](System/Making a Mage.md)
