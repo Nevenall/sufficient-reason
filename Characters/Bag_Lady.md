@@ -1,21 +1,21 @@
-# Bag Lady (32 Character Dice)
+# Bag Lady
 
   Her real name is Alba Camber
 
 ## Neuro-spirituality researcher
 
-  She works for a technocratic research outpost attempting to isolate the part of the brain that is responsible for feelings of anxiety and uncertainty.  
+    
 
-## Avatar:  (Rating 1)
+## Avatar:  (Rating 4)
   
-  Alba's eidolon is 
+   A 6' at the shoulder lion with a flowing golden mane. Generally invisible. 
 
 ## Focus
 
   Component   | Focus
   -----------:|:------
   Paradigm    | 
-  Practice    | Dominion, 
+  Practice    | Guttermagick, 
   Instruments | 
 
 ## Attributes
@@ -79,9 +79,18 @@
 
 ## Other Assets
 
-  Tranquilizer Gun d10
+  
 
 ## Notes
 
-  Who is Alba? How much do we need to know. She may not last that long. She came from England. 
-  She has a bit of a nurse Ratchet feel to me. 
+  Alba.
+  She is part of the celestial chorus.
+  Maybe she was a social worker? 
+  Esmerleda is her daugther? that's interesting but what does it mean?
+  they are a little estranged because alba want to help people and esmerelda wants to fight the technocracy.
+  So, we are establishing two mystick factions who have a differenece of opinion about how best to fight the reality war. 
+  there may be others, like those who don't want to be involved. 
+
+  So, who is alba? She's experienced. She's not acting with the crazy. She is powerful, but she has all kinds of her own issues. Maybe psychos.  
+ 
+  She's a protector. She 

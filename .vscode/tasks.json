@@ -2,7 +2,7 @@
   // See https://go.microsoft.com/fwlink/?LinkId=733558
   // for the documentation about the tasks.json format
   //  pandoc manuscript.docx -t markdown -o manuscript.md --wrap=none --atx-headers
-  "version": "0.1.0",
+  "version": "2.0.0",
   "_runner": "terminal",
   "echoCommand": true,
   "tasks": [
