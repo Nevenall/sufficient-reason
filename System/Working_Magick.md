@@ -1,31 +1,45 @@
 # Working Magick
 
-  Magick is a working of Will and whatever you want can come to pass if your have the power to push it through.
+  Magick, Will Working, or simply a Working, is a change, any change, in reality you make through an effort of your Enlightened Will. This change is called an *Effect* and the more clearly you can describe what, and how, you will change reality the better.  
 
 ## Effect
   
-  Clearly state what you wish to happen and pick the number and size of your Effect Dice. This is your narrative *effect* and it can what ever and as large as you wish, but the dice you pick for an Effect will be rolled by Reality to resist your working. 
+  Clearly state what you wish to happen and pick your Effect Dice. These may be any number of dice of any size larger then d6, you may even choose an effect die larger then d12. The larger an Effect Die the grander the effect of your spell. 
+  
+  If you wish to affect more then one target you may choose multiple Effect Dice. Effect Dice may be similar, such as two d8 Fireballs, but they can also be unrelated. For example, d10 life draining and d8 healing for yourself. 
 
-  If you can define your effect within the context of your magickal *practice* you'll be able to add dice from your mundane traits and not just your mystickal ones.
+  You may choose any effect dice you wish, but keep in mind Reality will be rolling these dice to attempt to counter your working. 
+
+### Focused Magick
+
+  If you can describe how you achieve your *effect* within the context of your magickal *practice* you may add dice from your mundane traits, and not just your magickal ones. 
+  
+  > For example, if your practice is witchcraft you might describe collecting some physical token of your victim and creating a poppet with it which you poke with needles. Describing your effect in terms of your practice in this way will allow you to add your Mental, Occult, and your 
+
+### Raw Magick
+
+  Mages occasionally perform their workings with pure will and nothing else. Such Raw Magick transcends your practice and allows you to affect change without needing to follow the patterns and strictures of your practice. It is quicker and simpler, but more dangerous and difficult becuase only your Mystickal traits, usually just Arete and Spheres, can be used. 
 
 ## Spheres
 
-  Once your effect is clear we'll break it down into Spheres.   
+  Once your effect is clear enough we'll determine how complex it is by determining which Spheres and at which rank it will require.
 
   > For example: You need to cross a gap between two building to escape some technocratic agents. Your *Effect* is to take a quick herbal concoction to enhance your musculature, making it possible to leap the distance. This clearly invokes your Occult skill and Herbalism specialty. Enhancing your own body requires using the Life Sphere.
  
   > Alternately: You might calculate the coordinates of the rooftop you wish to be on and run a quick script on your wrist computer to alter your token's position in the virtual reality simulation that is reality; effectively teleporting across the distance. This accomplishes the same goal, but clearly uses Technology and the sphere of Correspondence.   
 
-  Once your *Effect* is clear enough that you can assemble a dice pool for your action, you'll roll and determine a *total* for reality to attempt to meet or beat with dice based on how radical and complex your *Effect* is. 
-
-  If reality's total fails to meet or beat the total for your effect, then your working will succeed. You may generate some Paradox from a successful effect, but if your effect fails you are guaranteed to generate Paradox.
-  
-  Once you have a clear intent for your Effect break it down into discrete component Spheres and determine the level required from each Sphere.
-
   It is possible for your Effect to have multiple components of the same Sphere.
   
-  > For example, if your magickal attack has a d8 Fire effect and a d8 electricity effect, you have two Forces 3 components.
-  > In this case you add your Forces trait once, and reality get 2d8 to resist your working.
+  > For example, if your magickal attack has a d8 Fire effect and a d8 electricity effect, you are controlling two distinct Forces which requires two d8 Forces components.
+  > If 
+
+  Rank | Ability      | Description
+  ----:|:------------:|:-----------
+  d4   | Perception   | Observe and perceive elements of this Sphere beyond any mortal ken. 
+  d6   | Manipulation | Make small changes to existing elements of this Sphere.
+  d8   | Control      | Create noticable effects with elements of this Sphere. This rank is generally for an effect to cause damage. 
+  d10  | Command      | Create major effects. This rank is typically required to cause signifigant changes to the patterns of others.  
+  d12  | Mastery      | Command vast effects with the elements of this Sphere.
 
 ## Range
 
@@ -53,31 +67,11 @@
   d10   | Lasts until the next dusk/dawn.
   d12   | Lasts for a Season.
 
-## Scope
-
-  {I have an outstanding question about if scope is a thing. It may very well be a part of the effect die. but it could be a separate thing for you to have to deal with. A d12 effect might be strong but it might also be limited in scope to a single target. If you keep your scope limited to yourself, then reality will generate more opportunities for you to activate. Which is }
-  How large and widespread is your effect?
-
-  Trait | Scope
-  -----:|------
-  D4    | Only yourself
-  D6    | One person
-  D8    | A crowd
-  D10   | A Building
-  D12   | Takes longer than the scene.
-
-
-
-
 
 
 ## Casting Time
 
-## Focused Magick
-
-  Your focus describes a belief about how reality works and also concrete ways through which you focus the power of your beliefs to shape reality to better fit your belief.
-
-  Focused magick is much easier to accomplish because it allows you to enlist dice from mundane traits such as skills and attributes in your working. The drawback is that your *Effect* is limited by your belief and especially the nature of your practice. If suddenly growing armored skin is not an *Effect* that fits into your Focus, then it's not a *Effect* you can accomplish with Focused Magick.   
+  Your practice will often dictate how long it takes to perform Magick but when you 
 
 
 ### Focused Magick Dice Pool

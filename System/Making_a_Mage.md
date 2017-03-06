@@ -52,11 +52,6 @@
 
   Skills are mundane traits that represent distinct areas of expertise and training.
 
-### Specialties
-
-  *Spend Character Dice to add Specialties to a Skill up to d12.*
-
-  Each skill is intentionally broad. Specialties represent more focused knowledge and training. A Specialty is less likely to be useful, but when it is, you can add it to your action pool along with the Skill it specializes.
 
   Skill              | Description
   ------------------:|:-------
@@ -80,6 +75,12 @@
     **Survival**     | Surviving outside the bounds of civilization. Including first aid and herbs.
     **Technology**   | Computers and technological devices.
 
+### Specialties
+
+  *Spend Character Dice to add Specialties to a Skill, up to d12.*
+
+  Each skill is intentionally broad. Specialties represent more focused knowledge and training. A Specialty is less likely to be useful, but when it is, you can add it to your action pool along with the Skill it specializes.
+
 ## Arete
 
   *Arete starts at 'Sleep Walker' d4. You may spend Character Dice to increase it up to d12.*
@@ -98,8 +99,6 @@
 
   The nine Spheres are mystick traits that represent your experience and ability affecting a specific facet of reality.
 
-  Each magickal Effect will be broken down into the one or more Spheres required to cause it.
-
   Sphere                | Description
   ---------------------:|:-----------------------------------------------
     **Correspondence**  | Understanding of the connections between places, spaces, and things.
@@ -111,6 +110,12 @@
     **Prime**           | Control over primordial energies.
     **Spirit**          | Contact with Otherworldly spaces and entities.
     **Time**            | Perception of, and influence over, temporal states and time-based phenomena.
+
+### Specialties
+
+  *Spend Character Dice to add Specialties to a Sphere, up to d12. No specialty can be higher then your Arete.*
+
+  Mages may develop specialties in specific aspects of a Sphere. 
 
 ## Backgrounds
 
