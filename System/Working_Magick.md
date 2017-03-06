@@ -4,11 +4,21 @@
 
 ## Effect
   
-  Clearly state what you wish to happen and pick your Effect Dice. These may be any number of dice of any size larger then d6, you may even choose an effect die larger then d12. The larger an Effect Die the grander the effect of your spell. 
+  Clearly state what you wish to happen and pick your Effect Dice. These may be any number of dice of any size, you may even choose an effect die larger then d12. The larger an Effect Die the grander the effect of your spell. 
   
   If you wish to affect more then one target you may choose multiple Effect Dice. Effect Dice may be similar, such as two d8 Fireballs, but they can also be unrelated. For example, d10 life draining and d8 healing for yourself. 
 
   You may choose any effect dice you wish, but keep in mind Reality will be rolling these dice to attempt to counter your working. 
+
+  Effect Die | Scope
+  ----------:|:-----
+  d4         | 
+  d6         | 
+  d8         | 
+  d10        | 
+  d12        | 
+
+  Table: Generic Effect Die rating
 
 ### Focused Magick
 
@@ -30,16 +40,54 @@
 
   It is possible for your Effect to have multiple components of the same Sphere.
   
-  > For example, if your magickal attack has a d8 Fire effect and a d8 electricity effect, you are controlling two distinct Forces which requires two d8 Forces components.
-  > If 
-
+  > For example, if you combine a d8 fire attack with a d8 levitation asset, you are controlling two distinct Forces which requires two d8 Forces components.
+  
   Rank | Ability      | Description
   ----:|:------------:|:-----------
   d4   | Perception   | Observe and perceive elements of this Sphere beyond any mortal ken. 
   d6   | Manipulation | Make small changes to existing elements of this Sphere.
-  d8   | Control      | Create noticable effects with elements of this Sphere. This rank is generally for an effect to cause damage. 
-  d10  | Command      | Create major effects. This rank is typically required to cause signifigant changes to the patterns of others.  
+  d8   | Control      | Create noticeable effects with elements of this Sphere. This rank is generally for an effect to cause damage. 
+  d10  | Command      | Create major effects. This rank is typically required to cause significant changes to the patterns of others.  
   d12  | Mastery      | Command vast effects with the elements of this Sphere.
+  
+  Table: Generic Sphere Ranks
+
+### Targeting
+
+  Without extra effort the effects of magick are localized to the mage and their most immediate environment. However, by adding a Correspondence component it is possible to make an effect reach a target or location at any distance. With the addition of Spirit the spell can reach into other worlds as well. 
+
+  Targeting through correspondence can be a matter of pure distance, but it can also be a matter of reaching the target though intimate relations. The classic spell upon a lock of their hair, is an example of Relation from the Practice of Witchcraft. 
+
+  Rank | Distance (Correspondence)      | Relation (Correspondence) 
+  ----:|:-------------------------------|:--------------------------
+  None | Touch to immediate vicinity    | Yourself
+  d4   | something like                 | Very close. Many different kinds of relation. A lover. 
+  d6   |                                | 
+  d8   |                                |
+  d10  |                                |
+  d12  |                                | Distance. One trivial kind of relation. These are the same color object. We are both human.
+
+  Table: Targeting Magick by Distance or Relation with Correspondence
+
+  Rank | Extra-dimensionality (Spirit) 
+  ----:|:---------------------------
+  None | Only the Mage's current locality and beings manifest upon it.
+  d4   | Can only perceive. 
+  d6   | can target spirits or their dimensions.
+  d8   |
+  d10  |
+  d12  |
+
+  Table: Targeting Spirits and other Dimensions with Spirit
+
+### Duration
+
+
+### Other Meta-effects
+
+  This might be a discussion about other meta-effects such as a timebomb spell, or a triggered trap. 
+
+
 
 ## Range
 

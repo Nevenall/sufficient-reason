@@ -9,3 +9,7 @@
   - [Making a Mage](System/Making_a_Mage.md)
   - [Mundane Actions](System/Mundane_Actions.md) 
   - [Working Magick](System/Working_Magick.md)
+- [Characters](Characters/readme.md)
+  - [John Daulx](Characters/John_Daulx.md)
+  - [Joseph Nix](Characters/Joseph_Nix.md)
+  - [Salazar](Characters/Salazar.md)
