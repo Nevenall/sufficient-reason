@@ -4,19 +4,23 @@
 
 ## Effect
   
+  {maybe transition from effect to feat. Feat especially for the effect die size of things}
+
   Clearly state what you wish to happen and pick your Effect Dice. These may be any number of dice of any size, you may even choose an effect die larger then d12. The larger an Effect Die the grander the effect of your spell. 
   
   If you wish to affect more then one target you may choose multiple Effect Dice. Effect Dice may be similar, such as two d8 Fireballs, but they can also be unrelated. For example, d10 life draining and d8 healing for yourself. 
 
   You may choose any effect dice you wish, but keep in mind Reality will be rolling these dice to attempt to counter your working. 
 
-  Effect Die | Scope
-  ----------:|:-----
-  d4         | 
-  d6         | 
-  d8         | 
-  d10        | 
-  d12        | 
+  Effect Die | Feat       | Examples
+  ----------:|:----------:|:-----------
+  d4         | Simple     | 
+  d6         | Standard   | 
+  d8         | Difficult  | 
+  d10        | Impressive | 
+  d12        | Mighty     | 
+             | Outlandish |
+             | Godlike    |
 
   Table: Generic Effect Die rating
 
@@ -58,6 +62,10 @@
 
   Targeting through correspondence can be a matter of pure distance, but it can also be a matter of reaching the target though intimate relations. The classic spell upon a lock of their hair, is an example of Relation from the Practice of Witchcraft. 
 
+
+
+  
+
   Rank | Distance (Correspondence)      | Relation (Correspondence) 
   ----:|:-------------------------------|:--------------------------
   None | Touch to immediate vicinity    | Yourself
@@ -86,34 +94,6 @@
 ### Other Meta-effects
 
   This might be a discussion about other meta-effects such as a timebomb spell, or a triggered trap. 
-
-
-
-## Range
-
-  The Range of your Effect will be a Correspondence component.
-  The distance your effect will reach across. \[this is a targeting kind of thing\]
-
-  Trait | Range
-  -----:|-------
-  D4    | Only yourself.
-  D6    | Takes your action. Pass the initiative.
-  D8    | Takes this action and your next one.
-  D10   | Takes the scene.
-  D12   | Takes longer than the scene.
-
-## Duration
-
-  The Duration of your Effect will be Prime component.
-  How long will your effect last?
-
-  Trait | Duration
-  -----:|---------
-  d4    | No Time. Lasts only long enough for a reaction.
-  d6    | Lasts until your next action.
-  d8    | Lasts for a Scene.
-  d10   | Lasts until the next dusk/dawn.
-  d12   | Lasts for a Season.
 
 
 
