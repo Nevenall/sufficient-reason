@@ -2,21 +2,21 @@
 
   Her real name is Alba Camber
 
-## Neuro-spirituality researcher
+## Cracked up Former Party Girl with a Big Heart
 
-    
+  Alba was a 
 
-## Avatar:  (Rating 4)
-  
-   A 6' at the shoulder lion with a flowing golden mane. Generally invisible. 
+## Avatar 4 - Pattern
+
+   A giant lion with a flowing golden mane.  
 
 ## Focus
 
   Component   | Focus
   -----------:|:------
-  Paradigm    | 
-  Practice    | Guttermagick, 
-  Instruments | 
+  Paradigm    | It's All Good
+  Practice    | Guttermagick and Faith
+  Instruments | Discarded items of faith, prayer, obscure symbology, drugs 
 
 ## Attributes
 
@@ -27,70 +27,58 @@
 ## Distinctions
 
   * Tradition: Celestial Chorus
-  * 
+  * I was *the* party girl and I know my pharmaceuticals.  
   * 
   * 
 
 ## Skills
 
-  Skill 			| Trait | Specialties
-  --------------:|:------|:------------
-  Academics 		| d8	  |
-  Art 			    | d4	  |
-  Athletics 		| d6	  |
-  Cosmology 		| d4	  |
+  Skill 			  | Trait | Specialties
+  -------------:|:------|:------------
+  Academics 		| d6	  |
+  Art 			    | d8	  |
+  Athletics 		| d4	  |
+  Cosmology 		| d10	  |
   Craft 			  | d4	  |
   Drive 			  | d6	  |
   Etiquette 		| d4	  |
   Fight 			  | d4	  |
-  Focus 			  | d8	  |
-  Influence 		| d10	  |
-  Investigation | d8	  |
-  Occult  			| d4	  |
-  Science  		  | d10	  |
-  Shoot  			  | d8	  |
-  Stealth  		  | d6	  |
-  Streetwise  	| d6	  |
+  Focus 			  | d4	  |
+  Influence 		| d4	  |
+  Investigation | d6	  |
+  Occult  			| d10	  | 
+  Science  		  | d6	  | Pharmaceuticals d8
+  Shoot  			  | d6	  |
+  Stealth  		  | d8	  |
+  Streetwise  	| d10	  |
   Subterfuge  	| d8	  |
-  Survival  		| d4	  |
-  Technology 		| d8	  |
+  Survival  		| d8	  |
+  Technology 		| d4	  |
 
 ## Arete
 
-  d8
+  d12
 
 ## Spheres
 
-  Sphere 			   | Trait 
-  --------------:|:------
-  Correspondence | d4	  
-  Entropy 			 | d4	  
-  Forces 			   | d4	  
-  Life 				   | d4	  
-  Matter 			   | d4	  
-  Mind 				   | d8	  
-  Prime 			   | d6	  
-  Spirit 			   | d8	  
-  Time 				   | d4	  
+  Sphere 			   | Trait | Specialties
+  --------------:|:------|:------------
+  Correspondence | d4	   |
+  Entropy 			 | d6	   |
+  Forces 			   | d6	   |
+  Life 				   | d8	   |
+  Matter 			   | d4	   |
+  Mind 				   | d8	   |
+  Prime 			   | d6	   |
+  Spirit 			   | d10	 | Spirit Dealings d8
+  Time 				   | d4	   |
 
 ## Backgrounds
 
-  Arcane d8
+  Arcane d8, Sanctum d6
 
 ## Other Assets
 
-  
-
 ## Notes
 
-  Alba.
-  She is part of the celestial chorus.
-  Maybe she was a social worker? 
-  Esmerleda is her daugther? that's interesting but what does it mean?
-  they are a little estranged because alba want to help people and esmerelda wants to fight the technocracy.
-  So, we are establishing two mystick factions who have a differenece of opinion about how best to fight the reality war. 
-  there may be others, like those who don't want to be involved. 
-
-  So, who is alba? She's experienced. She's not acting with the crazy. She is powerful, but she has all kinds of her own issues. Maybe psychos.  
- 
-  She's a protector. She 
+  

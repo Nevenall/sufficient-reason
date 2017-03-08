@@ -10,7 +10,7 @@
 
   *Pick a type (Dynamic, Pattern, Primordial, or Questing) and characterize your avatar a bit.*
 
-  *Avatar 1 costs 0d6, Avatar 2 costs 1d6, 3 costs 2d6, 4 costs 4d6, 5 costs 8d6.*
+  *Avatar 1 costs 0d6, Avatar 2 costs 1d6, 3 costs 2d6, 4 costs 4d6, 5 costs 8d6, 6 costs 16d6*
 
   There is something different about you. You have a spiritual guide. Some call it an over-soul, a spark of divinity, a guardian angel, a loa, a genius, or even a familiar. This is your Avatar and it came to you one dark night to led you towards answers you didn't have the words to ask for. It showed you that your beliefs have the power change reality. It showed you how to make Magick.
 

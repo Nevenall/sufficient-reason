@@ -13,11 +13,6 @@
 >On the other hand most of the Mystickal practices seem very out of place, because they are. 
 >By core challenge I mean: Mystickal practices have an uphill battle to fight against reality because they don't fit in. It's hard to believe that just waving a wand and a sword around are enough, so, high ritual magick "works" by requiring very exacting precision and attention to detail. You can maybe think about the core challenge of a practice as the reason why mages who do it believe it works. And it's also an excuse for why a particular working fails. "I didn't pronounce the invocation exactly right." 
 
-
-
-  
-  
-
 ## Paradigms
 
   Your paradigm is a sweeping elemental belief about the true nature of reality and therefore what Magick is and how it works. Each one has much room for your mage's own specifics and elaborations. Some mages have a strong and clear belief in a single paradigm, others have a less certain blend of several. 
