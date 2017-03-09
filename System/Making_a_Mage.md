@@ -45,25 +45,27 @@
 
   Skill              | Description
   ------------------:|:-------
-    **Academics**    | Any mundane areas of knowledge.
-    **Art**          | Creating art and expressing a truth through it.
-    **Athletics**    | Running, swimming, catching, throwing, acrobatics.
-    **Cosmology**    | Knowledge of other worlds, dimensions, planes of being; their inhabitants, and how to navigate them.
-    **Craft**        | Build and repair things.
-    **Drive**        | Drive various vehicles.
-    **Etiquette**    | Social grace and fitting in with various groups.
-    **Fight**        | Hand to hand and melee weapons.
-    **Focus**        | Relax, center, breath.
-    **Influence**    | Empathy, intimidation, seduction, leadership, expression.
-    **Investigation** | Investigation and research.
-    **Occult**       | The history and practices of mystick traditions. A useful default skill for many kinds of mystick actions.
-    **Science**      | Scientific disciplines and modern medicine.
-    **Shoot**        | Ranged weapons.
-    **Stealth**      | Sneaking and hiding.
-    **Streetwise**   | The criminal underworld, is history, how to contact them, and how to make deals with them.
-    **Subterfuge**   | Lies, confidence games, and winning people's trust.
-    **Survival**     | Surviving outside the bounds of civilization. Including first aid and herbs.
-    **Technology**   | Computers and technological devices.
+  **Academics**      | Any mundane areas of knowledge.
+  **Art**            | Creating art and expressing a truth through it.
+  **Athletics**      | Running, swimming, catching, throwing, acrobatics.
+  **Cosmology**      | Knowledge of other worlds, dimensions, planes of being; their inhabitants, and how to navigate them.
+  **Craft**          | Build and repair things.
+  **Drive**          | Drive various vehicles.
+  **Etiquette**      | Social grace and fitting in with various groups.
+  **Fight**          | Hand to hand and melee weapons.
+  **Focus**          | Relax, center, breath.
+  **Influence**      | Empathy, intimidation, seduction, leadership, expression.
+  **Investigation**  | Investigation and research.
+  **Occult**         | The history and practices of mystick traditions. A useful default skill for many kinds of mystick actions.
+  **Science**        | Scientific disciplines and modern medicine.
+  **Shoot**          | Ranged weapons.
+  **Stealth**        | Sneaking and hiding.
+  **Streetwise**     | The criminal underworld, is history, how to contact them, and how to make deals with them.
+  **Subterfuge**     | Lies, confidence games, and winning people's trust.
+  **Survival**       | Surviving outside the bounds of civilization. Including first aid and herbs.
+  **Technology**     | Computers and technological devices.
+
+  Table: Skills 
 
 ### Specialties
 
@@ -91,15 +93,17 @@
 
   Sphere                | Description
   ---------------------:|:-----------------------------------------------
-    **Correspondence**  | Understanding of the connections between places, spaces, and things.
-    **Entropy**         | Study of mortality, probability, and chaos.
-    **Forces**          | Command over elemental energies.
-    **Life**            | Influence over organic beings and the physical structures of living bodies.
-    **Matter**          | Control of inert materials, objects, and solid elemental structures.
-    **Mind**            | Influence over emotions and thoughts, including the ability to project consciousness from one’s physical body.
-    **Prime**           | Control over primordial energies.
-    **Spirit**          | Contact with Otherworldly spaces and entities.
-    **Time**            | Perception of, and influence over, temporal states and time-based phenomena.
+  **Correspondence**   | Understanding of the connections between places, spaces, and things.
+  **Entropy**          | Study of mortality, probability, and chaos.
+  **Forces**           | Command over elemental energies.
+  **Life**             | Influence over organic beings and the physical structures of living bodies.
+  **Matter**           | Control of inert materials, objects, and solid elemental structures.
+  **Mind**             | Influence over emotions and thoughts, including the ability to project consciousness from one’s physical body.
+  **Prime**            | Control over primordial energies.
+  **Spirit**           | Contact with Otherworldly spaces and entities.
+  **Time**             | Perception of, and influence over, temporal states and time-based phenomena.
+
+  Table: Spheres
 
 ### Specialties
 
@@ -115,25 +119,27 @@
 
   Many of them are external to the character.
 
-  Some Backgrounds can be shared by a cabal meaning each mage contributes some number of Character Dice that are pooled together to determine the size of the trait. Shared backgrounds with more then 8 Character Dice invested use the [Traits beyond d12](#traits-beyond-d12) rule.
-
+  Some Backgrounds can be shared by a cabal meaning each mage contributes one or more traits of whatever size they wish that are then pooled together to represent the various benefits of that background. 
+  
   Background    | Description
   -------------:|:-----------
-    **Allies, Contacts, Backup, Gang, Cult, Servants, Spies, Retainers**| These might be magickal constructs who do your dishes and laundry, a cult of fanatic but mortal worshippers who do your bidding without question, a coven of other Mages you have a friendly relationship with, or it might simply be a mortal friend who works for the DMV.  
-    **Arcane** | Gives a Mage an aura that makes them hard to find, detect, and even remember. Arcane can be used for stealth actions but also for just about any attempt to avoid detection including by electronic devices. It also means that the Mage will fade away from recording devices and the memories of beings. The larger the trait the faster and more completely it will happen.
-    **Chantry** | A permanent base of operations for a cabal of Mages. Usually positioned on or near a Node. Which is a separate Trait.
-    **Demesne** | Personal inner-dream realm.
-    **Dreaming** | You can tap into a well of mundane knowledge. Once per session you can turn your Dreaming die into any mundane skill or specialty that you wish and use it as such for the rest of the session.
-    **Fame, Influence, Rank** | You have recognition or power in the mundane world.
-    **Familiar, Companion** | Familiars are quite useful. You have to feed them Quintessence regularly, but they can eat your paradox and also help you with mundane and mystickal tasks.
-    **Library** | You have a collection of materials, commonly books, that can help you advance your mystick traits or research other magickal topics.
-    **Mentor** | You have a relationship with a more experienced Mage who provides you some guidance and training.
-    **Node** | A Node is a place where Quintessence collects. Nodes have a Resonance which affects the flavor of their energies and especially the physical form of Tass produced from that Node. A Node can hold at most 1 Quintessence per d6 invested. The Node's Quintessence will regenerate in full each week. Generally a Node's Quintessence will simply wait to be absorbed, but on occasion some amount of it will discharge into a physical form called Tass that can be stored or carried by a Mage, while the unbound Quintessence of the Node regenerates. Mage's skilled in Prime and Matter or Prime and Life can perform workings to coax Quintessence from a Node into Tass and so create a stock pile of magickal energies.
-    **Patron** | Someone (or thing) in a position of power who has an interest in helping you.
-    **Resources** | You have mundane wealth.
-    **Sanctum** | A permanent place, sometimes in a chantry, that is aligned to your Focus instead of the Consensus. A Sanctum makes magick based on your Focus consequential and very useful for extended workings.
-    **Status** | Favored position among other Mages.
-    **Wonders** | Magical items.
+  **Allies, Contacts, Backup, Gang, Cult, Servants, Spies, Retainers** | These might be magickal constructs who do your dishes and laundry, a cult of fanatic but mortal worshippers who do your bidding without question, a coven of other Mages you have a friendly relationship with, or it might simply be a mortal friend who works for the DMV.  
+  **Arcane**    | Gives a Mage an aura that makes them hard to find, detect, and even remember. Arcane can be used for stealth actions but also for just about any attempt to avoid detection including by electronic devices. It also means that the Mage will fade away from recording devices and the memories of beings. The larger the trait the faster and more completely it will happen.
+  **Chantry**   | A permanent base of operations for a cabal of Mages. Usually positioned on or near a Node. Which is a separate Trait.
+  **Demesne**   | Personal inner-dream realm.
+  **Dreaming**  | You can tap into a well of mundane knowledge. Once per session you can turn your Dreaming die into any mundane skill or specialty that you wish and use it as such for the rest of the session.
+  **Fame, Influence, Rank** | You have recognition or power in the mundane world.
+  **Familiar, Companion** | Familiars are quite useful. You have to feed them Quintessence regularly, but they can eat your paradox and also help you with mundane and mystickal tasks.
+  **Library**   | You have a collection of materials, commonly books, that can help you advance your mystick traits or research other magickal topics.
+  **Mentor**    | You have a relationship with a more experienced Mage who provides you some guidance and training.
+  **Node**      | A Node is a place where Quintessence collects. Nodes have a Resonance which affects the flavor of their energies and especially the physical form of Tass produced from that Node. A Node can hold at most 1 Quintessence per d6 invested. The Node's Quintessence will regenerate in full each week. Generally a Node's Quintessence will simply wait to be absorbed, but on occasion some amount of it will discharge into a physical form called Tass that can be stored or carried by a Mage, while the unbound Quintessence of the Node regenerates. Mage's skilled in Prime and Matter or Prime and Life can perform workings to coax Quintessence from a Node into Tass and so create a stock pile of magickal energies.
+  **Patron**    | Someone (or thing) in a position of power who has an interest in helping you.
+  **Resources** | You have mundane wealth.
+  **Sanctum**   | A permanent place, sometimes in a chantry, that is aligned to your Focus instead of the Consensus. A Sanctum makes magick based on your Focus consequential and very useful for extended workings.
+  **Status**    | Favored position among other Mages.
+  **Wonders**   | Magical items.
+
+  Table: Backgrounds
 
 ## Character Dice
 
@@ -141,21 +147,28 @@
 
   Cost (d6) |  Die
   ----------| ----
-    1/2     | d4
-    1       | d6
-    2       | d8
-    4       | d10
-    8       | d12
+  1/2*      | d4 (typically you get d4 for free)
+  1         | d6
+  2         | d8
+  4         | d10
+  8         | d12
+
+  Table: Cost of Traits in Character Dice (d6)
 
 ### Traits beyond d12
 
-  Some traits allow you to invest more than 8 Character Dice. Extra points are applied to a second die for that trait.
+  More powerful characters may reach traits that go beyond a d12. In these cases additional dice can be added to the trait to extend it beyond d12. 
+  
+  The cost for a second die is double the cost of the original. If, somehow, a third die is added the cost for that is 4x the original 
 
-  Cost (d6) | Dice
-  ----------|-----
-    9       | d12, d6
-    10      | d12, d8
-    12      | d12, d10
-    16      | d12, d12
+  Cost (d6)    | Dice
+  -------------|-----
+  10 (8+2)     | d12, d6
+  14 (8+4)     | d12, d8
+  12 (8+8)     | d12, d10
+  16 (8+16)    | d12, d12
+  20 (8+16+4)  | d12, d12, d6
+  32 (8+16+8)  | d12, d12, d8
 
+  Table: Cost of Traits Beyond d12 
 

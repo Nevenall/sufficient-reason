@@ -12,15 +12,17 @@
 
   You may choose any effect dice you wish, but keep in mind Reality will be rolling these dice to attempt to counter your working. 
 
-  Effect Die | Feat       | Examples
-  ----------:|:----------:|:-----------
-  d4         | Simple     | 
-  d6         | Standard   | 
-  d8         | Difficult  | 
-  d10        | Impressive | 
-  d12        | Mighty     | 
-             | Outlandish |
-             | Godlike    |
+  Successes | Effect Dice | Feat       | Examples
+  :--------:|:-----------:|:----------:|:---------
+   1          d4          | Simple     | 
+   2          d6          | Standard   | 
+   3          d8          | Difficult  | 
+   4          d10         | Impressive | 
+   5          d12         | Mighty     | 
+   6          d12,d4      | Outlandish |
+   7          d12,d6      |            |
+   10         2d12        | Godlike    |
+   20         4d12        |            |
 
   Table: Generic Effect Die rating
 
@@ -60,11 +62,7 @@
 
   Without extra effort the effects of magick are localized to the mage and their most immediate environment. However, by adding a Correspondence component it is possible to make an effect reach a target or location at any distance. With the addition of Spirit the spell can reach into other worlds as well. 
 
-  Targeting through correspondence can be a matter of pure distance, but it can also be a matter of reaching the target though intimate relations. The classic spell upon a lock of their hair, is an example of Relation from the Practice of Witchcraft. 
-
-
-
-  
+  Targeting through Correspondence can be a matter of pure distance, but it can also be a matter of reaching the target though intimate relations. The classic spell upon a lock of their hair is an example of Relational Correspondence from the Practice of Witchcraft. 
 
   Rank | Distance (Correspondence)      | Relation (Correspondence) 
   ----:|:-------------------------------|:--------------------------
@@ -90,12 +88,25 @@
 
 ### Duration
 
+  Magick may have long lasting side-effects, but reality will relentlessly errode the effect itself unless the Mage constantly supports it with Quintessence.
+
+  Without support an effect lasts a short while, typically the length of an action. A mage can spend a point of Quintessnce to make an effect endure for the length of a scene. Or mages who have skill in sphere of Prime may tether their effects to the universal energy of creation and make them last longer them a moment.
+
+  Rank | Duration (Prime)
+  ----:|:-----------------
+  None | Only a moment
+  d4   |
+  d6   |
+  d8   |
+  d10  |
+  d12  |
+
+  Table: Extending the duration of magickal effects with Prime  
 
 ### Other Meta-effects
 
-  This might be a discussion about other meta-effects such as a timebomb spell, or a triggered trap. 
-
-
+  This might be a discussion about other meta-effects such as a timebomb spell, or a triggered trap.
+  Also, weaving an ongoing effect into a pattern. Light spell upon their shield. 
 
 ## Casting Time
 
