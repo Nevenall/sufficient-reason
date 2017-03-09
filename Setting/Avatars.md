@@ -1,8 +1,8 @@
 # Avatars 
 
-    As a Mage there is something different about you. You have a spiritual guide, some call it an over-soul, a spark of divinity, a guardian angel, a loa, a genius, a powerful past life, or even a familiar. This is your Avatar and it came to you one dark night to led you towards answers you didn't have the words to ask for. It showed you that your beliefs have the power change reality. It showed you how to make Magick.
+  As a Mage there is something different about you. You have a spiritual guide, some call it an over-soul, a spark of divinity, a guardian angel, a loa, a genius, a powerful past life, or even a familiar. This is your Avatar and it came to you one dark night to led you towards answers you didn't have the words to ask for. It showed you that your beliefs have the power change reality. It showed you how to make Magick.
 
-    Depending on the circumstances, Avatars can be subtle nudges and intuitions, a spiritual dissatisfaction, or a fully embodied presence dispensing obscure wisdom. Regardless of their form, avatars have a distinct nature, or personality, which can shape a mage in a similar way, or be something they are constantly fighting. 
+  Depending on the circumstances, Avatars can be subtle nudges and intuitions, a spiritual dissatisfaction, or a fully embodied presence dispensing obscure wisdom. Regardless of their form, avatars have a distinct nature, or personality, which can shape a mage in a similar way, or be something they are constantly fighting. 
 
 ## Dynamic 
 
