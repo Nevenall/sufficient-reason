@@ -8,27 +8,17 @@
 
 ## Avatar
 
-  *Pick a type (Dynamic, Pattern, Primordial, or Questing) and characterize your avatar a bit.*
+  *Pick a type [Dynamic, Pattern, Primordial, or Questing](../Setting/Avatars.md) and characterize your avatar a bit.*
 
   *Avatar 1 costs 0d6, Avatar 2 costs 1d6, 3 costs 2d6, 4 costs 4d6, 5 costs 8d6, 6 costs 16d6*
-
-  There is something different about you. You have a spiritual guide. Some call it an over-soul, a spark of divinity, a guardian angel, a loa, a genius, or even a familiar. This is your Avatar and it came to you one dark night to led you towards answers you didn't have the words to ask for. It showed you that your beliefs have the power change reality. It showed you how to make Magick.
-
-  For some mages their Avatar is a subtle nudge or intuition, for other's it's a fully embodied entity.
 
   Avatar is a mystickal rating of how much personal Quintessence you can hold and how much, from any source, you can spend on a single magickal action.
 
 ## Focus
 
-  *Pick a Paradigm, at least one Magickal practice, and 7 Instruments.*
+  *Pick a [Paradigm, at least one Magickal practice, and 7 Instruments](../Setting/Focus.md)*
 
-  What does the mage believe? = paradigm
-
-  How does the mage turn belief into action? = practice
-
-  What does the mage use in that practice? = instruments
-
-  All combined = focus.
+  Focus encompasess both your fundamental beliefs about reality, and the nuts and bolts of how you perform magick.  
 
 ## Attributes
 
