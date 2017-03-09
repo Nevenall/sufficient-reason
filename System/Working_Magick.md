@@ -14,15 +14,15 @@
 
   Successes | Effect Dice | Feat       | Examples
   :--------:|:-----------:|:----------:|:---------
-   1          d4          | Simple     | 
-   2          d6          | Standard   | 
-   3          d8          | Difficult  | 
-   4          d10         | Impressive | 
-   5          d12         | Mighty     | 
-   6          d12,d4      | Outlandish |
-   7          d12,d6      |            |
-   10         2d12        | Godlike    |
-   20         4d12        |            |
+   1        | d4          | Simple     | 
+   2        | d6          | Standard   | 
+   3        | d8          | Difficult  | 
+   4        | d10         | Impressive | 
+   5        | d12         | Mighty     | 
+   6        | d12,d4      | Outlandish |
+   7        | d12,d6      |            |
+   10       | 2d12        | Godlike    |
+   20       | 4d12        |            |
 
   Table: Generic Effect Die rating
 
