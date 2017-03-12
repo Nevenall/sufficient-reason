@@ -64,14 +64,15 @@
 
   Targeting through Correspondence can be a matter of pure distance, but it can also be a matter of reaching the target though intimate relations. The classic spell upon a lock of their hair is an example of Relational Correspondence from the Practice of Witchcraft. 
 
-  Rank | Distance (Correspondence)      | Relation (Correspondence) 
-  ----:|:-------------------------------|:--------------------------
-  None | Touch to immediate vicinity    | Yourself
-  d4   | something like                 | Very close. Many different kinds of relation. A lover. 
-  d6   |                                | 
-  d8   |                                |
-  d10  |                                |
-  d12  |                                | Distance. One trivial kind of relation. These are the same color object. We are both human.
+  Rank    | Distance (Correspondence)      | Relation (Correspondence) 
+  -------:|:-------------------------------|:--------------------------
+  None    | Touch to immediate vicinity    | Yourself. 
+  d4      | something like                 | A fresh body sample of your target.
+  d6      |                                | A boon companion. A meaningful posession of your target. 
+  d8      |                                | A casual friend. An posession of your target. 
+  d10     |                                | A casual aquantaince. A object your target touched.  
+  d12     |                                | Distance. One trivial kind of relation. These are the same color object. We are both human.
+  d12, d6 | Anywhere on earth              | No connection.
 
   Table: Targeting Magick by Distance or Relation with Correspondence
 
