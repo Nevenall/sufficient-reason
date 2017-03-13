@@ -67,11 +67,11 @@
   Rank    | Distance (Correspondence)      | Relation (Correspondence) 
   -------:|:-------------------------------|:--------------------------
   None    | Touch to immediate vicinity    | Yourself. 
-  d4      | something like                 | A fresh body sample of your target.
-  d6      |                                | A boon companion. A meaningful posession of your target. 
-  d8      |                                | A casual friend. An posession of your target. 
-  d10     |                                | A casual aquantaince. A object your target touched.  
-  d12     |                                | Distance. One trivial kind of relation. These are the same color object. We are both human.
+  d4      | Within a neighborhood          | A fresh body sample of your target.
+  d6      | Within a large city            | A boon companion. A meaningful posession of your target. 
+  d8      | Within a state                 | A casual friend. An posession of your target. 
+  d10     | Within a large country         | A casual aquantaince. A object your target touched.  
+  d12     | Within a continent             | Distance. One trivial kind of relation. These are the same color object. We are both human.
   d12, d6 | Anywhere on earth              | No connection.
 
   Table: Targeting Magick by Distance or Relation with Correspondence
@@ -81,7 +81,7 @@
   None | Only the Mage's current locality and beings manifest upon it.
   d4   | Can only perceive. 
   d6   | can target spirits or their dimensions.
-  d8   |
+  d8   | 
   d10  |
   d12  |
 
@@ -93,14 +93,15 @@
 
   Without support an effect lasts a short while, typically the length of an action. A mage can spend a point of Quintessnce to make an effect endure for the length of a scene. Or mages who have skill in sphere of Prime may tether their effects to the universal energy of creation and make them last longer them a moment.
 
-  Rank | Duration (Prime)
-  ----:|:-----------------
-  None | Only a moment
-  d4   |
-  d6   |
-  d8   |
-  d10  |
-  d12  |
+  Rank    | Duration (Prime)
+  -------:|:-----------------
+  None    | Only a moment
+  d4      | A few moments
+  d6      | An Hour
+  d8      | A Week
+  d10     | A Season
+  d12     | A year and a day
+  d12, d6 | Until undone
 
   Table: Extending the duration of magickal effects with Prime  
 
@@ -111,7 +112,18 @@
 
 ## Casting Time
 
-  Your practice will often dictate how long it takes to perform Magick but when you 
+  Your practice will often dictate how long it takes to perform Magick.
+  But if you attempt to go faster then your practice dictates, you grant reality bonus dice to resist you.
+
+  Dice    | Time
+  -------:|:----------
+  None    | All the time you desire.
+  d4      | A day. 
+  d6      | An hour.
+  d8      | The length of a scene. Minutes.
+  d10     | Two full actions. tens of seconds.
+  d12     | A single action. Seconds
+  d12, d8 | No time. You can also take a full mundane action.  Or d12, d12? or something more then d8
 
 
 ### Focused Magick Dice Pool
