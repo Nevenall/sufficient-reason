@@ -4,8 +4,6 @@
 
 ## Effect
   
-  {maybe transition from effect to feat. Feat especially for the effect die size of things}
-
   Clearly state what you wish to happen and pick your Effect Dice. These may be any number of dice of any size, you may even choose an effect die larger then d12. The larger an Effect Die the grander the effect of your spell. 
   
   If you wish to affect more then one target you may choose multiple Effect Dice. Effect Dice may be similar, such as two d8 Fireballs, but they can also be unrelated. For example, d10 life draining and d8 healing for yourself. 
@@ -14,17 +12,17 @@
 
   Successes | Effect Dice | Feat       | Examples
   :--------:|:-----------:|:----------:|:---------
-   1        | d4          | Simple     | 
-   2        | d6          | Standard   | 
-   3        | d8          | Difficult  | 
-   4        | d10         | Impressive | 
-   5        | d12         | Mighty     | 
-   6        | d12,d4      | Outlandish |
-   7        | d12,d6      |            |
-   10       | 2d12        | Godlike    |
-   20       | 4d12        |            |
+  1         | d4          | Simple     | 
+  2         | d6          | Standard   | 
+  3         | d8          | Difficult  | 
+  4         | d10         | Impressive | 
+  5         | d12         | Mighty     | 
+  6         | d12,d4      | Outlandish |
+  7         | d12,d6      |            |
+  10        | 2d12        | Godlike    |
+  20        | 4d12        |            |
 
-  Table: Generic Effect Die rating
+  Table: Effect Die rating
 
 ### Focused Magick
 
@@ -33,7 +31,6 @@
   > For example, if your practice is witchcraft you might describe collecting some physical token of your victim and creating a poppet with it which you poke with needles. Describing your effect in terms of your practice in this way will allow you to add your Mental, Occult, and your 
 
 ### Raw Magick
-
   Mages occasionally perform their workings with pure will and nothing else. Such Raw Magick transcends your practice and allows you to affect change without needing to follow the patterns and strictures of your practice. It is quicker and simpler, but more dangerous and difficult becuase only your Mystickal traits, usually just Arete and Spheres, can be used. 
 
 ## Spheres
@@ -76,14 +73,15 @@
 
   Table: Targeting Magick by Distance or Relation with Correspondence
 
-  Rank | Extra-dimensionality (Spirit) 
-  ----:|:---------------------------
-  None | Only the Mage's current locality and beings manifest upon it.
-  d4   | Can only perceive. 
-  d6   | can target spirits or their dimensions.
-  d8   | 
-  d10  |
-  d12  |
+  Rank    | Extra-dimensionality (Spirit) 
+  -------:|:---------------------------
+  None    | Only the Mage's current locality and beings manifest upon it.
+  d4      | Non-manifest spirits who've crossed into the current locality.
+  d6      | 
+  d8      | 
+  d10     | 
+  d12     | 
+  d12, d6 | 
 
   Table: Targeting Spirits and other Dimensions with Spirit
 
@@ -101,7 +99,7 @@
   d8      | A Week
   d10     | A Season
   d12     | A year and a day
-  d12, d6 | Until undone
+  d12, d6 | Beyond a year
 
   Table: Extending the duration of magickal effects with Prime  
 
@@ -123,7 +121,7 @@
   d8      | The length of a scene. Minutes.
   d10     | Two full actions. tens of seconds.
   d12     | A single action. Seconds
-  d12, d8 | No time. You can also take a full mundane action.  Or d12, d12? or something more then d8
+  d12, d8 | No time. You can also take a full mundane action. [Or d12, d12? or something more then d8]
 
 
 ### Focused Magick Dice Pool
@@ -212,8 +210,6 @@
 
   If you meet or beat reality's total your working is a success. Otherwise, your effect dice gets added to your paradox pool, and perhaps greater retribution if paradox burns off.
 
-# Divider {draft versions of things}
-
 ## Resisting workings, targeting sleepers or other awakened
 
   > some notes to make here. Need to clean up the correspondence and prime vs. just strait up duration traits. So that it's clear how to make an effect. 
@@ -230,8 +226,6 @@
   > which says to me, that you can dodge physical effects maybe, you can also resist magic if you have an avatar and some arete.  Avatar is always added. 
   > I wonder if you could thus, mundanely resist mind control? that's what willpower was suppose to be for. 
   > 
-
-
 
 ## Ritual Workings
 

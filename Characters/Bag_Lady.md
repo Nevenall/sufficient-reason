@@ -1,6 +1,6 @@
 # Bag Lady
 
-  Her real name is Alba Camber
+  Her real name is Alba Caduca
 
 ## Cracked up Former Party Girl with a Big Heart
 
