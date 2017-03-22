@@ -1,9 +1,23 @@
 # Working Magick
 
-  Magick, Will Working, or simply a Working, is a change, any change, in reality you make through an effort of your Enlightened Will. This change is called an *Effect* and the more clearly you can describe what, and how, you will change reality the better.  
-
-## Effect
+  Magick is a change, any change, in reality you make through an effort of your Enlightened Will. This change is called a *feat.* 
   
+  It is possible to accomplish anything through Magick, but the larger and complex your feat, the more dice Reality will have to resist you. 
+  
+  Because magick is an expression of your will, it requires a conscious choice by the Mage. 
+
+## Feats
+  
+  A feat is a single magickal action and a single roll of your mystickal dice pool. 
+  
+  A feat may take an entire scene to accomplish, or it might be instantaneous, it might even grant you multiple mundane actions in a single round, but you may only attempt a single mystickial action per round. 
+
+  A feat may have one or more effect and each is typically treated as an *effect die.*
+
+  When you attempt a feat of magick you may choose how many, and how large, your effect dice will be.
+
+### Effect Dice
+
   Clearly state what you wish to happen and pick your Effect Dice. These may be any number of dice of any size, you may even choose an effect die larger then d12. The larger an Effect Die the grander the effect of your spell. 
   
   If you wish to affect more then one target you may choose multiple Effect Dice. Effect Dice may be similar, such as two d8 Fireballs, but they can also be unrelated. For example, d10 life draining and d8 healing for yourself. 
