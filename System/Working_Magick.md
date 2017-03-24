@@ -2,32 +2,42 @@
 
   Magick is a change, any change, in reality you make through an effort of your Enlightened Will. This change is called a *feat.* 
   
-  It is possible to accomplish anything through Magick, but the larger and complex your feat, the more dice Reality will have to resist you. 
+  It is possible to accomplish anything through Magick, but the larger and more complex your feat, the more dice Reality will have to resist you, and their are consequences to failing.
   
   Because magick is an expression of your will, it requires a conscious choice by the Mage. 
 
-## Feats
+  If you can describe your feat and how you with accomplish it within the context of your magickal *practice* you may add dice from your mundane traits, and not just your magickal ones. 
   
-  A feat is a single magickal action and a single roll of your mystickal dice pool. 
+  > For example, if your practice is witchcraft you might describe collecting some physical token of your victim and creating a poppet with it which you poke with needles. Describing your effect in terms of your practice in this way will allow you to add your Mental and Occult traits.
+
+  Mages occasionally perform feats with pure will and nothing else. Such Raw Magick transcends your focus and allows you to affect change without needing to follow the patterns and strictures of your practice. It is quicker and simpler, but more dangerous and difficult becuase only the Mystickal traits, Arete and Spheres, can be used. 
+
+## Feats and Workings
   
-  A feat may take an entire scene to accomplish, or it might be instantaneous, it might even grant you multiple mundane actions in a single round, but you may only attempt a single mystickial action per round. 
+  A feat is magick you accomplish in a single action. 
 
-  A feat may have one or more effect and each is typically treated as an *effect die.*
+  A working is a collection of feats unified into a single magickal accomplishment. It might be a lone mage's project done slowly feat by feat, or a single spell woven by an entire cabal. 
+  
+  A feat may take an entire scene to complete, or it might be instantaneous, it might even grant you multiple actions in a single round, but those will be mundane actions. You may only attempt one feat per round. 
 
-  When you attempt a feat of magick you may choose how many, and how large, your effect dice will be.
+  A simple feat may have just one effect, like dealing damage with a bolt of flame, but complex feats may have as many different effects as you wish. For example, your bolt of fire might deal immediate damage but also complicate the life or your target by burning away their false skin to reveal the android beneith. 
+
+  Each effect is represented by an *effect die* and you choose how many, and how large, the effect dice of your feat will be.
 
 ### Effect Dice
 
-  Clearly state what you wish to happen and pick your Effect Dice. These may be any number of dice of any size, you may even choose an effect die larger then d12. The larger an Effect Die the grander the effect of your spell. 
+  Pick your Effect Dice. 
   
-  If you wish to affect more then one target you may choose multiple Effect Dice. Effect Dice may be similar, such as two d8 Fireballs, but they can also be unrelated. For example, d10 life draining and d8 healing for yourself. 
+  These may be any number of dice of any size, you may choose an effect die larger then d12 by adding additional dice to that effect. The larger an Effect Die the grander the scope and power of your spell. 
 
-  You may choose any effect dice you wish, but keep in mind Reality will be rolling these dice to attempt to counter your working. 
+  If you wish to affect more then one target you may choose multiple Effect Dice. 
+
+  You may choose any effect dice you wish, but keep in mind Reality will be rolling all these dice to attempt to counter your feat. 
 
   Successes | Effect Dice | Feat       | Examples
   :--------:|:-----------:|:----------:|:---------
-  1         | d4          | Simple     | 
-  2         | d6          | Standard   | 
+  1         | d4          | Trivial    | 
+  2         | d6          | Typical    | 
   3         | d8          | Difficult  | 
   4         | d10         | Impressive | 
   5         | d12         | Mighty     | 
@@ -38,28 +48,20 @@
 
   Table: Effect Die rating
 
-### Focused Magick
-
-  If you can describe how you achieve your *effect* within the context of your magickal *practice* you may add dice from your mundane traits, and not just your magickal ones. 
-  
-  > For example, if your practice is witchcraft you might describe collecting some physical token of your victim and creating a poppet with it which you poke with needles. Describing your effect in terms of your practice in this way will allow you to add your Mental, Occult, and your 
-
-### Raw Magick
-  Mages occasionally perform their workings with pure will and nothing else. Such Raw Magick transcends your practice and allows you to affect change without needing to follow the patterns and strictures of your practice. It is quicker and simpler, but more dangerous and difficult becuase only your Mystickal traits, usually just Arete and Spheres, can be used. 
-
 ## Spheres
 
-  Once your effect is clear enough we'll determine how complex it is by determining which Spheres and at which rank it will require.
-
-  > For example: You need to cross a gap between two building to escape some technocratic agents. Your *Effect* is to take a quick herbal concoction to enhance your musculature, making it possible to leap the distance. This clearly invokes your Occult skill and Herbalism specialty. Enhancing your own body requires using the Life Sphere.
+  Once your feat is clearly defined we'll determine how difficult it is by determining its Sphere components. That is, which Spheres, and at which level, best represent the feat as you have described it.
  
-  > Alternately: You might calculate the coordinates of the rooftop you wish to be on and run a quick script on your wrist computer to alter your token's position in the virtual reality simulation that is reality; effectively teleporting across the distance. This accomplishes the same goal, but clearly uses Technology and the sphere of Correspondence.   
+  > For example: You need to cross a gap between two building to escape some technocratic agents. You might calculate the coordinates of the rooftop you wish to be on and run a quick script on your wrist computer to alter your token's position in the virtual reality simulation that is reality; effectively teleporting across the distance. This accomplishes the goal directly using Technology and the sphere of Correspondence.   
+
+  > Alternately: Your might take a quick herbal concoction to enhance your musculature, making it possible to leap the distance. This clearly invokes your Occult skill and Herbalism specialty. Enhancing your own body requires the Life Sphere.
+  > This is an indirect example because your effect dice will not move you to the next rooftop, but rather grant you extra dice in your mundane attempt to leap the gap.
 
   It is possible for your Effect to have multiple components of the same Sphere.
   
   > For example, if you combine a d8 fire attack with a d8 levitation asset, you are controlling two distinct Forces which requires two d8 Forces components.
   
-  Rank | Ability      | Description
+  Level| Ability      | Description
   ----:|:------------:|:-----------
   d4   | Perception   | Observe and perceive elements of this Sphere beyond any mortal ken. 
   d6   | Manipulation | Make small changes to existing elements of this Sphere.
@@ -67,7 +69,7 @@
   d10  | Command      | Create major effects. This rank is typically required to cause significant changes to the patterns of others.  
   d12  | Mastery      | Command vast effects with the elements of this Sphere.
   
-  Table: Generic Sphere Ranks
+  Table: Generic Sphere Ratings
 
 ### Targeting
 
@@ -125,7 +127,7 @@
 ## Casting Time
 
   Your practice will often dictate how long it takes to perform Magick.
-  But if you attempt to go faster then your practice dictates, you grant reality bonus dice to resist you.
+  But if you attempt to go faster then your practice dictates, your haste grant reality extra dice to resist you.
 
   Dice    | Time
   -------:|:----------
