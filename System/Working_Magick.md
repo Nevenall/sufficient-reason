@@ -30,9 +30,7 @@
   
   These may be any number of dice of any size, you may choose an effect die larger then d12 by adding additional dice to that effect. The larger an Effect Die the grander the scope and power of your spell. 
 
-  If you wish to affect more then one target you may choose multiple Effect Dice. 
-
-  You may choose any effect dice you wish, but keep in mind Reality will be rolling all these dice to attempt to counter your feat. 
+  If you wish to affect more then one target assign each an Effect Die. 
 
   Successes | Effect Dice | Feat       | Examples
   :--------:|:-----------:|:----------:|:---------
@@ -50,18 +48,17 @@
 
 ## Spheres
 
-  Once your feat is clearly defined we'll determine how difficult it is by determining its Sphere components. That is, which Spheres, and at which level, best represent the feat as you have described it.
+  Once your feat is clearly defined we'll determine how difficult it is by determining its Sphere components. That is, which Spheres, and at which size, best represent the feat as you have described it.
  
-  > For example: You need to cross a gap between two building to escape some technocratic agents. You might calculate the coordinates of the rooftop you wish to be on and run a quick script on your wrist computer to alter your token's position in the virtual reality simulation that is reality; effectively teleporting across the distance. This accomplishes the goal directly using Technology and the sphere of Correspondence.   
+  > For example: You need to cross a gap between two building to escape some technocratic agents. You might calculate the coordinates of the rooftop you wish to be on and run a quick script on your wrist computer to alter your token's position in the virtual reality simulation that is reality; effectively teleporting across the distance. This accomplishes your feat using Technology and the sphere of Correspondence.   
 
-  > Alternately: Your might take a quick herbal concoction to enhance your musculature, making it possible to leap the distance. This clearly invokes your Occult skill and Herbalism specialty. Enhancing your own body requires the Life Sphere.
-  > This is an indirect example because your effect dice will not move you to the next rooftop, but rather grant you extra dice in your mundane attempt to leap the gap.
-
-  It is possible for your Effect to have multiple components of the same Sphere.
+  > Alternately: You might speek a spell that calls upon the mystic winds of watoomb to levitate you across the gap. Making use of your Occult skill and the Sphere of Forces. 
+  
+  It is possible for your Effect to have multiple components of the same Sphere. This is especially common with Corrispondence and Prime because those Spheres are used for common meta-magickal components. Such as targeting and extending the duration of your feats. 
   
   > For example, if you combine a d8 fire attack with a d8 levitation asset, you are controlling two distinct Forces which requires two d8 Forces components.
   
-  Level| Ability      | Description
+  Dice | Ability      | Description
   ----:|:------------:|:-----------
   d4   | Perception   | Observe and perceive elements of this Sphere beyond any mortal ken. 
   d6   | Manipulation | Make small changes to existing elements of this Sphere.
@@ -71,25 +68,35 @@
   
   Table: Generic Sphere Ratings
 
-### Targeting
+### Meta-magick 
 
-  Without extra effort the effects of magick are localized to the mage and their most immediate environment. However, by adding a Correspondence component it is possible to make an effect reach a target or location at any distance. With the addition of Spirit the spell can reach into other worlds as well. 
+  Some sphere components extend the possibilities of your feat instead of directly realating to your effect. These we refer to generally as Meta-magick. The two most common forms are using the Corrispondence sphere for targeting your feat and Prime for extending the duration of it.
 
-  Targeting through Correspondence can be a matter of pure distance, but it can also be a matter of reaching the target though intimate relations. The classic spell upon a lock of their hair is an example of Relational Correspondence from the Practice of Witchcraft. 
+  Meta-magick components are not required, but when used, they are separte instances of that sphere.
 
-  Rank    | Distance (Correspondence)      | Relation (Correspondence) 
+#### Targeting
+
+  Without extra effort the effects of magick are localized to the mage and their most immediate environment. However, by adding a Correspondence component it is possible to make a feat reach a target or location at any distance. With the addition of Spirit the feat can reach into other worlds as well. 
+
+  Targeting with Correspondence can be a matter of pure distance, but it can also take the form of reaching the target through something closely realted to them. The classic "spell upon a lock of their hair" is an example of relational Correspondence from the practice of Witchcraft. 
+
+  Range targeting allows for vast distances but even if you have the ability to target anywhere on earth you must be able to indentify a particular target. This can be done with line of sight unaided by mundane effects such as cameras or telescopes (mystick effects that match your focus may help), or by knowing in great detail where your target is at this exact momement. Without one of those things, you will need to use realational targeting instead. 
+
+  With realational targeting you must possess some object that has a concrete relation to your target. Providing you can touch and hold this object you may attempt to channel your feat through it and at your target. 
+
+  Dice    | Range (Correspondence)         | Relation (Correspondence) 
   -------:|:-------------------------------|:--------------------------
   None    | Touch to immediate vicinity    | Yourself. 
   d4      | Within a neighborhood          | A fresh body sample of your target.
   d6      | Within a large city            | A boon companion. A meaningful posession of your target. 
-  d8      | Within a state                 | A casual friend. An posession of your target. 
+  d8      | Within a state                 | A casual friend. A posession of your target. 
   d10     | Within a large country         | A casual aquantaince. A object your target touched.  
   d12     | Within a continent             | Distance. One trivial kind of relation. These are the same color object. We are both human.
-  d12, d6 | Anywhere on earth              | No connection.
+  d12, d6 | Anywhere on earth              | No object, only a concept that relates to your target.
 
   Table: Targeting Magick by Distance or Relation with Correspondence
 
-  Rank    | Extra-dimensionality (Spirit) 
+  Dice    | Extra-dimensionality (Spirit) 
   -------:|:---------------------------
   None    | Only the Mage's current locality and beings manifest upon it.
   d4      | Non-manifest spirits who've crossed into the current locality.
@@ -101,13 +108,15 @@
 
   Table: Targeting Spirits and other Dimensions with Spirit
 
-### Duration
+#### Duration
 
-  Magick may have long lasting side-effects, but reality will relentlessly errode the effect itself unless the Mage constantly supports it with Quintessence.
+  Magick may have long lasting consequences, but reality will relentlessly errode active magick unless you constantly support it with Quintessence.
 
-  Without support an effect lasts a short while, typically the length of an action. A mage can spend a point of Quintessnce to make an effect endure for the length of a scene. Or mages who have skill in sphere of Prime may tether their effects to the universal energy of creation and make them last longer them a moment.
+  Without support a feat lasts a short while, typically no more then the length of your action, but if you spend a point of Quintessnce the feat will endure for the length of a scene. 
+  
+  Alternately, you may use the Sphere of Prime to fuel your magick from universal energy of creation and make it last longer then a moment.
 
-  Rank    | Duration (Prime)
+  Dice    | Duration (Prime)
   -------:|:-----------------
   None    | Only a moment
   d4      | A few moments
@@ -116,13 +125,17 @@
   d10     | A Season
   d12     | A year and a day
   d12, d6 | Beyond a year
+  d12, d8 | Typically lasts unless dispelled
 
-  Table: Extending the duration of magickal effects with Prime  
+  Table: Extending the duration of magick with Prime  
 
-### Other Meta-effects
+#### Other Meta-effects
 
-  This might be a discussion about other meta-effects such as a timebomb spell, or a triggered trap.
-  Also, weaving an ongoing effect into a pattern. Light spell upon their shield. 
+  Using a pattern sphere to tether a feat to someone or something. 
+  
+  Using Time to create a delayed effect feat. 
+
+  Using Mind to give your feat judgement about who or what to affect.  
 
 ## Casting Time
 
