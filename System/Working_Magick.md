@@ -131,16 +131,15 @@
 
 #### Other Meta-effects
 
-  Using a pattern sphere to tether a feat to someone or something. 
+  Use a pattern sphere like life to tether a feat to someone so it will follow them around.  
   
   Using Time to create a delayed effect feat. 
 
   Using Mind to give your feat judgement about who or what to affect.  
 
-## Casting Time
+## (draft section) Casting Time
 
-  Your practice will often dictate how long it takes to perform Magick.
-  But if you attempt to go faster then your practice dictates, your haste grant reality extra dice to resist you.
+  Your practice will dictate how long it takes to perform most feats, but you can give reality more dice to resist you if you attempt to finishing faster. 
 
   Dice    | Time
   -------:|:----------
@@ -152,81 +151,75 @@
   d12     | A single action. Seconds
   d12, d8 | No time. You can also take a full mundane action. [Or d12, d12? or something more then d8]
 
+## Magickal Actions
+
+  - Clearly define your feat. What you will do and how you will do it
+    - Pick your effect dice
+    - Break your feat into sphere components
+    - Assemble your dice pool, roll and determine your total
+      - Opportunities you roll will grant PP and generate paradox for you, or flaws in your magick
+  - Reality assembles it's dice pool and rolls to resist your efforts
+    - 
 
 ### Focused Magick Dice Pool
 
+  If your feat clearly flows from your msytick practice it is focused magick. Focused magick requires instruments, but allows you to use more dice.
+
   - Attribute
-    - Based upon your focus and your effect
+    - Include one Attribute based upon the instruments you are using
+    - If you can justify it based on your intruments you may include another Atribute by spending a PP  
   - Skill
-    - Based upon your focus and effect
-    - Can include specialty dice
+    - Include one Skill based upon the instruments you are using 
+      - Occult is commonly used for Mystick practices 
+    - If you can justify it based on your intruments you may include another Skill by spending a PP  
+    - You may include one appropriate Specialty from any Skill already in your pool
+    - If you can justify it based on your instruments you may include another Specialty by spending a PP
   - Distinction
-    - Especially a Tradition can help or hinder workings
+    - Traditions especially can help or hinder
     - Scene distinctions can also help or hinder
+    - Resonance is a mystick distinction that a scene, location, tass might possess which can help or hinder particular kinds of magick
   - Arete
-    - If you spend Quintessence, you may include your Arete trait an  additional time for each point of Quintessence
+    - Include your Arete
+    - You may add your Arete again if you spend a point of Quintessence
+      - You may do this as many times as your Avatar rating
   - Spheres
-    - Include the dice from all the Spheres involved in the effect, especially  d4s
-    - Additional Sphere traits cannot be added with PP
+    - Include each Sphere that is a part of your feat, only once
+    - Additional Spheres cannot be added with PP or Quintessence
   - Assets
-    - Mundane assets such wand or sword must relate to your Focus. Perhaps by   being of historical significance
-    - Resonance is a mystic asset which you can use if it relates to your   Effect
+    - You may be able to include one Asset 
+    - Mundane assets might help you in focusing your will to perform magick
+    - Mystick assets, especially resonance, might help you in your feat
+    - When using mundane assets as instruments you may be able to include them if they are extraordinary
+      - for example, by being of great historical significance or possessing reasonance
   - Complications
-    - The scene, or the target of your effect may have a complication friendly  to your Focus or Effect which you can include in your dice pool
-  - Time
-    - If you spend extra time performing your working
-    - The demands of your focal instruments may affect what's possible here.
+    - The scene, or your target, may have a complication helpful to your feat
 
-
-## Raw Magick
+### Raw Magick Dice Pool
 
   Raw magick is an instantaneous working of pure will that transcends all of your beliefs about reality. It is often a desperate Mage's last resort because it is difficult and dangerous. 
   
   You can use only your Mystickal traits when working Raw Magick which means fewer dice and a greater chance of failure. On the other hand, the *Effect* of Raw Magick is not bound by your practice and requires no instruments or preparation.  
 
-### Raw Magick Dice Pool
-
   - Arete
-    - You may spend Quintessence of any kind of a raw working
+    - Include your Arete
+    - You may add your Arete again if you spend a point of Quintessence
+      - You may do this as many times as your Avatar rating
   - Spheres
-    - Include the dice from all the Spheres involved in the effect, even if   they are d4
-    - Additional Sphere traits cannot be added with PP
+    - Include each Sphere that is a part of your feat, only once
+    - Additional Spheres cannot be added with PP or Quintessence
   - Assets
-    - Resonance is a mystic asset which you can use if it relates to your   Effect
-  - Time
-    - If you spend extra time performing your working
-
-
-
-  How long you take to achieve your working.
-  
-  Trait | Casting Time
-  -----:|-------------
-  d4    | No time. You can also take a mundane action before or after this
-  d6    | Takes the length of your action. Pass the initiative
-  d8    | Takes this action and your next one
-  d10   | Takes the length of this scene
-  d12   | Takes longer than this scene
+    - You may be able to include one Asset 
+    - Mystick assets, especially resonance, might help you in your feat
 
 ## Reality Resists Your Working
 
-  Once you've rolled to create your effect, Reality will oppose you with a dice pool that's composed based on the effect you are attempting to create.
+  Once you've rolled for your feat, Reality will oppose you with a dice pool based on your effect dice and the Sphere compoents of your feat.
 
 ### Reality Dice Pool
 
-  - The Size of your Effect (d6 or larger)
-    - This can be a single Effect larger than d12
-      - For example, a d12,d6 Effect could take out someone in a single action but Reality will get a d12 and a d6 to resist
-    - It can also be multiple Effects
-      - if needed, you can declare several different Effects
-        - Reality gets to add all of them
-  - The Level of Sphere effects you are attempting
-    - From d4 to d12.
-    - A Life 3 Effect would be a d8. A Prime 5, Mind 5 Effect would be 2d12.
-    - Duration is a Prime effect
-    - Range is a Correspondence effect
-  - The scope of the effect
-    - From d4 to d12 or more
+  - Your Effect Dice
+  - The rating of each Sphere component
+    - May include the same Sphere multiple times
   - Paradox
     - Reality can spend dice from a mage's paradox to add to it's pool to resist a working
     - And can optionally pay the affected mage a PP per die to keep them
