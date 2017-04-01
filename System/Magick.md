@@ -151,14 +151,51 @@
   d12     | A single action. Seconds
   d12, d8 | No time. You can also take a full mundane action. [Or d12, d12? or something more then d8]
 
-## Realities & Localities
+## Realities & Localities 
 
-  there are no neutral places in the ascention war
+  There are no neutral spaces in the Ascension war. Everywhere you might be is aligned to one reality or another, most commonly the technocratic consensus, and few of them are welcoming to a mage's enlightened will.  
+  
+  Locality is a trait representing how strongly aligned your current location is with it's reality. 
+  
+  Reality adds the locality trait to its dice pool for resistance, so the stronger the locality, the more it will resist your magick. 
+
+### Technocratic Localites
+
+  Technocratic localities tend to express technology, modernity, and globalization. The more hypermodern and related to globalized western power structures the stronger the locality.
+
+  Dice  | Locality (Technocratic)
+  -----:|:-------------
+  d4    | Wilderness, Ancient places, A mundane place friendly to your practice      
+  d6    | Typical western/globalized area
+  d8    | Sprawl, suburbs, most urban areas
+  d10   | Urban core, skycraper  
+  d12   | Science Lab, stock exchange floor, ultra modern building
+  
+  Table: Technocratic Locality 
+
+### Wyld Localities
+
+  Wyld is a distinctly inhuman power. It's the power and terror of a natural world that makes no distiction between humans and bugs. Wyld is a reality commonly associated with the Garou. 
+
+  Dice  | Locality (Wyld)
+  -----:|:-------------
+  d4    | 
+  d6    | 
+  d8    | 
+  d10   | 
+  d12   | 
+  
+  Table: Wyld Locality
 
 ## Paradox & Flaws
+   
+  [getting it, burning, triggering backlashes. detecting it.]
 
-  getting it, burning, triggering backlashes. detecting it. 
+  Paradox is a pool of dice that accumulates around a mage, like a static charge, the more they perform magick.
 
+  Each mage has their own Paradox total. This total is generally a secret from the players, but with a fair Prime effect it's possible read the size of a mage's largest Paradox dice. 
+
+  When a mage 
 
 ## Magickal Actions
 
