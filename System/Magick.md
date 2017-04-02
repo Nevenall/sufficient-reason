@@ -165,7 +165,7 @@
 
   Dice  | Locality (Technocratic)
   -----:|:-------------
-  d4    | Wilderness, Ancient places, A mundane place friendly to your practice      
+  d4    | Wilderness, Ancient human places, A mundane place friendly to your practice      
   d6    | Typical western/globalized area
   d8    | Sprawl, suburbs, most urban areas
   d10   | Urban core, skycraper  
@@ -187,15 +187,78 @@
   
   Table: Wyld Locality
 
-## Paradox & Flaws
+## Paradox
    
   [getting it, burning, triggering backlashes. detecting it.]
 
-  Paradox is a pool of dice that accumulates around a mage, like a static charge, the more they perform magick.
+  Paradox is an energy of reality's rejection of a mage and their magick. It can accumulate around the mage as a pool of dice, or weave its way into their spell as flaws and consequences. 
 
-  Each mage has their own Paradox total. This total is generally a secret from the players, but with a fair Prime effect it's possible read the size of a mage's largest Paradox dice. 
+  Reality can use these dice to help resist a mage's feat. If a mage fails in a magickal action, they will generate significant paradox and reality might trigger a backlash against the mage.  
 
-  When a mage 
+  Each mage has their own Paradox dice pool. These dice are generally a secret from the players, but with a fair Prime effect it's possible to learn the size of a mage's largest Paradox dice. 
+
+### Generating Paradox
+
+#### When a Mage Rolls Opportunities
+
+  When a mage rolls an an opportunity on a magickal action it generates paradox. The GM will give the Mage one PP to activate all the opportunities rolled. Each opportunity can be used in one of several ways.
+
+  This increased paradox is available for reality to use immediately.
+
+  - Add a d6 to the Mage's Paradox 
+    - Step up the die for each extra opportunity used
+  - Step up one of the Mage's lowest Paradox dice
+  - Work a d6 flaw into the Mage's feat or working
+    - Step up that flaw for each extra opportunity used
+
+#### When a Mage's Feat is Resisted
+
+  If a mage's feat is successfully reisted by reality, this also generates paradox. The effect dice of the feat are added to the mage's paradox dice, and reality may activate a backlash. 
+
+#### When a Mage Attempts a Vulgar Feat
+
+  ? if a mage attempts a vulgar feat, this might also generate paradox automatically, depends on how it works for balance ?
+
+### Using Paradox
+
+#### Resisting Feats
+
+  Reality can add dice from a Mage's Paradox to it's pool for resisting a feat. These dice are spent unless the GM gives the mage a PP 
+  What if, reality can use a keep paradox equal to the effect dice of the feat. Then reality can use more dice and keep them for 1 PP each. That sounds like a pretty good balance.  
+
+#### Flaws
+
+  Reality can use paradox  
+
+#### Backlash
+
+  When reality successfully resists a mage's feat there is the chance to trigger a backlash. 
+
+### Burning Paradox
+
+  when reality rolls an opportunity, the mage may pay a PP to burn off their highest paradox die as a weird complication that will generally last for the rest of the session. 
+
+  If reality rolls more then one opportunity the Mage must step up their complication once for each additional opportunity. 
+
+  [it's not uncommon for a 1 to get rolled, so mages should have a good chance to burn off paradox, but it like the slight negative disinsentive for stepping up the complication for each opportunity rolled]  
+
+  You can burn your highest die even if it's currently in a reality dice pool. This doesn't affect reality's total or anything. The complication will come after the feat is resolved.
+
+#### Paradox Complications
+
+  These range from the inconvenient, such as instantly withering plants, to very intense such as being unable to answer a question with anything but full and complete honesty. Or continuously vomiting slime. 
+
+  Paradox complications can be cruel, typical, ironic or just eerie. It sometimes seem to realate to the mage involved, but not always.  
+
+### Backlash
+
+  If a mage fails a feat, add the feat's effect dice to the mage's paradox and then reality may trigger a backlash which consumes all of a mage's paradox at once. 
+
+  Backlash is a direct attempt by reality to protect itself by isolating the mage. 
+
+  Reality rolls all of the Mage's paradox dice and it's current locality trait, (some assets or scene distictions may also apply) and determines two dice for a total ?and an effect die? 
+
+  The Mage rolls their Mind, Arete, and Prime to resist. Some other traits can help, especially the familiar background.
 
 ## Magickal Actions
 
