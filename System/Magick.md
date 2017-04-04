@@ -203,7 +203,7 @@
 
   When a mage rolls an an opportunity on a magickal action it generates paradox. The GM will give the Mage one PP to activate all the opportunities rolled. Each opportunity can be used in one of several ways.
 
-  This increased paradox is available for reality to use immediately.
+  This new paradox is available for reality to use immediately.
 
   - Add a d6 to the Mage's Paradox 
     - Step up the die for each extra opportunity used
@@ -213,7 +213,7 @@
 
 #### When a Mage's Feat is Resisted
 
-  If a mage's feat is successfully reisted by reality, this also generates paradox. The effect dice of the feat are added to the mage's paradox dice, and reality may activate a backlash. 
+  If a mage's feat is successfully resisted by reality, this also generates paradox. The effect dice of the feat are added to the mage's paradox dice, and reality may trigger a backlash. 
 
 #### When a Mage Attempts a Vulgar Feat
 
@@ -223,12 +223,13 @@
 
 #### Resisting Feats
 
-  Reality can add dice from a Mage's Paradox to it's pool for resisting a feat. These dice are spent unless the GM gives the mage a PP 
-  What if, reality can use a keep paradox equal to the effect dice of the feat. Then reality can use more dice and keep them for 1 PP each. That sounds like a pretty good balance.  
+  Reality can add any number of dice from a Mage's Paradox to it's pool for resisting a feat, but any paradox greater then the feat's effect dice will be lost unless the GM gives the Mage 1 PP per extra die to retain them. 
 
 #### Flaws
 
-  Reality can use paradox  
+  When a mage rolls opportunties on a feat, reality may choose to sneak a flaw into their feat instead of saving the paradox for later. 
+
+  Flaws may add complications to the mage's feat, but can't contradict it. For example, a flaw on fire ball can't change or reduce the effect dice of the fire ball, but it could cause damage to the mage, or complicate the situation by setting something important to the mage on fire. 
 
 #### Backlash
 
@@ -236,7 +237,7 @@
 
 ### Burning Paradox
 
-  when reality rolls an opportunity, the mage may pay a PP to burn off their highest paradox die as a weird complication that will generally last for the rest of the session. 
+  when reality rolls opportunities, a mage has the chance to burn off their highest paradox die by paying a PP to burn off their highest paradox die as a weird complication that will generally last for the rest of the session. 
 
   If reality rolls more then one opportunity the Mage must step up their complication once for each additional opportunity. 
 
