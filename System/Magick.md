@@ -125,7 +125,7 @@
   d10     | A Season
   d12     | A year and a day
   d12, d6 | Beyond a year
-  d12, d8 | Typically lasts unless dispelled
+  d12, d12| May lasts unless dispelled
 
   Table: Extending the duration of magick with Prime  
 
@@ -199,16 +199,18 @@
 
 ### Generating Paradox
 
+  There are 
+
 #### When a Mage Rolls Opportunities
 
   When a mage rolls an an opportunity on a magickal action it generates paradox. The GM will give the Mage one PP to activate all the opportunities rolled. Each opportunity can be used in one of several ways.
 
-  This new paradox is available for reality to use immediately.
+  These changes are immediate, and may give reality extra
 
   - Add a d6 to the Mage's Paradox 
     - Step up the die for each extra opportunity used
   - Step up one of the Mage's lowest Paradox dice
-  - Work a d6 flaw into the Mage's feat or working
+  - Work a d6 flaw into the Mage's feat
     - Step up that flaw for each extra opportunity used
 
 #### When a Mage's Feat is Resisted
