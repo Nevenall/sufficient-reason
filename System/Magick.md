@@ -199,13 +199,9 @@
 
 ### Generating Paradox
 
-  There are 
-
 #### When a Mage Rolls Opportunities
 
-  When a mage rolls an an opportunity on a magickal action it generates paradox. The GM will give the Mage one PP to activate all the opportunities rolled. Each opportunity can be used in one of several ways.
-
-  These changes are immediate, and may give reality extra
+  When a mage rolls an an opportunity on a magickal action it generates paradox. The GM will give the Mage one PP to activate all the opportunities rolled. Each opportunity can be used in one of several ways, but all are immediate and can even give reality extra dice to resist this feat.
 
   - Add a d6 to the Mage's Paradox 
     - Step up the die for each extra opportunity used
@@ -215,7 +211,7 @@
 
 #### When a Mage's Feat is Resisted
 
-  If a mage's feat is successfully resisted by reality, this also generates paradox. The effect dice of the feat are added to the mage's paradox dice, and reality may trigger a backlash. 
+  If a mage's feat is successfully resisted by reality, this also generates paradox. The effect dice of the feat are added to the mage's paradox dice. Reality may then choose trigger a backlash. 
 
 #### When a Mage Attempts a Vulgar Feat
 
@@ -225,17 +221,19 @@
 
 #### Resisting Feats
 
-  Reality can add any number of dice from a Mage's Paradox to it's pool for resisting a feat, but any paradox greater then the feat's effect dice will be lost unless the GM gives the Mage 1 PP per extra die to retain them. 
+  Reality can add any number of dice from a Mage's Paradox to it's pool for resisting a feat. Any paradox greater then the feat's effect dice will be lost unless the GM gives the Mage 1 PP per extra die to retain them. 
 
 #### Flaws
 
   When a mage rolls opportunties on a feat, reality may choose to sneak a flaw into their feat instead of saving the paradox for later. 
 
-  Flaws may add complications to the mage's feat, but can't contradict it. For example, a flaw on fire ball can't change or reduce the effect dice of the fire ball, but it could cause damage to the mage, or complicate the situation by setting something important to the mage on fire. 
+  Flaws can complicate the mage's feat, but can't contradict it. For example, a flaw in a wall of fire feat can't change or reduce the effect dice of the fire, but it could cause blowback to damage the mage, or complicate the situation by setting something important on fire. 
 
 #### Backlash
 
-  When reality successfully resists a mage's feat there is the chance to trigger a backlash. 
+  When reality successfully resists a mage's feat there is the chance to trigger a backlash.
+  
+   
 
 ### Burning Paradox
 
