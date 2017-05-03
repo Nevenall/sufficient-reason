@@ -231,9 +231,13 @@
 
 #### Backlash
 
-  When reality successfully resists a mage's feat there is the chance to trigger a backlash.
-  
-   
+  Besides, the paradox generated when reality successfully resists a mage's feat, a backlash might also be triggered. A backlash is something like an immune response to a mage, and it might inflict the mage with a persistant supernatural quirk or plunge them into a serious Quiet. 
+
+  When a backlash is triggered the GM will roll all of the mage's accumulated paradox dice the two highest rolling dice will be the total, and the largest remaining die will the size of the backlash. If there are no dice left, the backlash will start at d6.
+
+  Then the Mage rolls to resist the backlash. The applicable traits are Mind, Arete, Prime, Paradox Prime specialty, Sanctum, and Familiar. Some Distinctions and Wonders may also be of use, but only ones specialized around paradox.
+
+  ? So, your backlash die becomes a complication and gets stepped up for every 5 reality beats your total by. If your backlash is larger then d12 add a d6 and keep stepping up that die if needed. Backlash greater then d12 will result in quiet. ?
 
 ### Burning Paradox
 
