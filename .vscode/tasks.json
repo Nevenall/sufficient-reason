@@ -16,7 +16,7 @@
     },
     {
       "taskName": "spell check all files",
-      "command": "gci *.md -Recurse | foreach { write-output \"\nFile - $($_.FullName)\"; OddSpell $_; }",
+      "command": "gci *.md -Recurse | foreach { write-output \"$($_.FullName)\"; OddSpell $_; }",
       "isShellCommand": true,
       "showOutput": "always",
       "isTestCommand": true,
@@ -26,7 +26,7 @@
         "fileLocation": "absolute",
         "pattern": [
           {
-            "regexp": "File - (.+)",
+            "regexp":"(.+)",
             "file": 1
           },
           {
@@ -41,7 +41,7 @@
     },
     {
       "taskName": "spell check this file",
-      "command": "Write-Output \"File - ${file}\"; OddSpell \"${file}\";",
+      "command": "Write-Output \"${file}\"; OddSpell \"${file}\";",
       "isShellCommand": true,
       "showOutput": "always",
       "problemMatcher": {
@@ -50,7 +50,7 @@
         "fileLocation": "absolute",
         "pattern": [
           {
-            "regexp": "File - (.+)",
+            "regexp": "(.+)",
             "file": 1
           },
           {
