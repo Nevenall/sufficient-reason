@@ -188,14 +188,12 @@
   Table: Wyld Locality
 
 ## Paradox
-   
-  [getting it, burning, triggering backlashes. detecting it.]
+  
+  Paradox is an energy of reality's rejection of a mage and their magick. It can accumulate around the mage as a pool of dice, or weave its way into their spells. 
 
-  Paradox is an energy of reality's rejection of a mage and their magick. It can accumulate around the mage as a pool of dice, or weave its way into their spell as flaws and consequences. 
+  Reality can add these dice to resist a mage's feat. If a mage fails in a magickal action, they will generate significant paradox and reality might trigger a backlash against them.  
 
-  Reality can use these dice to help resist a mage's feat. If a mage fails in a magickal action, they will generate significant paradox and reality might trigger a backlash against the mage.  
-
-  Each mage has their own Paradox dice pool. These dice are generally a secret from the players, but with a fair Prime effect it's possible to learn the size of a mage's largest Paradox dice. 
+  Each mage has their own Paradox dice pool. These dice are generally a secret from the players, but with a Prime d4 effect it's possible to learn the size of a mage's largest Paradox dice. 
 
 ### Generating Paradox
 
@@ -228,6 +226,8 @@
   When a mage rolls opportunities on a feat, reality may choose to sneak a flaw into their feat instead of saving the paradox for later. 
 
   Flaws can complicate the mage's feat, but can't contradict it. For example, a flaw in a wall of fire feat can't change or reduce the effect dice of the fire, but it could cause blowback to damage the mage, or complicate the situation by setting something important on fire. 
+
+  Flaws are more meaningful when the mage is attempting a long lasting working, like creating a wonder. Such complications last as long as the working does 
 
 #### Backlash
 
