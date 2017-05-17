@@ -69,9 +69,9 @@
 
 ### Specialties
 
-  *Spend Character Dice to add Specialties to a Skill, up to d12.*
+  *Spend a Character Die to add Specialties to a Skill. Each Speciality is a d6.*
 
-  Each skill is intentionally broad. Specialties represent more focused knowledge and training. A Specialty is less likely to be useful, but when it is, you can add it to your action pool along with the Skill it specializes.
+  Each skill is intentionally broad. Specialties represent more focused knowledge and training. A Specialty is less likely to be useful, but when it is, you can add an additional d6 to your action pool along with the Skill it specializes.
 
 ## Arete
 
@@ -107,9 +107,9 @@
 
 ### Specialties
 
-  *Spend Character Dice to add Specialties to a Sphere, up to d12. No specialty can be higher then your Arete.*
+  *Spend a Character Die to add Specialties to a Sphere. Each speciality is a d6.*
 
-  Mages may develop specialties in specific aspects of a Sphere. 
+  Mages may develop specialties in specific aspects of a Sphere. When the specialty applies, you may add an additional d6 to your action pool. 
 
 ## Backgrounds
 
