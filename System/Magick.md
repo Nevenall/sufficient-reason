@@ -196,7 +196,6 @@
   Each mage has their own Paradox dice pool. These dice are generally a secret from the players, but with a Prime d4 effect it's possible to learn the size of a mage's largest Paradox dice. 
 
 ### Generating Paradox
-
 #### When a Mage Rolls Opportunities
 
   When a mage rolls an opportunity on a magickal action it generates paradox. The GM will give the Mage one PP to activate all the opportunities rolled. Each opportunity can be used in one of several ways, but all are immediate and can even give reality extra dice to resist this feat.
@@ -216,7 +215,6 @@
   ? if a mage attempts a vulgar feat, this might also generate paradox automatically, depends on how it works for balance ?
 
 ### Using Paradox
-
 #### Resisting Feats
 
   Reality can add any number of dice from a Mage's Paradox to it's pool for resisting a feat. Any paradox greater then the feat's effect dice will be lost unless the GM gives the Mage 1 PP per extra die to retain them. 
@@ -227,19 +225,45 @@
 
   Flaws can complicate the mage's feat, but can't contradict it. For example, a flaw in a wall of fire feat can't change or reduce the effect dice of the fire, but it could cause blowback to damage the mage, or complicate the situation by setting something important on fire. 
 
-  Flaws are more meaningful when the mage is attempting a long lasting working, like creating a wonder. Such complications last as long as the working does 
+  Flaws are more meaningful when the mage is attempting a long lasting working, like creating a wonder. Such complications last as long as the working does, which is one reason a Sanctum is so imporant for mage's planning on performing extended workings.
 
 #### Backlash
 
+  Backlash is a direct attempt by reality to protect itself by isolating the mage. 
+    
   Besides the paradox generated when reality successfully resists a mage's feat a backlash might also be triggered. A backlash is something like an immune response to a mage, and it might inflict the mage with a persistent supernatural quirk or plunge them into a serious Quiet. 
 
-  When a backlash is triggered the GM will nurn and roll all of the mage's accumulated paradox dice the two highest rolling dice will be the total, and the largest remaining die will the size of the backlash. If there are no dice left, the backlash will start at d6.
+  When a backlash is triggered the GM will burn and roll all of the mage's accumulated paradox dice plus any technocratic locality trait. The two highest rolling dice will be the total, and the largest remaining die will the size of the backlash. If there are no dice left, the backlash will start at d6.
 
-  Then the Mage rolls to resist the backlash. The applicable traits are Mind, Arete, Prime, Paradox Prime specialty, Sanctum (if you are luck enough to be in it), and Familiar. Some Distinctions and Wonders may also be of use if they specialized around paradox.
+  Then the Mage rolls to resist the backlash. The applicable traits are Mind, Arete, Prime, Paradox Prime specialty, Sanctum (if you are luck enough to be in one friendly to your focus), and Familiar. Some Distinctions and Wonders may also be of use if they specialized around paradox. 
 
-  If the mage resists, they will be left with only a temporary paradox complication the size of  
+  If the mage resists, they will be left with only a temporary paradox complication the size of the backlash. If they fail, the result will be a much longer lasting paradox flaw. 
 
-  ? So, your backlash die becomes a complication and gets stepped up for every 5 reality beats your total by. If your backlash is larger then d12 add a d6 and keep stepping up that die if needed. Backlash greater then d12 will result in quiet. ?
+  The backlash is stepped up for every 5 reality wins by, and if the backlash becomes larger then d12 the mage will be thrown into quiet instead of receiving a paradox flaw. 
+
+##### Paradox Complications 
+
+  These range from the inconvenient, such as instantly withering plants, to very intense, like being unable to answer a question with anything but excessive honesty, or continuously vomiting slime. 
+
+  Paradox complications can be cruel, ironic or just eerie. It sometimes seem to relate to the mage involved but not always.  
+
+  {List of interesting Paradox Complications Here}
+
+###### Recovering from Paradox Complications
+
+  Mages lucky enough to resist a backlash will get a temporary paradox complication which lasts for the rest of a particular story. 
+  
+  If the mage fails to resist, their complication is permenant until they have bought it off with Character Dice and some sufficent magickal work. 
+
+  Buying off such a complication takes the same number of dice that it would to buy. And the complication can be bought down by spending a few character dice at a time.
+
+
+##### Quiet
+
+  Quiet is a vegitative sort of state where a mage is very much removed from the consensus reality and trapped in a bizzare world inside their head. 
+
+###### Recovering from Quiet
+
 
 ### Burning Paradox
 
@@ -251,21 +275,6 @@
 
   You can burn your highest die even if it's currently in a reality dice pool. This doesn't affect reality's total or anything. The complication will come after the feat is resolved.
 
-#### Paradox Complications
-
-  These range from the inconvenient, such as instantly withering plants, to very intense such as being unable to answer a question with anything but full and complete honesty. Or continuously vomiting slime. 
-
-  Paradox complications can be cruel, typical, ironic or just eerie. It sometimes seem to relate to the mage involved, but not always.  
-
-### Backlash
-
-  If a mage fails a feat, add the feat's effect dice to the mage's paradox and then reality may trigger a backlash which consumes all of a mage's paradox at once. 
-
-  Backlash is a direct attempt by reality to protect itself by isolating the mage. 
-
-  Reality rolls all of the Mage's paradox dice and it's current locality trait, (some assets or scene distinctions may also apply) and determines two dice for a total ?and an effect die? 
-
-  The Mage rolls their Mind, Arete, and Prime to resist. Some other traits can help, especially the familiar background.
 
 ## Magickal Actions
 
