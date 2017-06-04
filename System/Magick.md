@@ -257,13 +257,15 @@
 
   Buying off such a complication takes the same number of dice that it would to buy. And the complication can be bought down by spending a few character dice at a time.
 
-
 ##### Quiet
 
   Quiet is a vegitative sort of state where a mage is very much removed from the consensus reality and trapped in a bizzare world inside their head. 
+  
+  Quiet might turn into a solo quest for a mage to find a way out, or it might be a chance for the player to retire that character and start a new one. Quiet can be the end of a character's protagonism, or the beganning of a story.
 
 ###### Recovering from Quiet
 
+  ?How does one recover from quiet? what does that mean? is it maybe a case where you play a different character for a while?
 
 ### Burning Paradox
 
