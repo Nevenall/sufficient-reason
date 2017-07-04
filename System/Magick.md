@@ -261,7 +261,7 @@
 
   Quiet is a vegitative sort of state where a mage is very much removed from the consensus reality and trapped in a bizzare world inside their head. 
   
-  Quiet might turn into a solo quest for a mage to find a way out, or it might be a chance for the player to retire that character and start a new one. Quiet can be the end of a character's protagonism, or the beganning of a story.
+  Quiet might turn into a solo quest for a mage to find a way out, or it might be a chance for the player to retire that character and start a new one. Quiet can be the end of a character's protagonism, or the beganning of a story. 
 
 ###### Recovering from Quiet
 
