@@ -64,8 +64,14 @@
       }
     },
     {
-      "taskName": "count",
+      "taskName": "count all files",
       "command": "Get-ChildItem *.md -Recurse | Get-Content | Measure-Object -Line -Word -Character",
+      "isShellCommand": true,
+      "showOutput": "always"
+    },
+    {
+      "taskName": "count this file",
+      "command": "Get-ChildItem \"${file}\" | Get-Content | Measure-Object -Line -Word -Character",
       "isShellCommand": true,
       "showOutput": "always"
     }
