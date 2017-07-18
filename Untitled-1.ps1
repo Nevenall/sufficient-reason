@@ -1,0 +1,1 @@
+gci *.md -Recurse | join-path "c:\"
