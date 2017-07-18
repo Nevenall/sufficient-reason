@@ -7,7 +7,7 @@
     {
       "taskName": "build",
       "type": "shell",
-      "command": "rm html\\*.html; gci *.md -Recurse | ForEach-Object -Process { pandoc.exe $_.FullName -t html5 -o \"html\\$($_.BaseName).html\" };",
+      "command": "rm html\\*; gci *.md -Recurse | ForEach-Object -Process { pandoc.exe $_.FullName -t html5 -o \"html\\$($_.BaseName).html\" };",
       "group": {
         "kind": "build",
         "isDefault": true
