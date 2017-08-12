@@ -358,7 +358,7 @@
 
   If your feat is Coincidental Reality gets 2 dice for it's total.
 
-  If your feat is Vulgar Reality gets 3 dice for it's total and you will get an extra d6 Paradox regardless of whether your feat succeeds or fails.
+  If your feat is Vulgar Reality gets 3 dice for it's total [and you will get an extra d6 Paradox regardless of whether your feat succeeds or fails.]
 
 ### Outcomes
 

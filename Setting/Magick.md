@@ -9,8 +9,7 @@
   Correspondence
   ~ space, places, and relations between things
   ~ the distance, real or metaphorical, between you and the target of your spell is a correspondence effect
-
-  Conjuration, Scrying,  Gates, Warding, Teleportation
+  ~ Conjuration, Scrying, Gates, Warding, Teleportation
 
 
   Entropy

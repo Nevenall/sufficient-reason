@@ -45,8 +45,8 @@
 
   Skill              | Description
   ------------------:|:-------
-  **Academics**      | Any mundane areas of knowledge.
-  **Art**            | Creating art and expressing a truth through it.
+  **Academics**      | Any mundane areas of knowledge. Includes one free specialty
+  **Art**            | Creating art and expressing a truth through it, also includes performance. 
   **Athletics**      | Running, swimming, catching, throwing, acrobatics.
   **Cosmology**      | Knowledge of other worlds, dimensions, planes of being; their inhabitants, and how to navigate them.
   **Craft**          | Build and repair things.

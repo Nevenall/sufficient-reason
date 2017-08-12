@@ -5,19 +5,13 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "taskName": "build",
-      "type": "shell",
-      "command": "rm html\\*; gci *.md -Recurse | ForEach-Object -Process { pandoc.exe $_.FullName -t html5 -o \"html\\$($_.BaseName).html\" };",
+      "type": "gulp",
+      "task": "build",
       "group": {
         "kind": "build",
         "isDefault": true
       },
-      "presentation": {
-        "echo": true,
-        "reveal": "silent",
-        "focus": false,
-        "panel": "shared"
-      }
+      "problemMatcher": []
     },
     {
       "taskName": "spell check all files",
