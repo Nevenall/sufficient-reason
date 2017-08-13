@@ -1,11 +1,15 @@
 # Making a Mage
 
+  This is a guide for creating yourself a new Mage. 
+
 ## Concept
 
   *Describe who your Mage is in five words or so.*
 
-  You may have lived as a mystick most of your life, or you might be a barely woken innocent. What are the fundamental elements of you?
+  It helps to have a simple concept in mind as you create your character. It doesn't have to be complex, profound, or heroic, just something you can clearly imagine.
 
+  You might be a "wizard private detective", or an "oracular sculptor."
+  
 ## Avatar
 
   *Pick a type [Dynamic, Pattern, Primordial, or Questing](../Setting/Avatars.html) and characterize your avatar a bit.*
@@ -18,23 +22,48 @@
 
   *Pick a [Paradigm, at least one Magickal practice, and 7 Instruments](../Setting/Focus.html)*
 
-  Focus encompasess both your fundamental beliefs about reality, and the nuts and bolts of how you perform magick.  
+  Focus encompasses both your fundamental beliefs about reality, and the nuts and bolts of how you perform magick.  
 
 ## Attributes
 
   *Assign d6, d8, d10 to the three Attributes: Physical, Mental, Social.*
 
-  Attributes are mundane traits that represent general faculties.
+  Attributes are mundane traits representing your general faculties.
 
-  They are the base of most any action.
+  They form the base of most dice pools.
 
 ## Distinctions
 
   *Pick a Tradition and 3 more.*
 
-  Distinctions are mundane traits that can help or hinder a Mage's actions. They can be relationships, affiliations, personality, or unique backgrounds.
+  Distinctions are d8 mundane traits that represent facets of who you are. They might be relationships, affiliations, personality traits, unique backgrounds, powerful aspects of your personality, or other such things.
 
-  An appropriate Distinction can be helpful as a d8, or a detriment as a d4 and you get a Plot Point. Helpful or Hurtful is your choice.
+  Each distinction can be used as an ordinary d8 trait, but they also have special effects which provide most interesting mechanical effects.
+
+### Special Effects (sfx)
+
+  *Start with the default sfx. Create a negative sfx to add a positive one.*
+  
+  Each special effect has a name, a trigger, and an effect. The trigger is a condition for the effect to take effect.   
+  
+  The default trigger for each distinction is: 
+  + Gain 1 PP when you roll a d4 instead of a d8.
+
+  Common Triggers or Negative Effects:
+  - Spend a Plot Point.
+  - Step back a beneficial trait such as an attribute, skill, or asset.
+  - Set up a detrimental trait, like a complication.
+  - Choose to do or introduce something risky, dumb, or complicated.
+  - Create a d8 complication. 
+  
+  Common Positive Effects:
+  - Earn a Plot Points.
+  - Step up a beneficial trait.
+  - Double a beneficial trait.
+  - Step back a non-beneficial trait.
+  - Introduce a narrative detail.
+  - Reroll one die.
+  - Create a d8 asset for the rest of scene.
 
 ## Skills
 
@@ -42,10 +71,9 @@
 
   Skills are mundane traits that represent distinct areas of expertise and training.
 
-
   Skill              | Description
   ------------------:|:-------
-  **Academics**      | Any mundane areas of knowledge. Includes one free specialty
+  **Academics**      | Any mundane areas of knowledge. Includes one free specialty.
   **Art**            | Creating art and expressing a truth through it, also includes performance. 
   **Athletics**      | Running, swimming, catching, throwing, acrobatics.
   **Cosmology**      | Knowledge of other worlds, dimensions, planes of being; their inhabitants, and how to navigate them.
@@ -69,9 +97,9 @@
 
 ### Specialties
 
-  *Spend a Character Die to add Specialties to a Skill. Each Speciality is a d6.*
+  *Spend a Character Die to add Specialties to a Skill. Each Specialty is a d6.*
 
-  Each skill is intentionally broad. Specialties represent more focused knowledge and training. A Specialty is less likely to be useful, but when it is, you can add an additional d6 to your action pool along with the Skill it specializes.
+  Each skill is intentionally broad. Specialties represent focused knowledge and training. A Specialty is less likely to be useful, but when it is, you can add an additional d6 to your action pool along with the Skill it specializes.
 
 ## Arete
 
@@ -107,9 +135,9 @@
 
 ### Specialties
 
-  *Spend a Character Die to add Specialties to a Sphere. Each speciality is a d6.*
+  *Spend a Character Die to add Specialties to a Sphere. Each specialty is a d6.*
 
-  Mages may develop specialties in specific aspects of a Sphere. When the specialty applies, you may add an additional d6 to your action pool. 
+  Many Mages may develop specialties in specific aspects of a Sphere. When the specialty applies, you may add an additional d6 to your dice pool. 
 
 ## Backgrounds
 
@@ -165,9 +193,9 @@
   -------------|-----
   10 (8+2)     | d12, d6
   14 (8+4)     | d12, d8
-  12 (8+8)     | d12, d10
-  16 (8+16)    | d12, d12
-  20 (8+16+4)  | d12, d12, d6
+  16 (8+8)     | d12, d10
+  24 (8+16)    | d12, d12
+  28 (8+16+4)  | d12, d12, d6
   32 (8+16+8)  | d12, d12, d8
 
   Table: Cost of Traits Beyond d12 
