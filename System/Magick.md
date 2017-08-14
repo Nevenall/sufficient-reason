@@ -1,14 +1,20 @@
 # Working Magick
 
-  Magick is a change, any change, in reality you make through an effort of your Enlightened Will. This change is called a *feat.* 
+  Magick is a change in reality. One you make happen through an effort of your Enlightened Will. This change is called a *feat.* 
   
-  It is possible to accomplish anything through Magick, but the larger and more complex your feat, the more dice Reality will have to resist you, and their are consequences to failing.
+  It is possible to accomplish anything you desire through Magick, but the larger and more complex a feat you attempt, the more dice Reality will have to resist you and there are consequences for failing a mystick action. 
   
+## Magick is an Expression of Your Will
+ 
   Because magick is an expression of your will, it requires a conscious choice by the Mage. 
+
+## Leverage the Power of your Practice
 
   If you can describe your feat and how you with accomplish it within the context of your magickal *practice* you may add dice from your mundane traits, and not just your magickal ones. 
   
   > For example, if your practice is witchcraft you might describe collecting some physical token of your victim and creating a poppet with it which you poke with needles. Describing your effect in terms of your practice in this way will allow you to add your Mental and Occult traits.
+
+## Raw Magick
 
   Mages occasionally perform feats with pure will and nothing else. Such Raw Magick transcends your focus and allows you to affect change without needing to follow the patterns and strictures of your practice. It is quicker and simpler, but more dangerous and difficult because only the Mystickal traits, Arete and Spheres, can be used. 
 
@@ -16,21 +22,23 @@
   
   A feat is magick you accomplish in a single action. 
 
-  A working is a collection of feats unified into a single magickal accomplishment. It might be a lone mage's project done slowly feat by feat, or a single spell woven by an entire cabal. 
+  A working is a collection of feats unified into a single magickal accomplishment. It might be a lone mage's project done slowly season by season, or a single spell woven by an entire cabal. 
   
   A feat may take an entire scene to complete, or it might be instantaneous, it might even grant you multiple actions in a single round, but those will be mundane actions. You may only attempt one feat per round. 
 
-  A simple feat may have just one effect, like dealing damage with a bolt of flame, but complex feats may have as many different effects as you wish. For example, your bolt of fire might deal immediate damage but also complicate the life or your target by burning away their false skin to reveal the android beneath. 
+### Feats have One or More Effects
+
+  A simple feat may have just one effect, like dealing damage with a bolt of flame, but complex feats may have as many different effects as you wish. 
+  
+  > For example, you create a life feat to give yourself claws d8 and armor d8.  
 
   Each effect is represented by an *effect die* and you choose how many, and how large, the effect dice of your feat will be.
 
 ### Effect Dice
 
-  Pick your Effect Dice. 
+  Pick your Effect Dice, the larger they are the grander and more powerful the scope of your spell. You may choose effect dice of any size and number. 
   
-  These may be any number of dice of any size, you may choose an effect die larger then d12 by adding additional dice to that effect. The larger an Effect Die the grander the scope and power of your spell. 
-
-  If you wish to affect more then one target assign each an Effect Die. 
+  To affect more then one target assign each an Effect Die. 
 
   Successes | Effect Dice | Feat       | Examples
   :--------:|:-----------:|:----------:|:---------
@@ -48,11 +56,11 @@
 
 ## Spheres
 
-  Once your feat is clearly defined we'll determine how difficult it is by determining its Sphere components. That is, which Spheres, and at which size, best represent the feat as you have described it.
- 
-  > For example: You need to cross a gap between two building to escape some technocratic agents. You might calculate the coordinates of the rooftop you wish to be on and run a quick script on your wrist computer to alter your token's position in the virtual reality simulation that is reality; effectively teleporting across the distance. This accomplishes your feat using Technology and the sphere of Correspondence.   
+  Once your feat is clearly defined we'll determine how complex it is by determining its Sphere components. That is, what ratings of which Spheres your feat will require.
 
-  > Alternately: You might speak a spell that calls upon the mystic winds of watoomb to levitate you across the gap. Making use of your Occult skill and the Sphere of Forces. 
+  > For example: You need to cross a gap between two building to escape some technocratic agents. You might calculate the coordinates of the rooftop you wish to be on and run a quick script on your wrist computer to alter your token's position in the virtual reality simulation that is reality; effectively teleporting across the distance. This would accomplish your feat using the sphere of Correspondence at d8. 
+
+  > Alternately: You might speak a spell that calls upon mystick winds to levitate you across the gap. Making use of the Sphere of Forces at d8. 
   
   It is possible for your Effect to have multiple components of the same Sphere. This is especially common with Correspondence and Prime because those Spheres are used for common meta-magickal components. Such as targeting and extending the duration of your feats. 
   
@@ -70,15 +78,15 @@
 
 ### Meta-magick 
 
-  Some sphere components extend the possibilities of your feat instead of directly relating to your effect. These we refer to generally as Meta-magick. The two most common forms are using the Correspondence sphere for targeting your feat and Prime for extending the duration of it.
+  Some sphere components extend the possibilities of your feat instead of directly relating to your effect and we refer to these as meta-magick. The two most common forms are using Correspondence to target your feat and Prime to extend the duration of it.
 
-  Meta-magick components are not required, but when used, they are separate instances of that sphere.
+  Meta-magick components are not required, but they are always separate sphere components.
 
 #### Targeting
 
-  Without extra effort the effects of magick are localized to the mage and their most immediate environment. However, by adding a Correspondence component it is possible to make a feat reach a target or location at any distance. With the addition of Spirit the feat can reach into other worlds as well. 
+  Without extra effort a feat is localized to you or your immediate environment, but by adding a Correspondence component to your feat it can reach a distant target or location. With the addition of Spirit your feat can reach into other worlds as well. 
 
-  Targeting with Correspondence can be a matter of pure distance, but it can also take the form of reaching the target through something closely realted to them. The classic "spell upon a lock of their hair" is an example of relational Correspondence from the practice of Witchcraft. 
+  Targeting with Correspondence can be a matter of pure distance, but it can also mean reaching a target through something closely realted to them. The use of a "lock of hair" is a classic example of relational Correspondence from the practice of Witchcraft. 
 
   Range targeting allows for vast distances but even if you have the ability to target anywhere on earth you must be able to identify a particular target. This can be done with line of sight unaided by mundane effects such as cameras or telescopes (mystick effects that match your focus may help), or by knowing in great detail where your target is at this exact moment. Without one of those things, you will need to use relational targeting instead. 
 
