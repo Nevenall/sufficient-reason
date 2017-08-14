@@ -17,10 +17,9 @@
       "task": "spelling",
       "type": "gulp",
       "presentation": {
-        "echo": true,
         "reveal": "silent",
         "focus": false,
-        "panel": "shared"
+        "panel": "dedicated"
       },
       "problemMatcher": {
         "owner": "OddSpell",
@@ -46,10 +45,9 @@
       "type": "shell",
       "command": "Write-Output \"${file}\"; OddSpell \"${file}\";",
       "presentation": {
-        "echo": true,
         "reveal": "silent",
         "focus": false,
-        "panel": "shared"
+        "panel": "dedicated"
       },
       "problemMatcher": {
         "owner": "OddSpell",
@@ -71,26 +69,9 @@
       }
     },
     {
-      "taskName": "count all files",
-      "type": "shell",
-      "command": "Get-ChildItem *.md -Recurse | Get-Content | Measure-Object -Line -Word -Character",
-      "presentation": {
-        "echo": true,
-        "reveal": "silent",
-        "focus": false,
-        "panel": "shared"
-      }
-    },
-    {
-      "taskName": "count this file",
-      "type": "shell",
-      "command": "Get-ChildItem \"${file}\" | Get-Content | Measure-Object -Line -Word -Character",
-      "presentation": {
-        "echo": true,
-        "reveal": "silent",
-        "focus": false,
-        "panel": "shared"
-      }
+      "type": "gulp",
+      "task": "count",
+      "problemMatcher": []
     }
   ]
 }

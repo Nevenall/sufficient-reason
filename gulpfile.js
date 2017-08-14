@@ -5,6 +5,7 @@ var MarkdownIt = require('markdown-it');
 var deflist = require('markdown-it-deflist');
 var del = require('del');
 var shell = require('gulp-shell');
+var count = require('gulp-count-stat');
 
 var md = new MarkdownIt();
 md.use(deflist);
@@ -26,6 +27,10 @@ gulp.task('spelling', function () {
     .pipe(shell(['echo <%= file.path %>', 'OddSpell "<%= file.path %>"']));
 });
 
+gulp.task('count', function () {
+  return gulp.src(['**/*.md', '!node_modules/**'])
+    .pipe(count());
+});
 
 function markdownToHtml(file) {
   var result = md.render(file.contents.toString());
