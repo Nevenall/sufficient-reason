@@ -19,6 +19,7 @@
   "devDependencies": {
     "del": "^3.0.0",
     "gulp": "^3.9.1",
+    "gulp-shell": "^0.6.3",
     "gulp-tap": "^1.0.1",
     "gulp-util": "^3.0.8",
     "markdown-it": "^8.3.2",

@@ -4,6 +4,7 @@ var tap = require('gulp-tap');
 var MarkdownIt = require('markdown-it');
 var deflist = require('markdown-it-deflist');
 var del = require('del');
+var shell = require('gulp-shell');
 
 var md = new MarkdownIt();
 md.use(deflist);
@@ -18,6 +19,11 @@ gulp.task('build', ['clean'], function () {
   return gulp.src(['**/*.md', '!node_modules/**'])
     .pipe(tap(markdownToHtml))
     .pipe(gulp.dest('./html'));
+});
+
+gulp.task('spelling', function(){
+  return gulp.src(['**/*.md', '!node_modules/**'])
+  .pipe(shell());
 });
 
 
