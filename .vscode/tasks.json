@@ -14,9 +14,8 @@
       "problemMatcher": []
     },
     {
-      "taskName": "spell check all files",
-      "type": "shell",
-      "command": "gci *.md -Recurse | foreach { write-output \"$($_.FullName)\"; OddSpell $_; }",
+      "task": "spelling",
+      "type": "gulp",
       "presentation": {
         "echo": true,
         "reveal": "silent",

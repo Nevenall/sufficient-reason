@@ -21,9 +21,9 @@ gulp.task('build', ['clean'], function () {
     .pipe(gulp.dest('./html'));
 });
 
-gulp.task('spelling', function(){
+gulp.task('spelling', function () {
   return gulp.src(['**/*.md', '!node_modules/**'])
-  .pipe(shell());
+    .pipe(shell(['echo <%= file.path %>', 'OddSpell "<%= file.path %>"']));
 });
 
 
