@@ -90,7 +90,7 @@
 
   Range targeting allows for vast distances but even if you have the ability to target anywhere on earth you must be able to identify a particular target. This can be done with line of sight unaided by mundane effects such as cameras or telescopes (mystick effects that match your focus may help), or by knowing in great detail where your target is at this exact moment. Without one of those things, you will need to use relational targeting instead. 
 
-  With relational targeting you must possess some object that has a concrete relation to your target. Providing you can touch and hold this object you may attempt to channel your feat through it and at your target. 
+  With relational targeting you must possess something with a relation to your target which you'll use to channel your feat at your target. 
 
   Dice    | Range (Correspondence)         | Relation (Correspondence) 
   -------:|:-------------------------------|:--------------------------
@@ -98,8 +98,9 @@
   d4      | Within a neighborhood          | A fresh body sample of your target.
   d6      | Within a large city            | A boon companion. A meaningful possession of your target. 
   d8      | Within a state                 | A casual friend. A possession of your target. 
-  d10     | Within a large country         | A casual acquaintance. A object your target touched.  
-  d12     | Within a continent             | Distance. One trivial kind of relation. These are the same color object. We are both human.
+  d10     | Within a large country         | A casual acquaintance. A object your target once touched.  
+  d12     | Within a continent             | A distant relation
+  d12, d4 | Within a hemisphere            | 
   d12, d6 | Anywhere on earth              | No object, only a concept that relates to your target.
 
   Table: Targeting Magick by Distance or Relation with Correspondence
@@ -108,32 +109,34 @@
   -------:|:---------------------------
   None    | Only the Mage's current locality and beings manifest upon it.
   d4      | Non-manifest spirits who've crossed into the current locality.
-  d6      | 
+  d6      |  
   d8      | 
   d10     | 
   d12     | 
+  d12, d4 |
   d12, d6 | 
 
   Table: Targeting Spirits and other Dimensions with Spirit
 
 #### Duration
 
-  Magick may have long lasting consequences, but reality will relentlessly erode active magick unless you constantly support it with Quintessence.
+  Reality will relentlessly erode active magick unless you constantly support it with Quintessence.
 
-  Without support a feat lasts a short while, typically no more then the length of your action, but if you spend a point of Quintessence the feat will endure for the length of a scene. 
-  
-  Alternately, you may use the Sphere of Prime to fuel your magick from universal energy of creation and make it last longer then a moment.
+  Without support a feat lasts a short while, typically no more then the length of your action, but if you spend a point of Quintessence the feat will endure for the length of a scene.
+
+  Alternately, you may use the Sphere of Prime to fuel your feat from universal energy of creation.
 
   Dice    | Duration (Prime)
   -------:|:-----------------
   None    | Only a moment
   d4      | A few moments
   d6      | An Hour
-  d8      | A Week
-  d10     | A Season
-  d12     | A year and a day
+  d8      | Several Hours
+  d10     | A Week
+  d12     | A Season
+  d12, d4 | A year and a day
   d12, d6 | Beyond a year
-  d12, d12| May lasts unless dispelled
+  d12, d12| Until dispelled or destroyed
 
   Table: Extending the duration of magick with Prime  
 
@@ -161,11 +164,18 @@
 
 ## Realities & Localities 
 
-  There are no neutral spaces in the Ascension war. Everywhere you might be is aligned to one reality or another, most commonly the technocratic consensus, and few of them are welcoming to a mage's enlightened will.  
+  There are no neutral spaces in the Ascension war and most places are closely aligned to the technocatic consensus.  
   
-  Locality is a trait representing how strongly aligned your current location is with it's reality. 
+  Locality is a trait representing how strongly aligned a place is with it's ruling reality and consequently, how strongly reality will resist your workings within it.
   
-  Reality adds the locality trait to its dice pool for resistance, so the stronger the locality, the more it will resist your magick. 
+### Sanctums and Desemines
+
+  To aid their workings mages sometimes find or build localities that are friendly to their focus. 
+
+  - If your effect die does not exceed the locality die, the effect can be considered coincidental.
+  - Reality gets no extra locality die.
+
+  localities do not add dice to magickal actions, on
 
 ### Technocratic Localities
 
@@ -173,13 +183,13 @@
 
   Dice  | Locality (Technocratic)
   -----:|:-------------
-  d4    | Wilderness, Ancient human places, A mundane place friendly to your practice      
+  d4    | A mundane place friendly to your practice      
   d6    | Typical western/globalized area
   d8    | Sprawl, suburbs, most urban areas
   d10   | Urban core, skyscraper  
-  d12   | Science Lab, stock exchange floor, ultra modern building
+  d12   | Science lab, stock exchange floor, ultra modern/smart building
   
-  Table: Technocratic Locality 
+  Table: Technocratic Locality
 
 ### Wyld Localities
 
@@ -187,11 +197,11 @@
 
   Dice  | Locality (Wyld)
   -----:|:-------------
-  d4    | 
-  d6    | 
-  d8    | 
-  d10   | 
-  d12   | 
+  d4    | A mundane place friendly to your practice
+  d6    | Urban park
+  d8    | A campground
+  d10   | Deep wilderness
+  d12   | Untouched wilderness
   
   Table: Wyld Locality
 
