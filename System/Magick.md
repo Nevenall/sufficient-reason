@@ -207,7 +207,7 @@
 
 ## Paradox
   
-  Paradox is an energy of reality's rejection of a mage and their magick. It can accumulate around the mage as a pool of dice, or weave its way into their spells. 
+  Paradox is an expression of reality's rejection of a mage and their magick. It accumulates individually for each mage as a pool of dice, or weave its way into their spells. 
 
   Reality can add these dice to resist a mage's feat. If a mage fails in a magickal action, they will generate significant paradox and reality might trigger a backlash against them.  
 
