@@ -193,7 +193,7 @@
 
 ### Wyld Localities
 
-  Wyld is a distinctly inhuman power. It's the power and terror of a natural world that makes no distinction between humans and bugs. Wyld is a reality commonly associated with the Garou. 
+  The Wyld is an inhuman reality. It's the power and terror of a natural world that is actively hostile to humanity. Wyld is a reality commonly associated with the Garou.
 
   Dice  | Locality (Wyld)
   -----:|:-------------
