@@ -86,7 +86,7 @@
 
   Without extra effort a feat is localized to you or your immediate environment, but by adding a Correspondence component to your feat it can reach a distant target or location. With the addition of Spirit your feat can reach into other worlds as well. 
 
-  Targeting with Correspondence can be a matter of pure distance, but it can also mean reaching a target through something closely realted to them. The use of a "lock of hair" is a classic example of relational Correspondence from the practice of Witchcraft. 
+  Targeting with Correspondence can be a matter of pure distance, but it can also mean reaching a target through something closely related to them. The use of a "lock of hair" is a classic example of relational Correspondence from the practice of Witchcraft. 
 
   Range targeting allows for vast distances but even if you have the ability to target anywhere on earth you must be able to identify a particular target. This can be done with line of sight unaided by mundane effects such as cameras or telescopes (mystick effects that match your focus may help), or by knowing in great detail where your target is at this exact moment. Without one of those things, you will need to use relational targeting instead. 
 
@@ -164,11 +164,11 @@
 
 ## Realities & Localities 
 
-  There are no neutral spaces in the Ascension war and most places are closely aligned to the technocatic consensus.  
+  There are no neutral spaces in the Ascension war and most places are closely aligned to the technocratic consensus.  
   
   Locality is a trait representing how strongly aligned a place is with it's ruling reality and consequently, how strongly reality will resist your workings within it.
   
-### Sanctums and Desemines
+### Sanctums and Demesnes
 
   To aid their workings mages sometimes find or build localities that are friendly to their focus. 
 
@@ -193,7 +193,7 @@
 
 ### Wyld Localities
 
-  The Wyld is an inhuman reality. It's the power and terror of a natural world that is actively hostile to humanity. Wyld is a reality commonly associated with the Garou._
+  The Wyld is an inhuman reality. It's the power and terror of a natural world that is actively hostile to humanity. Wyld is a reality commonly associated with the Garou.
 
   Dice  | Locality (Wyld)
   -----:|:-------------
@@ -243,7 +243,7 @@
 
   Flaws can complicate the mage's feat, but can't contradict it. For example, a flaw in a wall of fire feat can't change or reduce the effect dice of the fire, but it could cause blowback to damage the mage, or complicate the situation by setting something important on fire. 
 
-  Flaws are more meaningful when the mage is attempting a long lasting working, like creating a wonder. Such complications last as long as the working does, which is one reason a Sanctum is so imporant for mage's planning on performing extended workings.
+  Flaws are more meaningful when the mage is attempting a long lasting working, like creating a wonder. Such complications last as long as the working does, which is one reason a Sanctum is so important for mage's planning on performing extended workings.
 
 #### Backlash
 
@@ -271,15 +271,15 @@
 
   Mages lucky enough to resist a backlash will get a temporary paradox complication which lasts for the rest of a particular story. 
   
-  If the mage fails to resist, their complication is permenant until they have bought it off with Character Dice and some sufficent magickal work. 
+  If the mage fails to resist, their complication is permanent until they have bought it off with Character Dice and some sufficient magickal work. 
 
   Buying off such a complication takes the same number of dice that it would to buy. And the complication can be bought down by spending a few character dice at a time.
 
 ##### Quiet
 
-  Quiet is a vegitative sort of state where a mage is very much removed from the consensus reality and trapped in a bizzare world inside their head. 
+  Quiet is a vegetative sort of state where a mage is very much removed from the consensus reality and trapped in a bizarre world inside their head. 
   
-  Quiet might turn into a solo quest for a mage to find a way out, or it might be a chance for the player to retire that character and start a new one. Quiet can be the end of a character's protagonism, or the beganning of a story. 
+  Quiet might turn into a solo quest for a mage to find a way out, or it might be a chance for the player to retire that character and start a new one. Quiet can be the end of a character's protagonism, or the beginning of a story. 
 
 ###### Recovering from Quiet
 
@@ -356,7 +356,7 @@
     - You may be able to include one Asset 
     - Mystick assets, especially resonance, might help you in your feat
 
-# (do we need a section about opportunties here? paradox burning paradox? it is a part of action, but it's also a thing unto itself. like pheres)
+# (do we need a section about opportunities here? paradox burning paradox? it is a part of action, but it's also a thing unto itself. like spheres)
 
 ### Reality Resists Your Magick
 
