@@ -207,11 +207,9 @@
 
 ## Paradox
   
-  Paradox is an expression of reality's rejection of a mage and their magick. It accumulates individually for each mage as a pool of dice, or weave its way into their spells. 
+  Paradox is an expression of reality rejecting a mage and their magick. It accumulates as a pool of dice reality may use to resist feats or weave its way into spells. 
 
-  Reality can add these dice to resist a mage's feat. If a mage fails in a magickal action, they will generate significant paradox and reality might trigger a backlash against them.  
-
-  Each mage has their own Paradox dice pool. These dice are generally a secret from the players, but with a Prime d4 effect it's possible to learn the size of a mage's largest Paradox dice. 
+  Paradox is generated when a mage rolls a  
 
 ### Generating Paradox
 #### When a Mage Rolls Opportunities
