@@ -207,12 +207,13 @@
 
 ## Paradox
   
-  Paradox is an expression of reality rejecting a mage and their magick. It accumulates as a pool of dice reality may use to resist feats or weave its way into spells. 
+  Paradox is an expression of reality rejecting you and your magick. It accumulates as a Complication used against future workings, it weaves its way into your spells as flaws and unintended consequences, and sometimes explodes as a backlash which has the potential to encase you in a bubble of strange reality known as Quiet. 
 
-  Paradox is generated when a mage rolls a  
+  Your Paradox Complication comes from reality sucessfully resists a feat, or when your feat is vulgar. 
+
+  Flaws in your magickal feats are a lesser form of paradox that can occur when your roll opportunties. They sometimes affect the spell itself. Draining off Quintessence and making its effect fade faster then you wished. Often flaws manifest as unintended consequences of your feat as reality is forced to accept and integrate it. For example, a flaw might ingnite some fuel you didn't know was there and turn your small fire spell into a raging inferno. A life spell to enhances your reflexes might also, because of a flaw, spike your metabolism and require you to eat twice as often or be afflicted with hunger and lightheadedness.
 
 ### Generating Paradox
-#### When a Mage Rolls Opportunities
 
   When a mage rolls an opportunity on a magickal action it generates paradox. The GM will give the Mage one PP to activate all the opportunities rolled. Each opportunity can be used in one of several ways, but all are immediate and can even give reality extra dice to resist this feat.
 
@@ -231,6 +232,8 @@
   ? if a mage attempts a vulgar feat, this might also generate paradox automatically, depends on how it works for balance ?
 
 ### Using Paradox
+
+#### When a Mage Rolls Opportunities
 #### Resisting Feats
 
   Reality can add any number of dice from a Mage's Paradox to it's pool for resisting a feat. Any paradox greater then the feat's effect dice will be lost unless the GM gives the Mage 1 PP per extra die to retain them. 
