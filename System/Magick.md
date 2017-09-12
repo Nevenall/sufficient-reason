@@ -207,14 +207,13 @@
 
 ## Paradox
   
-  Paradox is an expression of reality rejecting you and your magick. It accumulates as a Complication used against future workings, it weaves its way into your spells as flaws and unintended consequences, and sometimes explodes as a backlash which has the potential to encase you in a bubble of strange reality known as Quiet. 
-
-  Your Paradox Complication comes from reality sucessfully resists a feat, or when your feat is vulgar. 
-
-  Flaws in your magickal feats are a lesser form of paradox that can occur when your roll opportunties. They sometimes affect the spell itself. Draining off Quintessence and making its effect fade faster then you wished. Often flaws manifest as unintended consequences of your feat as reality is forced to accept and integrate it. For example, a flaw might ingnite some fuel you didn't know was there and turn your small fire spell into a raging inferno. A life spell to enhances your reflexes might also, because of a flaw, spike your metabolism and require you to eat twice as often or be afflicted with hunger and lightheadedness.
+  Paradox is an expression of reality's resistance to being told what to do. It accumulates as a Complication that hinders future workings; it weaves its way into spells as flaws and unintended consequences; and sometimes paradox explodes as a reality bending backlash against a mage which can scar and change them and sometimes trap them in a bubble of strange reality known as Quiet. 
 
 ### Generating Paradox
 
+  Paradox is generated only when a mage invokes their mystick will to affect a change in reality. It's generated in the smallest way from opporunities rolled on magickal actions, in a more serious way from attempting vulgar magick, but the most dangerous cause of paradox is failing a magickal action.
+  
+  
   When a mage rolls an opportunity on a magickal action it generates paradox. The GM will give the Mage one PP to activate all the opportunities rolled. Each opportunity can be used in one of several ways, but all are immediate and can even give reality extra dice to resist this feat.
 
   - Add a d6 to the Mage's Paradox 
@@ -240,6 +239,8 @@
 
 #### Flaws
 
+   Flaws in your magickal feats are a lesser form of paradox that can occur when your roll opportunties. They sometimes affect the spell itself. Draining off Quintessence and making its effect fade faster then you wished. Often flaws manifest as unintended consequences of your feat as reality is forced to accept and integrate it. For example, a flaw might ingnite some fuel you didn't know was there and turn your small fire spell into a raging inferno. A life spell to enhances your reflexes might also, because of a flaw, spike your metabolism and require you to eat twice as often or be afflicted with hunger and lightheadedness.
+  
   When a mage rolls opportunities on a feat, reality may choose to sneak a flaw into their feat instead of saving the paradox for later. 
 
   Flaws can complicate the mage's feat, but can't contradict it. For example, a flaw in a wall of fire feat can't change or reduce the effect dice of the fire, but it could cause blowback to damage the mage, or complicate the situation by setting something important on fire. 
