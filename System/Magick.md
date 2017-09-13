@@ -209,9 +209,27 @@
   
   Paradox is an expression of reality's resistance to being told what to do. It accumulates as a Complication that hinders future workings; it weaves its way into spells as flaws and unintended consequences; and sometimes paradox explodes as a reality bending backlash against a mage which can scar and change them and sometimes trap them in a bubble of strange reality known as Quiet. 
 
+  Paradox is generated only when a mage invokes their mystick will to affect a change in reality. It's generated in the smallest way from opporunities rolled on magickal actions, in a more serious way from attempting vulgar magick, but the most dangerous cause of paradox is failing a magickal action.
+
+### Flaws and Consequences
+
+  The most common way for reality to bleed off the tension of being forcebly changed is when 1s are rolled on a magickal action. These opportunities can be activated to represent the unintended consequences of a spell, or reality weaving flaws into a working. 
+
+  For example, a fire spell may reasonably set unintended things on fire D8, because of some opportunities. A reflex enhancing life spell may require the target to eat frequently d6 to keep the effect from fading.
+  
+  When an opporunity is rolled on a magickal action, the mage gets a PP and some kind of d6 complication. The complication can be stepped up by using extra opportunities, or additional complications can be created. 
+
+  These complications can be quite varied, but reality's favorite tactic is to punish mage's with it's own scientific and rational paradim. 
+
+### Paradox Complication
+
+  Each mage has a complication which represents their personal accumulation of paradox.  
+
+### Backlash
+
+
 ### Generating Paradox
 
-  Paradox is generated only when a mage invokes their mystick will to affect a change in reality. It's generated in the smallest way from opporunities rolled on magickal actions, in a more serious way from attempting vulgar magick, but the most dangerous cause of paradox is failing a magickal action.
   
   
   When a mage rolls an opportunity on a magickal action it generates paradox. The GM will give the Mage one PP to activate all the opportunities rolled. Each opportunity can be used in one of several ways, but all are immediate and can even give reality extra dice to resist this feat.
