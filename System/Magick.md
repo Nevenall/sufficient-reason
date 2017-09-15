@@ -209,21 +209,21 @@
   
   Paradox is an expression of reality's resistance to being told what to do. It accumulates as a Complication that hinders future workings; it weaves its way into spells as flaws and unintended consequences; and sometimes paradox explodes as a reality bending backlash against a mage which can scar and change them and sometimes trap them in a bubble of strange reality known as Quiet. 
 
-  Paradox is generated only when a mage invokes their mystick will to affect a change in reality. It's generated in the smallest way from opporunities rolled on magickal actions, in a more serious way from attempting vulgar magick, but the most dangerous cause of paradox is failing a magickal action.
+  Paradox is generated only when a mage invokes their mystick will to affect a change in reality. It's generated in the smallest way from opportunities rolled on magickal actions, in a more serious way from attempting vulgar magick, but the most dangerous cause of paradox is failing a magickal action.
 
 ### Flaws and Consequences
 
-  The most common way for reality to bleed off the tension of being forcebly changed is when 1s are rolled on a magickal action. These opportunities can be activated to represent the unintended consequences of a spell, or reality weaving flaws into a working. 
+  The most common way for reality to bleed off the tension of being forcibly changed is when 1s are rolled on a magickal action. These opportunities can be activated to represent the unintended consequences of a spell, or reality weaving flaws into a working. 
 
   For example, a fire spell may reasonably set unintended things on fire D8, because of some opportunities. A reflex enhancing life spell may require the target to eat frequently d6 to keep the effect from fading.
   
-  When an opporunity is rolled on a magickal action, the mage gets a PP and some kind of d6 complication. The complication can be stepped up by using extra opportunities, or additional complications can be created. 
+  When an opportunity is rolled on a magickal action, the mage gets a PP and some kind of d6 complication. The complication can be stepped up by using extra opportunities, or additional complications can be created. 
 
-  These complications can be quite varied, but reality's favorite tactic is to punish mage's with it's own scientific and rational paradim. 
+  These complications can be quite varied, but reality's favorite tactic is to punish mages with its own scientific paradigm. 
 
 ### Paradox Complication
 
-  Each mage has a complication which represents their personal accumulation of paradox.  
+  Each mage has a complication which represents their personal accumulation of paradox, like a static charge waiting to be discharged. Whenever a mage attempts a feat that obviously breaks the paradigm of the concensus reality, but especially when 
 
 ### Backlash
 
@@ -257,7 +257,7 @@
 
 #### Flaws
 
-   Flaws in your magickal feats are a lesser form of paradox that can occur when your roll opportunties. They sometimes affect the spell itself. Draining off Quintessence and making its effect fade faster then you wished. Often flaws manifest as unintended consequences of your feat as reality is forced to accept and integrate it. For example, a flaw might ingnite some fuel you didn't know was there and turn your small fire spell into a raging inferno. A life spell to enhances your reflexes might also, because of a flaw, spike your metabolism and require you to eat twice as often or be afflicted with hunger and lightheadedness.
+   Flaws in your magickal feats are a lesser form of paradox that can occur when your roll opportunities. They sometimes affect the spell itself. Draining off Quintessence and making its effect fade faster then you wished. Often flaws manifest as unintended consequences of your feat as reality is forced to accept and integrate it. For example, a flaw might ignite some fuel you didn't know was there and turn your small fire spell into a raging inferno. A life spell to enhances your reflexes might also, because of a flaw, spike your metabolism and require you to eat twice as often or be afflicted with hunger and lightheadedness.
   
   When a mage rolls opportunities on a feat, reality may choose to sneak a flaw into their feat instead of saving the paradox for later. 
 
