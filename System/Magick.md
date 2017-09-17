@@ -223,10 +223,20 @@
 
 ### Paradox Complication
 
-  Each mage has a complication which represents their personal accumulation of paradox, like a static charge waiting to be discharged. Whenever a mage attempts a feat that obviously breaks the paradigm of the concensus reality, but especially when 
+  Each mage has a complication which represents their personal accumulation of paradox, like a static charge waiting to be discharged. You earn Paradox when you attempt vulgar feats and when reality resists your workings.
+  
+  - Vulgar feats, successful or not, setup up your paradox complication. Or set it to d4 if you had none.
+  - Resisted feats, set your paradox complication equal to your attempted effect die, or set up your paradox if the effect die was less. 
+  - Failing a vulgar feat means you suffer both.
 
 ### Backlash
 
+  Accumulated Paradox makes magick more difficult by granting reality an extra die for resisting, but the true danger of Paradox is when it discharges in a backlash that rends at the fabric of a mage's existance. 
+
+  ?
+  when shall a backlash trigger? on gm opportunities? that is unpredictable, maybe that is when you can burn off paradox as an interesting complication. Backlash happens when you fail a feat? 
+  What other options are there? There's randomly whenever the gm decides. represents the   
+  ?
 
 ### Generating Paradox
 
