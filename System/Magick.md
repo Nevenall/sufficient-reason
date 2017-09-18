@@ -213,9 +213,9 @@
 
 ### Flaws and Consequences
 
-  The most common way for reality to bleed off the tension of being forcibly changed is when 1s are rolled on a magickal action. These opportunities can be activated to represent the unintended consequences of a spell, or reality weaving flaws into a working. 
+  The most common way for reality to bleed off the tension of being forcibly changed is when 1s are rolled on a magickal action. These opportunities can be activated to represent either the unintended consequences of a spell, or reality weaving flaws into a working. 
 
-  For example, a fire spell may reasonably set unintended things on fire D8, because of some opportunities. A reflex enhancing life spell may require the target to eat frequently d6 to keep the effect from fading.
+  > For example, a fire spell may reasonably set unintended things on fire D8, because of some opportunities. A reflex enhancing life spell may require the target to 'eat frequently d6' to prevent the spell from fading.
   
   When an opportunity is rolled on a magickal action, the mage gets a PP and some kind of d6 complication. The complication can be stepped up by using extra opportunities, or additional complications can be created. 
 
@@ -227,20 +227,48 @@
   
   - Vulgar feats, successful or not, setup up your paradox complication. Or set it to d4 if you had none.
   - Resisted feats, set your paradox complication equal to your attempted effect die, or set up your paradox if the effect die was less. 
-  - Failing a vulgar feat means you suffer both.
+  - Failing a vulgar feat means you suffer both, so beware.
 
 ### Backlash
 
-  Accumulated Paradox makes magick more difficult by granting reality an extra die for resisting, but the true danger of Paradox is when it discharges in a backlash that rends at the fabric of a mage's existance. 
+  Accumulated Paradox makes magick more difficult by granting reality an extra trait for resisting, but the true danger of Paradox is when it discharges in a backlash that rends at the fabric of a mage's being. When a backlash occurs all of a mage's paradox suddenly pours into their pattern in a cascade that either marks them with a weird or traps them in the dreaded quiet. 
+
+  Realty can be strangely capricious about when exactly a backlash occurs. They can happen any time, but often happen at the worst possible momements; such as when a mage's feat has failed and they've suddenly accumulated a signifigant amount of paradox.
+
+  Paradox  | Duration          | Scope of backlash
+  :-------:|:-----------------:|:------------------
+  d4       | A scene           | a trivial weird d4
+  d6       |                   | 
+  d8       |                   |
+  d10      |                   |
+  d12      | Permenant         | A permenant weird
+  d12, d4  |                   | Quiet d4
+  d12, d6  |                   | Quiet d6
+  d12, d8  |                   | Quiet d8
+  d12, d10 |                   | 
+  d12, d12 |                   |
+  more     | Permenant         | The mage is lost in a forever quiet. Some suspect this is how maurauders are born. 
+  
+  Table: Paradox Backlash
+
+
+### Weirds
+
+  A weird is a complication that marks someone as a mage and, at the least, makes it more difficult to pass as an ordinary mortal. Some weirds are trivial, like souring milk or beer, and fade quickly. Other weirds can permenantly twist a mage into premature decrepatude. 
 
   ?
-  when shall a backlash trigger? on gm opportunities? that is unpredictable, maybe that is when you can burn off paradox as an interesting complication. Backlash happens when you fail a feat? 
-  What other options are there? There's randomly whenever the gm decides. represents the   
+    need to figure out the weirds scale. What is the duration, what is the degree of hindrance. 
+    Do they fade automatically, or can you find ways to remove, or overcome them? Are they all permenant, just some as easier to get rid of then others? mmm...
+  ?
+
+### Quiet
+
+  ?
+    what is a quiet like from the outside, and from the inside. From the outside it looks exactly like a coma or brain death. 
+    From the inside it's a whole realm of strangness. The most important thing is how do you escape it? 
   ?
 
 ### Generating Paradox
-
-  
   
   When a mage rolls an opportunity on a magickal action it generates paradox. The GM will give the Mage one PP to activate all the opportunities rolled. Each opportunity can be used in one of several ways, but all are immediate and can even give reality extra dice to resist this feat.
 
