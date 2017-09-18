@@ -221,6 +221,10 @@
 
   These complications can be quite varied, but reality's favorite tactic is to punish mages with its own scientific paradigm. 
 
+  ?
+  can opporunties rolled by mages also just add directly to their paradox if there's no particularly interesting consequences to be had? Maybe, but that would return some of that decision making to the gm. Of course, if the gm can't think of anything...mmm...
+  ?
+
 ### Paradox Complication
 
   Each mage has a complication which represents their personal accumulation of paradox, like a static charge waiting to be discharged. You earn Paradox when you attempt vulgar feats and when reality resists your workings.
