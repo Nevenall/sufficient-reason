@@ -221,6 +221,10 @@
 
   These complications can be quite varied, but reality's favorite tactic is to punish mages with its own scientific paradigm. 
 
+  ?
+  can opporunties rolled by mages also just add directly to their paradox if there's no particularly interesting consequences to be had? Maybe, but that would return some of that decision making to the gm. Of course, if the gm can't think of anything...mmm...
+  ?
+
 ### Paradox Complication
 
   Each mage has a complication which represents their personal accumulation of paradox, like a static charge waiting to be discharged. You earn Paradox when you attempt vulgar feats and when reality resists your workings.
@@ -235,7 +239,7 @@
 
   ?
   when shall a backlash trigger? on gm opportunities? that is unpredictable, maybe that is when you can burn off paradox as an interesting complication. Backlash happens when you fail a feat? 
-  What other options are there? There's randomly whenever the gm decides. represents the   
+  What other options are there? There's randomly whenever the gm decides to represent the vindictivness of reality i guess. part of the point of moving to a single die paradox complication was to take away the need for the gm to make these kinds of decisions. So, when there are gm opportunities you can burn off paradox as a complication for the rest of the story. According to the original game its at dramatic moments, commonly when a mage earns 5 paradox in one go. So, that could mean whenever your paradox hits d12 or more, though it doesn't have too.  
   ?
 
 ### Generating Paradox
