@@ -16,11 +16,15 @@
 
 ## Raw Magick
 
-  Mages occasionally perform feats with pure will and nothing else. Such Raw Magick transcends your focus and allows you to affect change without needing to follow the patterns and strictures of your practice. It is quicker and simpler, but more dangerous and difficult because only the Mystickal traits, Arete and Spheres, can be used. 
+  Mages occasionally perform feats with pure will and nothing else. Such Raw Magick transcends your focus and allows you to affect change without needing to follow the patterns and strictures of your practice. It is quicker and simpler, but more dangerous and difficult because only the Mystick traits (Arete and Spheres) can be used. 
 
 ## Feats and Workings
   
   A feat is magick you accomplish in a single action. 
+
+  ?
+    Change these terms for clarity? Any attempt at magick is a working. You might accomplish it in one action, or several actions.
+  ?
 
   A working is a collection of feats unified into a single magickal accomplishment. It might be a lone mage's project done slowly season by season, or a single spell woven by an entire cabal. 
   
@@ -205,159 +209,6 @@
   
   Table: Wyld Locality
 
-## Paradox
-  
-  Paradox is an expression of reality's resistance to being told what to do. It accumulates as a Complication that hinders future workings; it weaves its way into spells as flaws and unintended consequences; and sometimes paradox explodes as a reality bending backlash against a mage which can scar and change them and sometimes trap them in a bubble of strange reality known as Quiet. 
-
-  Paradox is generated only when a mage invokes their mystick will to affect a change in reality. It's generated in the smallest way from opportunities rolled on magickal actions, in a more serious way from attempting vulgar magick, but the most dangerous cause of paradox is failing a magickal action.
-
-### Flaws and Consequences
-
-  The most common way for reality to bleed off the tension of being forcibly changed is when 1s are rolled on a magickal action. These opportunities can be activated to represent either the unintended consequences of a spell, or reality weaving flaws into a working. 
-
-  > For example, a fire spell may reasonably set unintended things on fire D8, because of some opportunities. A reflex enhancing life spell may require the target to 'eat frequently d6' to prevent the spell from fading.
-  
-  When an opportunity is rolled on a magickal action, the mage gets a PP and some kind of d6 complication. The complication can be stepped up by using extra opportunities, or additional complications can be created. 
-
-  These complications can be quite varied, but reality's favorite tactic is to punish mages with its own scientific paradigm. 
-
-  ?
-  can opporunties rolled by mages also just add directly to their paradox if there's no particularly interesting consequences to be had? Maybe, but that would return some of that decision making to the gm. Of course, if the gm can't think of anything...mmm...
-  ?
-
-### Paradox Complication
-
-  Each mage has a complication which represents their personal accumulation of paradox, like a static charge waiting to be discharged. You earn Paradox when you attempt vulgar feats and when reality resists your workings.
-  
-  - Vulgar feats, successful or not, setup up your paradox complication. Or set it to d4 if you had none.
-  - Resisted feats, set your paradox complication equal to your attempted effect die, or set up your paradox if the effect die was less. 
-  - Failing a vulgar feat means you suffer both, so beware.
-
-### Backlash
-
-  Accumulated Paradox makes magick more difficult by granting reality an extra trait for resisting, but the true danger of Paradox is when it discharges in a backlash that rends at the fabric of a mage's being. When a backlash occurs all of a mage's paradox suddenly pours into their pattern in a cascade that either marks them with a weird or traps them in the dreaded quiet. 
-
-  Realty can be strangely capricious about when exactly a backlash occurs. They can happen any time, but often happen at the worst possible momements; such as when a mage's feat has failed and they've suddenly accumulated a signifigant amount of paradox.
-
-  Paradox  | Duration          | Scope of backlash
-  :-------:|:-----------------:|:------------------
-  d4       | Several scenes    | A trivial weird like souring milk or beer, or wilting plants.
-  d6       | Several scenes       | 
-  d8       |                   |
-  d10      |                   |
-  d12      | Permenant         | A permenant weird
-  d12, d4  |                   | Quiet d4
-  d12, d6  |                   | Quiet d6
-  d12, d8  |                   | Quiet d8
-  d12, d10 |                   | 
-  d12, d12 |                   |
-  more     | Permenant         | The mage is lost in a forever quiet. Some suspect this is how maurauders are born. 
-  
-  Table: Paradox Backlash
-
-
-### Weirds
-
-  A weird is a complication that marks someone as a mage and, at the least, makes it more difficult to pass as an ordinary mortal. Some weirds are trivial, like souring milk or beer, and fade quickly. Other weirds can permenantly twist a mage into premature decrepatude. 
-
-  ?
-    need to figure out the weirds scale. What is the duration, what is the degree of hindrance. 
-    Do they fade automatically, or can you find ways to remove, or overcome them? Are they all permenant, just some as easier to get rid of then others? mmm...
-  ?
-
-### Quiet
-
-  ?
-    what is a quiet like from the outside, and from the inside. From the outside it looks exactly like a coma or brain death. 
-    From the inside it's a whole realm of strangness. The most important thing is how do you escape it? 
-  ?
-
-### Generating Paradox
-  
-  When a mage rolls an opportunity on a magickal action it generates paradox. The GM will give the Mage one PP to activate all the opportunities rolled. Each opportunity can be used in one of several ways, but all are immediate and can even give reality extra dice to resist this feat.
-
-  - Add a d6 to the Mage's Paradox 
-    - Step up the die for each extra opportunity used
-  - Step up one of the Mage's lowest Paradox dice
-  - Work a d6 flaw into the Mage's feat
-    - Step up that flaw for each extra opportunity used
-
-#### When a Mage's Feat is Resisted
-
-  If a mage's feat is successfully resisted by reality, this also generates paradox. The effect dice of the feat are added to the mage's paradox dice. Reality may then choose trigger a backlash. 
-
-#### When a Mage Attempts a Vulgar Feat
-
-  ? if a mage attempts a vulgar feat, this might also generate paradox automatically, depends on how it works for balance ?
-
-### Using Paradox
-
-#### When a Mage Rolls Opportunities
-#### Resisting Feats
-
-  Reality can add any number of dice from a Mage's Paradox to it's pool for resisting a feat. Any paradox greater then the feat's effect dice will be lost unless the GM gives the Mage 1 PP per extra die to retain them. 
-
-#### Flaws
-
-   Flaws in your magickal feats are a lesser form of paradox that can occur when your roll opportunities. They sometimes affect the spell itself. Draining off Quintessence and making its effect fade faster then you wished. Often flaws manifest as unintended consequences of your feat as reality is forced to accept and integrate it. For example, a flaw might ignite some fuel you didn't know was there and turn your small fire spell into a raging inferno. A life spell to enhances your reflexes might also, because of a flaw, spike your metabolism and require you to eat twice as often or be afflicted with hunger and lightheadedness.
-  
-  When a mage rolls opportunities on a feat, reality may choose to sneak a flaw into their feat instead of saving the paradox for later. 
-
-  Flaws can complicate the mage's feat, but can't contradict it. For example, a flaw in a wall of fire feat can't change or reduce the effect dice of the fire, but it could cause blowback to damage the mage, or complicate the situation by setting something important on fire. 
-
-  Flaws are more meaningful when the mage is attempting a long lasting working, like creating a wonder. Such complications last as long as the working does, which is one reason a Sanctum is so important for mage's planning on performing extended workings.
-
-#### Backlash
-
-  Backlash is a direct attempt by reality to protect itself by isolating the mage. 
-    
-  Besides the paradox generated when reality successfully resists a mage's feat a backlash might also be triggered. A backlash is something like an immune response to a mage, and it might inflict the mage with a persistent supernatural quirk or plunge them into a serious Quiet. 
-
-  When a backlash is triggered the GM will burn and roll all of the mage's accumulated paradox dice plus any technocratic locality trait. The two highest rolling dice will be the total, and the largest remaining die will the size of the backlash. If there are no dice left, the backlash will start at d6.
-
-  Then the Mage rolls to resist the backlash. The applicable traits are Mind, Arete, Prime, Paradox Prime specialty, Sanctum (if you are luck enough to be in one friendly to your focus), and Familiar. Some Distinctions and Wonders may also be of use if they specialized around paradox. 
-
-  If the mage resists, they will be left with only a temporary paradox complication the size of the backlash. If they fail, the result will be a much longer lasting paradox flaw. 
-
-  The backlash is stepped up for every 5 reality wins by, and if the backlash becomes larger then d12 the mage will be thrown into quiet instead of receiving a paradox flaw. 
-
-##### Paradox Complications 
-
-  These range from the inconvenient, such as instantly withering plants, to very intense, like being unable to answer a question with anything but excessive honesty, or continuously vomiting slime. 
-
-  Paradox complications can be cruel, ironic or just eerie. It sometimes seem to relate to the mage involved but not always.  
-
-  {List of interesting Paradox Complications Here}
-
-###### Recovering from Paradox Complications
-
-  Mages lucky enough to resist a backlash will get a temporary paradox complication which lasts for the rest of a particular story. 
-  
-  If the mage fails to resist, their complication is permanent until they have bought it off with Character Dice and some sufficient magickal work. 
-
-  Buying off such a complication takes the same number of dice that it would to buy. And the complication can be bought down by spending a few character dice at a time.
-
-##### Quiet
-
-  Quiet is a vegetative sort of state where a mage is very much removed from the consensus reality and trapped in a bizarre world inside their head. 
-  
-  Quiet might turn into a solo quest for a mage to find a way out, or it might be a chance for the player to retire that character and start a new one. Quiet can be the end of a character's protagonism, or the beginning of a story. 
-
-###### Recovering from Quiet
-
-  ?How does one recover from quiet? what does that mean? is it maybe a case where you play a different character for a while?
-
-### Burning Paradox
-
-  when reality rolls opportunities, a mage has the chance to burn off their highest paradox die by paying a PP to burn off their highest paradox die as a weird complication that will generally last for the rest of the session. 
-
-  If reality rolls more then one opportunity the Mage must step up their complication once for each additional opportunity. 
-
-  [it's not uncommon for a 1 to get rolled, so mages should have a good chance to burn off paradox, but it like the slight negative disincentive for stepping up the complication for each opportunity rolled]  
-
-  You can burn your highest die even if it's currently in a reality dice pool. This doesn't affect reality's total or anything. The complication will come after the feat is resolved.
-
-
 ## Magickal Actions
 
   - Clearly define your feat. What you will do and how you will do it
@@ -418,7 +269,20 @@
     - You may be able to include one Asset 
     - Mystick assets, especially resonance, might help you in your feat
 
-# (do we need a section about opportunities here? paradox burning paradox? it is a part of action, but it's also a thing unto itself. like spheres)
+
+### Flaws and Consequences
+
+  The most common way for reality to bleed off the tension of being forcibly changed is when 1s are rolled on a magickal action. These opportunities can be activated to represent either the unintended consequences of a spell, or reality weaving flaws into a working. 
+
+  > For example, a fire spell may reasonably set unintended things on fire D8, because of some opportunities. A reflex enhancing life spell may require the target to 'eat frequently d6' to prevent the spell from fading.
+  
+  When an opportunity is rolled on a magickal action, the mage gets a PP and some kind of d6 complication. The complication can be stepped up by using extra opportunities, or additional complications can be created. 
+
+  These complications can be quite varied, but reality's favorite tactic is to punish mages with its own scientific paradigm. 
+
+  ?
+  can opporunties rolled by mages also just add directly to their paradox if there's no particularly interesting consequences to be had? Maybe, but that would return some of that decision making to the gm. Of course, if the gm can't think of anything...mmm...
+  ?
 
 ### Reality Resists Your Magick
 
@@ -461,7 +325,7 @@
   > I wonder if you could thus, mundanely resist mind control? that's what willpower was suppose to be for. 
   > 
 
-## Ritual Workings
+## Rituals
 
   \[draft\] If two mages have compatible paradigms they can cooperate on a working with a greater chance of success.
 
