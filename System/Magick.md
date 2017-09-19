@@ -241,8 +241,8 @@
 
   Paradox  | Duration          | Scope of backlash
   :-------:|:-----------------:|:------------------
-  d4       | A scene           | a trivial weird d4
-  d6       |                   | 
+  d4       | Several scenes    | A trivial weird like souring milk or beer, or wilting plants.
+  d6       | Several scenes       | 
   d8       |                   |
   d10      |                   |
   d12      | Permenant         | A permenant weird
