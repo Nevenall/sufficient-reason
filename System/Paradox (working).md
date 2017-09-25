@@ -1,8 +1,8 @@
 ## Paradox
   
-  Paradox is an expression of reality's resistance to being told what to do. It accumulates as a Complication that hinders future workings; it weaves its way into spells as flaws and unintended consequences; and sometimes paradox explodes as a reality bending backlash against a mage which can scar and change them and sometimes trap them in a bubble of strange reality known as Quiet. 
+  Paradox is an expression of reality's resistance to being manupulated by the awakened. It accumulates as a Complication which hinders workings; it weaves its way into spells as flaws and unintended consequences; and sometimes paradox explodes in a reality bending backlash against a mage that can scar, twist, or trap them in a bubble of strange reality known as Quiet. 
 
-  Paradox is generated only when a mage invokes their mystick will to affect a change in reality. It's generated in the smallest way from opportunities rolled on magickal actions, in a more serious way from attempting vulgar magick, but the most dangerous cause of paradox is failing a magickal action.
+  Paradox can be generated only when an enlightened will is invoked to affect changes in reality. It's created in the smallest way from spoilers rolled on magickal actions, and in a more serious way from attempting vulgar magick, but the most dangerous cause of paradox is failing a magickal action.
 
 
   Little outline for structuring the paradox section. 
@@ -17,21 +17,78 @@
         - escaping quiet
       - permanent paradox
 
+### The Paradox Complication
 
-
-### Paradox Complication
-
-  Each mage has a complication which represents their personal accumulation of paradox, like a static charge waiting to be discharged. You earn Paradox when you attempt vulgar feats and when reality resists your workings.
+  Each mage has a single complication which represents their personal accumulation of paradox, growing and waiting to discharge.
   
-  - Vulgar feats, successful or not, setup up your paradox complication. Or set it to d4 if you had none.
-  - Resisted feats, set your paradox complication equal to your attempted effect die, or set up your paradox if the effect die was less. 
-  - Failing a vulgar feat means you suffer both, so beware.
+#### Detecting Paradox
+
+  The size of a mage's Paradox complication can be detected with a Prime 1 effect.
+
+#### Paradox Hinders Magick
+
+  When resisting a mage's workings reality adds that mage's Paradox complication to it's dice pool.
+
+  If mage's are performing a group working, each mage is responsible for a part of the overall effect and each mage will be resisted separately. 
+
+#### Gaining Paradox
+
+  When reality resists a feat, set your paradox complication equal to the size of effect dice you attempted. If the effect die is equal to or less than your current paradox, step up your paradox instead. 
+
+  When you atttempt vulgar magick in front of sleeper witnesses, your paradox is stepped up once regardless of whether your feat succeeds or fails. 
+
+  Attempting vulgar magick without sleeper witnesses doesn't automatically earn your paradox, but it is still dangerous. 
+
+#### Losing Paradox
+
+  There are some ways to help deal with paradox. A familiar can share the burden with a mage, or a Prime effect can be used to trigger a paradox backlash in a controlled environment. But there are no known ways of removing or avoiding paradox. 
+
+  Paradox will continue to build up until it all discharges in a single event known as a backlash. 
 
 ### Backlash
 
-  Accumulated Paradox makes magick more difficult by granting reality an extra trait for resisting, but the true danger of Paradox is when it discharges in a backlash that rends at the fabric of a mage's being. When a backlash occurs all of a mage's paradox suddenly pours into their pattern in a cascade that either marks them with a weird or traps them in the dreaded quiet. 
+  A backlash is a discharge that rends at the fabric of a mage's being. When it occurs all of a mage's accumulated paradox energy suddenly pours into their pattern in a cascade that either marks them with a weird or traps them in the dreaded quiet. 
 
-  Realty can be strangely capricious about when exactly a backlash occurs. They can happen any time, but often happen at the worst possible momements; such as when a mage's feat has failed and they've suddenly accumulated a signifigant amount of paradox.
+  Realty can be strangely capricious about when exactly a backlash occurs. They can happen any time, but usually happen at the worst possible momements; such as when a mage's working was resisted and they've suddenly accumulated a signifigant amount of paradox.
+
+  There are four possible effects of a backlash, and whenever your mage experiences one you, the player, much choose two of the effects to inflict upon your mage. Some of them can be chosen twice.
+
+#### Burn
+
+  When the energies of paradox burn through your flesh and mind.
+
+#### Permenant Paradox
+
+  When your patttern is forever twisted into an offence against reality.
+
+#### Weirds
+
+  When reality marks you as the other. Spoiling milk and wilting plants in your presence, for example. 
+
+#### Quiet
+
+  A strange state where, from the outside a mage appears to be brain dead or in deep coma, but to the mage, the are trapped in some strange and fantastic realm. 
+
+  ? 
+    Does your avatar follow you into quiet? or is it more interesting if you are without access to your magick?
+    maybe that's what a quiet is, separating you from your avatar. Maybe it's the avatar that is truely lost in quiet. 
+    It's like the egyptian two soul kind of action. 
+  ? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   Paradox  | Duration          | Scope of backlash
   :-------:|:-----------------:|:------------------
