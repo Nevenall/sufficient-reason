@@ -51,29 +51,65 @@
 
   Realty can be strangely capricious about when exactly a backlash occurs. They can happen any time, but usually happen at the worst possible momements; such as when a mage's working was resisted and they've suddenly accumulated a signifigant amount of paradox.
 
-  There are four possible effects of a backlash, and whenever your mage experiences one you, the player, much choose two of the effects to inflict upon your mage. Some of them can be chosen twice.
+  There are four possible effects of a backlash. When one happens you must choose two of the effects to inflict upon your mage. Many of them can be chosen twice with increasingly serious consequences.
 
 #### Burn
 
-  When the energies of paradox burn through your flesh and mind.
+  When the energies of a paradox course through your pattern and injure your flesh, it's call burn. 
+  
+  Turn your paradox complication in a physical harm complication. 
+  
+  If you choose burn twice, instead take a permenent d6 physical complication, or step up an existing one. This physical complication is also a mystick trait. It represents a scar in your metaphysical being and cannot be healed. It will persist however else you might change your life pattern.  
+
+  If a harm complication is larger then d12 you will face death.
 
 #### Permenant Paradox
 
-  When your patttern is forever twisted into an offence against reality.
+  Sometimes paradox permenantly invades your pattern and grows there like a cancer, twisting your being into a nightmarish offense to reality.
+
+  Take a d6 permenant paradox complication, or step up your existing one. This counts as two choices.
+
+  You now always have a paradox complication from which to begin accumulating more. When you experience backlash, it's at your current level, but instead of removing all paradox, you return to the level of your permenant trait. 
+
+  If your permenant paradox ever exceeds d12 your mage looses protagonist status and becomes an NPC. 
 
 #### Weirds
 
-  When reality marks you as the other. Spoiling milk and wilting plants in your presence, for example. 
+  Often paradox will mark you in ways that make it difficult to pass for mortal like spoiling milk and wilting plants in your presence.
+
+  Turn your paradox complication into a weird complication that will last until you can activate enough opportunities to remove it. 
+
+  If you choose this twice, instead take a permenant d6 weird, or step up an existing one.  
+
+  Like the other forms of paradox backlash, a weird is a change to a mage's pattern and cannot be healed or concealed. 
+
+  The larger the weird complication the more serious, obvious, and limiting it is. 
+
+  There is no limit to the size of a weird. It can exceed d12 without turning you into an NPC, but weirds that large are very limting.
+
+  Trait   | Example Weirds
+  :------:|:---------------
+  d4      |  
+  d6      |
+  d8      |
+  d10     |
+  d12     |
+  d12,d4  |
+  d12,d6  |
+
+  Weirds Table
 
 #### Quiet
 
-  A strange state where, from the outside a mage appears to be brain dead or in deep coma, but to the mage, the are trapped in some strange and fantastic realm. 
+  Sometimes reality attempts to protect itself from a mage by separating their mind from their body and avatar. Isolating them in a living dream called a quiet.    
+  
+   A strange state where, from the outside a mage appears to be brain dead or in deep coma, but to the mage, the are trapped in some strange and fantastic realm. 
 
   ? 
     Does your avatar follow you into quiet? or is it more interesting if you are without access to your magick?
     maybe that's what a quiet is, separating you from your avatar. Maybe it's the avatar that is truely lost in quiet. 
     It's like the egyptian two soul kind of action. 
-  ? 
+  ?  
 
 
 
