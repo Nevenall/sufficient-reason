@@ -49,7 +49,7 @@
 
   A backlash is a discharge that rends at the fabric of a mage's being. When it occurs all of a mage's accumulated paradox energy suddenly pours into their pattern in a cascade that either marks them with a weird or traps them in the dreaded quiet. 
 
-  Realty can be strangely capricious about when exactly a backlash occurs. They can happen any time, but usually happen at the worst possible momements; such as when a mage's working was resisted and they've suddenly accumulated a signifigant amount of paradox.
+  Reality can be strangely capricious about when exactly a backlash occurs. They can happen any time, but usually happen at the worst possible moments; such as when a mage's working was resisted and they've suddenly accumulated a signifigant amount of paradox.
 
   There are four possible effects of a backlash. When one happens you must choose two of the effects to inflict upon your mage. Many of them can be chosen twice with increasingly serious consequences.
 
@@ -59,7 +59,7 @@
   
   Turn your paradox complication in a physical harm complication. 
   
-  If you choose burn twice, instead take a permenent d6 physical complication, or step up an existing one. This physical complication is also a mystick trait. It represents a scar in your metaphysical being and cannot be healed. It will persist however else you might change your life pattern.  
+  If you choose burn twice, instead take a permenant d6 physical complication, or step up an existing one. This physical complication is also a mystick trait. It represents a scar in your metaphysical being and cannot be healed. It will persist however else you might change your life pattern.  
 
   If a harm complication is larger then d12 you will face death.
 
@@ -75,7 +75,7 @@
 
 #### Weirds
 
-  Often paradox will mark you in ways that make it difficult to pass for mortal like spoiling milk and wilting plants in your presence.
+  Often paradox will mark you in ways that make it difficult to pass for mortal like spoiling milk and wilting plants in your presence. 
 
   Turn your paradox complication into a weird complication that will last until you can activate enough opportunities to remove it. 
 
@@ -85,7 +85,13 @@
 
   The larger the weird complication the more serious, obvious, and limiting it is. 
 
-  There is no limit to the size of a weird. It can exceed d12 without turning you into an NPC, but weirds that large are very limting.
+  There is no limit to the size of a weird. It can exceed d12 without turning you into an NPC, but weirds that large are very limiting.
+
+  ?
+    are some weirds mental like lower levels of quiet? Hallucinations and such?
+    and are some like taboos? strange prohibitions that make you look crazy?
+
+  ?
 
   Trait   | Example Weirds
   :------:|:---------------
@@ -101,9 +107,14 @@
 
 #### Quiet
 
-  Sometimes reality attempts to protect itself from a mage by separating their mind from their body and avatar. Isolating them in a living dream called a quiet.    
-  
-   A strange state where, from the outside a mage appears to be brain dead or in deep coma, but to the mage, the are trapped in some strange and fantastic realm. 
+  Sometimes reality attempts to protect itself from a mage by isolating their mind away from their body and avatar in a living dream realm called a quiet.
+
+  [What it's like from the outside.]
+
+  [What it's like from the inside.]
+
+  [Escaping from Quiet.]
+
 
   ? 
     Does your avatar follow you into quiet? or is it more interesting if you are without access to your magick?
@@ -132,32 +143,45 @@
   d6       | Several scenes       | 
   d8       |                   |
   d10      |                   |
-  d12      | Permenant         | A permenant weird
+  d12      | permenant         | A permenant weird
   d12, d4  |                   | Quiet d4
   d12, d6  |                   | Quiet d6
   d12, d8  |                   | Quiet d8
   d12, d10 |                   | 
   d12, d12 |                   |
-  more     | Permenant         | The mage is lost in a forever quiet. Some suspect this is how maurauders are born. 
+  more     | permenant         | The mage is lost in a forever quiet. Some suspect this is how maurauders are born. 
   
   Table: Paradox Backlash
 
 
 ### Weirds
 
-  A weird is a complication that marks someone as a mage and, at the least, makes it more difficult to pass as an ordinary mortal. Some weirds are trivial, like souring milk or beer, and fade quickly. Other weirds can permenantly twist a mage into premature decrepatude. 
+  A weird is a complication that marks someone as a mage and, at the least, makes it more difficult to pass as an ordinary mortal. Some weirds are trivial, like souring milk or beer, and fade quickly. Other weirds can permenantly twist a mage into premature decrepitude. 
 
   ?
     need to figure out the weirds scale. What is the duration, what is the degree of hindrance. 
-    Do they fade automatically, or can you find ways to remove, or overcome them? Are they all permenant, just some as easier to get rid of then others? mmm...
+    Do they fade automatically, or can you find ways to remove, or overcome them? Are they all permeant, just some as easier to get rid of then others? mmm...
   ?
 
 ### Quiet
 
   ?
     what is a quiet like from the outside, and from the inside. From the outside it looks exactly like a coma or brain death. 
-    From the inside it's a whole realm of strangness. The most important thing is how do you escape it? 
+    From the inside it's a whole realm of strangeness. The most important thing is how do you escape it? 
   ?
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Generating Paradox
   
