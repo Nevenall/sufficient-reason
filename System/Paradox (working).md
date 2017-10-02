@@ -4,19 +4,6 @@
 
   Paradox can be generated only when an enlightened will is invoked to affect changes in reality. It's created in the smallest way from spoilers rolled on magickal actions, and in a more serious way from attempting vulgar magick, but the most dangerous cause of paradox is failing a magickal action.
 
-
-  Little outline for structuring the paradox section. 
-
-  - paradox
-    - accumulating paradox
-    - backlash, player chooses 2 of the drawbacks below
-      - weirds
-        - removing weirds
-      - burn
-      - quiet
-        - escaping quiet
-      - permanent paradox
-
 ### The Paradox Complication
 
   Each mage has a single complication which represents their personal accumulation of paradox, growing and waiting to discharge.
@@ -63,7 +50,7 @@
 
   If a harm complication is larger then d12 you will face death.
 
-#### permanent Paradox
+#### Permanent Paradox
 
   Sometimes paradox permanently invades your pattern and grows there like a cancer, twisting your being into a nightmarish offense to reality.
 
@@ -83,7 +70,7 @@
 
   Like the other forms of paradox backlash, a weird is a change to a mage's pattern and cannot be healed or concealed. 
 
-  The larger the weird complication the more serious, obvious, and limiting it is. 
+  The larger the weird complication the more serious, obvious, and limiting it is. Weirds larger then d12 can not simply be reduced by activating opportunities, the mage will require some kind of narrative justification to begain the recovery process.
 
   There is no limit to the size of a weird. It can exceed d12 without turning you into an NPC, but weirds that large are very limiting.
 
@@ -101,161 +88,29 @@
 
 #### Quiet
 
-?consider making that first sentence less intentful sounding?
+  Sometimes a paradox backlash attacks the mage with hallucinations, personality changes, madness, and vegetative states which serve to disconnnect them from their community, their mind, and reality itself. 
 
-  Sometimes reality attempts to protect itself from a mage by attacking their mind with the much feared Quiet. A Quiet isolates a mage's mind from their body and their avatar leading to hallucinations, madness, and a difficulty employing magick. More severe Quiets leave the mage's mind, stripped of magickal power, to interact only with a strange nightmare world while their body lies in a total vegatative state. 
+  Quiet is much feared by mages because it pulls apart already tenuous groups and leaves individuals vulnerable and alone. Severe Quiets leave the mage in a total vegatative state, stripped of magickal power, and only able to interact with a strange nightmare world.
 
-  [so, now we talk about the various effects of quiet at various levels. past d12 you are totally out of it. which bets the question what a d10 is like. Maybe you recover from quiets like you do weirds, unless you pick quiet twice for a permenant rating? yup. That feels pretty good.]
+  Turn your paradox complication into a Quiet complication that will last until you can activate enough opportunities to remove it. 
 
+  If you choose this twice, instead take a permenant d6 quiet, or step up an existing one. 
 
-  [What it's like from the outside.]
+  Deep Quiets, larger then d12, place the mage's body in a vegetative state, and trap their mind in an endless hallucination unable to access their magickal ability. 
 
-  [What it's like from the inside.]
+   Trait   | Example Quiets
+  :------:|:---------------
+  d4      |  
+  d6      |
+  d8      |
+  d10     |
+  d12     |
+  d12,d4  |
+  d12,d6  |
 
-  [recovering]
+  Quiets Table
 
+##### Escaping from Deep Quiet
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  Paradox  | Duration          | Scope of backlash
-  :-------:|:-----------------:|:------------------
-  d4       | Several scenes    | A trivial weird like souring milk or beer, or wilting plants.
-  d6       | Several scenes       | 
-  d8       |                   |
-  d10      |                   |
-  d12      | permanent         | A permanent weird
-  d12, d4  |                   | Quiet d4
-  d12, d6  |                   | Quiet d6
-  d12, d8  |                   | Quiet d8
-  d12, d10 |                   | 
-  d12, d12 |                   |
-  more     | permanent         | The mage is lost in a forever quiet. Some suspect this is how marauders are born. 
-  
-  Table: Paradox Backlash
-
-
-### Weirds
-
-  A weird is a complication that marks someone as a mage and, at the least, makes it more difficult to pass as an ordinary mortal. Some weirds are trivial, like souring milk or beer, and fade quickly. Other weirds can permanently twist a mage into premature decrepitude. 
-
-  ?
-    need to figure out the weirds scale. What is the duration, what is the degree of hindrance. 
-    Do they fade automatically, or can you find ways to remove, or overcome them? Are they all permeant, just some as easier to get rid of then others? mmm...
-  ?
-
-### Quiet
-
-  ?
-    what is a quiet like from the outside, and from the inside. From the outside it looks exactly like a coma or brain death. 
-    From the inside it's a whole realm of strangeness. The most important thing is how do you escape it? 
-  ?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Generating Paradox
-  
-  When a mage rolls an opportunity on a magickal action it generates paradox. The GM will give the Mage one PP to activate all the opportunities rolled. Each opportunity can be used in one of several ways, but all are immediate and can even give reality extra dice to resist this feat.
-
-  - Add a d6 to the Mage's Paradox 
-    - Step up the die for each extra opportunity used
-  - Step up one of the Mage's lowest Paradox dice
-  - Work a d6 flaw into the Mage's feat
-    - Step up that flaw for each extra opportunity used
-
-#### When a Mage's Feat is Resisted
-
-  If a mage's feat is successfully resisted by reality, this also generates paradox. The effect dice of the feat are added to the mage's paradox dice. Reality may then choose trigger a backlash. 
-
-#### When a Mage Attempts a Vulgar Feat
-
-  ? if a mage attempts a vulgar feat, this might also generate paradox automatically, depends on how it works for balance ?
-
-#### Resisting Feats
-
-  Reality can add any number of dice from a Mage's Paradox to it's pool for resisting a feat. Any paradox greater then the feat's effect dice will be lost unless the GM gives the Mage 1 PP per extra die to retain them. 
-
-#### Flaws
-
-   Flaws in your magickal feats are a lesser form of paradox that can occur when your roll opportunities. They sometimes affect the spell itself. Draining off Quintessence and making its effect fade faster then you wished. Often flaws manifest as unintended consequences of your feat as reality is forced to accept and integrate it. For example, a flaw might ignite some fuel you didn't know was there and turn your small fire spell into a raging inferno. A life spell to enhances your reflexes might also, because of a flaw, spike your metabolism and require you to eat twice as often or be afflicted with hunger and lightheadedness.
-  
-  When a mage rolls opportunities on a feat, reality may choose to sneak a flaw into their feat instead of saving the paradox for later. 
-
-  Flaws can complicate the mage's feat, but can't contradict it. For example, a flaw in a wall of fire feat can't change or reduce the effect dice of the fire, but it could cause blowback to damage the mage, or complicate the situation by setting something important on fire. 
-
-  Flaws are more meaningful when the mage is attempting a long lasting working, like creating a wonder. Such complications last as long as the working does, which is one reason a Sanctum is so important for mage's planning on performing extended workings.
-
-#### Backlash
-
-  Backlash is a direct attempt by reality to protect itself by isolating the mage. 
-    
-  Besides the paradox generated when reality successfully resists a mage's feat a backlash might also be triggered. A backlash is something like an immune response to a mage, and it might inflict the mage with a persistent supernatural quirk or plunge them into a serious Quiet. 
-
-  When a backlash is triggered the GM will burn and roll all of the mage's accumulated paradox dice plus any technocratic locality trait. The two highest rolling dice will be the total, and the largest remaining die will the size of the backlash. If there are no dice left, the backlash will start at d6.
-
-  Then the Mage rolls to resist the backlash. The applicable traits are Mind, Arete, Prime, Paradox Prime specialty, Sanctum (if you are luck enough to be in one friendly to your focus), and Familiar. Some Distinctions and Wonders may also be of use if they specialized around paradox. 
-
-  If the mage resists, they will be left with only a temporary paradox complication the size of the backlash. If they fail, the result will be a much longer lasting paradox flaw. 
-
-  The backlash is stepped up for every 5 reality wins by, and if the backlash becomes larger then d12 the mage will be thrown into quiet instead of receiving a paradox flaw. 
-
-##### Paradox Complications 
-
-  These range from the inconvenient, such as instantly withering plants, to very intense, like being unable to answer a question with anything but excessive honesty, or continuously vomiting slime. 
-
-  Paradox complications can be cruel, ironic or just eerie. It sometimes seem to relate to the mage involved but not always.  
-
-  {List of interesting Paradox Complications Here}
-
-###### Recovering from Paradox Complications
-
-  Mages lucky enough to resist a backlash will get a temporary paradox complication which lasts for the rest of a particular story. 
-  
-  If the mage fails to resist, their complication is permanent until they have bought it off with Character Dice and some sufficient magickal work. 
-
-  Buying off such a complication takes the same number of dice that it would to buy. And the complication can be bought down by spending a few character dice at a time.
-
-##### Quiet
-
-  Quiet is a vegetative sort of state where a mage is very much removed from the consensus reality and trapped in a bizarre world inside their head. 
-  
-  Quiet might turn into a solo quest for a mage to find a way out, or it might be a chance for the player to retire that character and start a new one. Quiet can be the end of a character's protagonism, or the beginning of a story. 
-
-###### Recovering from Quiet
-
-  ?How does one recover from quiet? what does that mean? is it maybe a case where you play a different character for a while?
-
-### Burning Paradox
-
-  when reality rolls opportunities, a mage has the chance to burn off their highest paradox die by paying a PP to burn off their highest paradox die as a weird complication that will generally last for the rest of the session. 
-
-  If reality rolls more then one opportunity the Mage must step up their complication once for each additional opportunity. 
-
-  [it's not uncommon for a 1 to get rolled, so mages should have a good chance to burn off paradox, but it like the slight negative disincentive for stepping up the complication for each opportunity rolled]  
-
-  You can burn your highest die even if it's currently in a reality dice pool. This doesn't affect reality's total or anything. The complication will come after the feat is resolved.
-
+  Escaping from deep quiet requires more then simply activating some opportunties. This could be a solo quest for the mage, similar to a Seeking for increased Arete. Or simply narrated as a montage.
 
