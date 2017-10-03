@@ -280,7 +280,7 @@
   These complications can be quite varied, but reality's favorite tactic is to punish mages with its own scientific paradigm. 
 
   ?
-  can opporunties rolled by mages also just add directly to their paradox if there's no particularly interesting consequences to be had? Maybe, but that would return some of that decision making to the gm. Of course, if the gm can't think of anything...mmm...
+  can opportunities rolled by mages also just add directly to their paradox if there's no particularly interesting consequences to be had? Maybe, but that would return some of that decision making to the gm. Of course, if the gm can't think of anything...mmm...
   ?
 
 ### Reality Resists Your Magick
@@ -379,7 +379,7 @@
 
   Like the other forms of paradox backlash, a weird is a change to a mage's pattern and cannot be healed or concealed. 
 
-  The larger the weird complication the more serious, obvious, and limiting it is. Weirds larger then d12 can not simply be reduced by activating opportunities, the mage will require some kind of narrative justification to begain the recovery process.
+  The larger the weird complication the more serious, obvious, and limiting it is. Weirds larger then d12 can not simply be reduced by activating opportunities, the mage will require some kind of narrative justification to began the recovery process.
 
   There is no limit to the size of a weird. It can exceed d12 without turning you into an NPC, but weirds that large are very limiting.
 
@@ -397,15 +397,15 @@
 
 #### Quiet
 
-  Sometimes a paradox backlash attacks the mage with hallucinations, personality changes, madness, and vegetative states which serve to disconnnect them from their community, their mind, and reality itself. 
+  Sometimes a paradox backlash attacks the mage with hallucinations, personality changes, madness, and vegetative states which serve to disconnect them from their community, their mind, and reality itself. 
 
-  Quiet is much feared by mages because it pulls apart already tenuous groups and leaves individuals vulnerable and alone. Severe Quiets leave the mage in a total vegatative state, stripped of magickal power, and only able to interact with a strange nightmare world.
+  Quiet is much feared by mages because it pulls apart already tenuous groups and leaves individuals vulnerable and alone. Severe Quiets leave the mage in a total vegetative state, stripped of magickal power, and only able to interact with a strange nightmare world.
 
   Turn your paradox complication into a Quiet complication that will last until you can activate enough opportunities to remove it. 
 
-  If you choose this twice, instead take a permenant d6 quiet, or step up an existing one. 
+  If you choose this twice, instead take a permanent d6 quiet, or step up an existing one. 
 
-  Deep Quiets, larger then d12, place the mage's body in a vegetative state, and trap their mind in an endless hallucination unable to access their magickal ability. 
+  Deep Quiets, larger then d12, place the mage's body in a vegetative state, and trap their mind in an endless hallucination unable to access their magickal ability. Escaping from deep quiet requires more then simply activating some opportunities. This could be a solo quest for the mage, similar to a Seeking for increased Arete. Or simply narrated as a montage. 
 
    Trait   | Example Quiets
   :------:|:---------------
@@ -419,11 +419,7 @@
 
   Quiets Table
 
-##### Escaping from Deep Quiet
-
-  Escaping from deep quiet requires more then simply activating some opportunties. This could be a solo quest for the mage, similar to a Seeking for increased Arete. Or simply narrated as a montage.
-
-## Resisting workings, targeting sleepers or other awakened
+## Countermagick and other Defenses
 
   > some notes to make here. Need to clean up the correspondence and prime vs. just strait up duration traits. So that it's clear how to make an effect. 
   > also, need to workout what happens when you target someone. 
