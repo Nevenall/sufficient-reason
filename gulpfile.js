@@ -24,8 +24,10 @@ gulp.task('build', ['clean'], function () {
 
 gulp.task('spelling', function () {
   return gulp.src(['**/*.md', '!node_modules/**'])
-    .pipe(shell(['echo <%= file.path %>', 'OddSpell "<%= file.path %>"']));
+    .pipe(shell(['echo "<%= file.path %>"', 'OddSpell "<%= file.path %>"']));
 });
+
+
 
 gulp.task('count', function () {
   return gulp.src(['**/*.md', '!node_modules/**'])

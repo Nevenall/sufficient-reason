@@ -28,7 +28,7 @@
         "fileLocation": "absolute",
         "pattern": [
           {
-            "regexp": "(.+)",
+            "regexp": "\"(.+)\"",
             "file": 1
           },
           {
@@ -44,7 +44,7 @@
     {
       "taskName": "spell check this file",
       "type": "shell",
-      "command": "Write-Output \"'${file}'\"; OddSpell \"'${file}'\";",
+      "command": "Write-Output \"${file}\"; OddSpell \"${file}\";",
       "presentation": {
         "reveal": "silent",
         "focus": false,
@@ -56,7 +56,7 @@
         "fileLocation": "absolute",
         "pattern": [
           {
-            "regexp": "(.+)",
+            "regexp": "\"(.+)\"",
             "file": 1
           },
           {
