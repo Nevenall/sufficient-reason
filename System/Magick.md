@@ -2,21 +2,23 @@
 
   Magick is a broad term for creating changes in reality through an effort of your Enlightened Will. Such an effort is called a *feat* or a *working.*
   
-  It is possible to accomplish anything you desire through Magick but, the larger and more complex a feat you attempt the more dice Reality will have to resist your action.
-  
-## Magick is an Expression of Your Will
+  It is possible to accomplish any change with Magick but the larger and more complex a feat you attempt the more dice Reality will have to resist your action.
  
-  Because magick is an expression of your Will, it requires a conscious choice by the Mage. 
-
-## Leverage the Power of your Practice
-
-  If you can describe your feat and how you with accomplish it within the context of your magickal *practice* you may add dice from your mundane traits, and not just your magickal ones. 
+  Because magick is an expression of your Will it requires a conscious choice to employ. 
   
-  > For example, if your practice is witchcraft you might describe collecting some physical token of your victim and creating a poppet with it which you poke with needles. Describing your effect in terms of your practice in this way will allow you to add your Mental and Occult traits.
+  Magick also requires an avatar to channel quintessense through. 
+
+  ? If the avatar is required, then can a mage be mind controlled to use magick ?
+
+## The Power of your Practice
+
+  If you can describe how you accomplish your feat within the context of your magickal *practice* you may add dice from your mundane traits in addition to your magickal ones. 
+  
+  > For example: if your practice is witchcraft you might collect some physical token from your victim and create a poppet you can poke. Going through the effort of accomplishing your feat in terms of your practice allows you to add your Mental and Occult traits.
 
 ## Raw Magick
 
-  Mages occasionally perform feats with pure will and nothing else. Such Raw Magick transcends your focus and allows you to affect change without needing to follow the patterns and strictures of your practice. It is quicker and simpler, but more dangerous and difficult because only the Mystick traits (Arete and Spheres) can be used. 
+  Mages occasionally perform feat with pure Will and nothing else. *Raw Magick* transcends your *focus* and allows you to affect changes without needing to follow the patterns and strictures of your practice. It is quicker and simpler, but more dangerous and difficult because only the Mystick traits (Arete and Spheres) can be used. 
 
 ## Feats and Workings
   
