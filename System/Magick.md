@@ -1,12 +1,12 @@
 # Working Magick
 
-  Magick is a change in reality. One you make happen through an effort of your Enlightened Will. This change is called a *feat.* 
+  Magick is a broad term for creating changes in reality through an effort of your Enlightened Will. Such an effort is called a *feat* or a *working.*
   
-  It is possible to accomplish anything you desire through Magick, but the larger and more complex a feat you attempt, the more dice Reality will have to resist you and there are consequences for failing a mystick action. 
+  It is possible to accomplish anything you desire through Magick but, the larger and more complex a feat you attempt the more dice Reality will have to resist your action.
   
 ## Magick is an Expression of Your Will
  
-  Because magick is an expression of your will, it requires a conscious choice by the Mage. 
+  Because magick is an expression of your Will, it requires a conscious choice by the Mage. 
 
 ## Leverage the Power of your Practice
 
@@ -73,7 +73,7 @@
   Dice | Ability      | Description
   ----:|:------------:|:-----------
   d4   | Perception   | Observe and perceive elements of this Sphere beyond any mortal ken. 
-  d6   | Manipulation | Make small changes to existing elements of this Sphere.
+  d6   | Manipulation | Make small chanzges to existing elements of this Sphere.
   d8   | Control      | Create noticeable effects with elements of this Sphere. This rank is generally for an effect to cause damage. 
   d10  | Command      | Create major effects. This rank is typically required to cause significant changes to the patterns of others.  
   d12  | Mastery      | Command vast effects with the elements of this Sphere.
