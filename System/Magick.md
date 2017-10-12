@@ -4,11 +4,11 @@
   
   It is possible to accomplish any change with Magick but the larger and more complex a feat you attempt the more dice Reality will have to resist your action.
  
-  Because magick is an expression of your Will it requires a conscious choice to employ. 
+  ## The Basis of Magick
+ 
+  Magick is an expression of your Enlightened Will, therefore it requires a conscious choice to employ. 
   
-  Magick also requires an avatar to channel quintessense through. 
-
-  ? If the avatar is required, then can a mage be mind controlled to use magick ?
+  Your Enlightened Will and your ability to channel Quintessence is tied to your avatar. 
 
 ## The Power of your Practice
 
@@ -18,15 +18,11 @@
 
 ## Raw Magick
 
-  Mages occasionally perform feat with pure Will and nothing else. *Raw Magick* transcends your *focus* and allows you to affect changes without needing to follow the patterns and strictures of your practice. It is quicker and simpler, but more dangerous and difficult because only the Mystick traits (Arete and Spheres) can be used. 
+  It is possible to perform a feat with pure Will and nothing else. *Raw Magick* transcends your *focus* and allows you to affect changes without the strictures of your practice. It is quicker and simpler, but more dangerous and difficult because only the Mystick traits (Arete and Spheres) can be used. 
 
 ## Feats and Workings
   
   A feat is magick you accomplish in a single action. 
-
-  ?
-    Change these terms for clarity? Any attempt at magick is a working. You might accomplish it in one action, or several actions.
-  ?
 
   A working is a collection of feats unified into a single magickal accomplishment. It might be a lone mage's project done slowly season by season, or a single spell woven by an entire cabal. 
   
@@ -84,15 +80,17 @@
 
 ### Meta-magick 
 
-  Some sphere components extend the possibilities of your feat instead of directly relating to your effect and we refer to these as meta-magick. The two most common forms are using Correspondence to target your feat and Prime to extend the duration of it.
+  Some sphere components extend the possibilities of your feat instead of directly relating to your effect and we refer to these as meta-magick. The two most common are Correspondence to target your feat and Prime to extend the duration of it.
 
   Meta-magick components are not required, but they are always separate sphere components.
 
 #### Targeting
 
-  Without extra effort a feat is localized to you or your immediate environment, but by adding a Correspondence component to your feat it can reach a distant target or location. With the addition of Spirit your feat can reach into other worlds as well. 
+  By default a feat is localized to you and your immediate environment, but by adding a Correspondence component  it can reach a distant target or location. With the addition of Spirit your feat can reach into other worlds as well. 
 
-  Targeting with Correspondence can be a matter of pure distance, but it can also mean reaching a target through something closely related to them. The use of a "lock of hair" is a classic example of relational Correspondence from the practice of Witchcraft. 
+  Targeting with Correspondence can be a matter of distance or, reaching a target through something closely related to them. 
+  
+  > The use of a "lock of hair" is a classic example of relational Correspondence from the practice of Witchcraft. 
 
   Range targeting allows for vast distances but even if you have the ability to target anywhere on earth you must be able to identify a particular target. This can be done with line of sight unaided by mundane effects such as cameras or telescopes (mystick effects that match your focus may help), or by knowing in great detail where your target is at this exact moment. Without one of those things, you will need to use relational targeting instead. 
 
@@ -126,9 +124,9 @@
 
 #### Duration
 
-  Reality will relentlessly erode active magick unless you constantly support it with Quintessence.
+  Reality relentlessly erodes active magick unless you constantly support it with Quintessence.
 
-  Without support a feat lasts a short while, typically no more then the length of your action, but if you spend a point of Quintessence the feat will endure for the length of a scene.
+  A feat lasts a short while, typically no more then the length of your action, but if you spend a point of Quintessence the effects will endure for the length of a scene.
 
   Alternately, you may use the Sphere of Prime to fuel your feat from universal energy of creation.
 
@@ -148,11 +146,13 @@
 
 #### Other Meta-effects
 
-  Use a pattern sphere like life to tether a feat to someone so it will follow them around.  
-  
-  Using Time to create a delayed effect feat. 
+  Use a pattern sphere to tether a feat to a pattern.
 
-  Using Mind to give your feat judgement about who or what to affect.  
+  > For example: Use Life to tie an effect to a person so it will follow them around.  
+  
+  Use Time to create a feat with delayed effect. 
+
+  Use Mind to give your feat judgement about who or what to affect.  
 
 ## (draft section) Casting Time
 
