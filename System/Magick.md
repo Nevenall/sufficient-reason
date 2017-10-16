@@ -28,13 +28,12 @@
   
   A feat may take an entire scene to complete, or it might be instantaneous, it might even grant you multiple actions in a single round, but those will be mundane actions. You may only attempt one feat per round. 
 
-### Feats have One or More Effects
+### Feats have Effects
 
-  A simple feat may have just one effect, like dealing damage with a bolt of flame, but complex feats may have as many different effects as you wish. 
+  Feats have one, or more, distict Effects represented by an *effect die*. You choose how many and how large, the effect dice of your feat will be.
   
-  > For example, you create a life feat to give yourself claws d8 and armor d8.  
-
-  Each effect is represented by an *effect die* and you choose how many, and how large, the effect dice of your feat will be.
+  Many feats have a single effect but complex feats may have many different effects. 
+  
 
 ### Effect Dice
 
