@@ -1,3 +1,10 @@
+
+
+# This section is all done
+
+
+
+
 ## Paradox
   
   Paradox is an expression of reality's resistance to being manipulated by the awakened. It accumulates as a Complication which hinders workings; it weaves its way into spells as flaws and unintended consequences; and sometimes paradox explodes in a reality bending backlash against a mage that can scar, twist, or trap them in a bubble of strange reality known as Quiet. 
