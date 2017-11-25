@@ -14,7 +14,7 @@
 
   If you can describe how you accomplish your feat within the context of your magickal *practice* you may add dice from your mundane traits in addition to your magickal ones. 
   
-  > For example: if your practice is witchcraft you might collect some physical token from your victim and create a poppet you can poke. Going through the effort of accomplishing your feat in terms of your practice allows you to add your Mental and Occult traits.
+  > If your practice is witchcraft you might collect some physical token from your victim and create a poppet you can poke. Going through the effort of accomplishing your feat in terms of your practice allows you to add your Mental and Occult traits.
 
 ## Raw Magick
 
