@@ -50,16 +50,15 @@ The default trigger for each distinction is:
 
 * _default:_ Gain 1 PP when you roll a d4 instead of a d8.
 
-  #### Common Triggers or Negative Effects
+#### Common Triggers or Negative Effects
 
 * Spend a Plot Point.
-
 * Step back a beneficial trait such as an attribute, skill, or asset.
 * Set up a detrimental trait, like a complication.
 * Choose to do or introduce something risky, dumb, or complicated.
 * Create a d8 complication.
 
-  #### Common Positive Effects
+#### Common Positive Effects
 
 * Earn a Plot Points.
 
