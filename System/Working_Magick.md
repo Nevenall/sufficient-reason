@@ -1,46 +1,33 @@
 # Working Magick
 
-  Magick is a broad term for creating changes in reality through an effort of your Enlightened Will. Such an effort is called a *feat* or a *working.*
+  Magick is a broad term for creating changes in reality through an effort of your Enlightened Will. Such an effort is called a *working.* 
   
-  It is possible to accomplish any change with Magick but the larger and more complex a feat you attempt the more dice Reality will have to resist your action.
+  It is possible to accomplish any change with Magick but the larger and more complex a working you attempt the more dice Reality will have to resist your action.
  
-  ## The Basis of Magick
+## The Basis of Magick
  
-  Magick is an expression of your Enlightened Will, therefore it requires a conscious choice to employ. 
-  
-  Your Enlightened Will and your ability to channel Quintessence is tied to your avatar. 
+  Your avatar is the basis of your Magick. Without it you cannot store or channel quintessense and you cannot work magick. 
 
 ## The Power of your Practice
 
-  If you can describe how you accomplish your feat within the context of your magickal *practice* you may add dice from your mundane traits in addition to your magickal ones. 
+  If you can describe how you accomplish your working within the context of your magickal *practice* you may add dice from your mundane traits in addition to your magickal ones. 
   
-  > If your practice is witchcraft you might collect some physical token from your victim and create a poppet you can poke. Going through the effort of accomplishing your feat in terms of your practice allows you to add your Mental and Occult traits.
+  > If your practice is witchcraft you might collect some physical token from your victim and create a poppet you can poke. Going through the effort of accomplishing your working in terms of your practice allows you to add your Mental and Occult traits.
 
 ## Raw Magick
 
-  It is possible to perform a feat with pure Will and nothing else. *Raw Magick* transcends your *focus* and allows you to affect changes without the strictures of your practice. It is quicker and simpler, but more dangerous and difficult because only the Mystick traits (Arete and Spheres) can be used. 
+  It is possible to work Magick as an act of pure will. *Raw Magick* allows you to affect changes without the strictures of your *practice*. It is quicker and simpler, but more dangerous and difficult because only the Mystick traits (Arete and Spheres) can be used.
 
-## Feats and Workings
+## Workings and rolls
   
-  A feat is magick you accomplish in a single action. 
-
-  A working is a collection of feats unified into a single magickal accomplishment. It might be a lone mage's project done slowly season by season, or a single spell woven by an entire cabal. 
-  
-  A feat may take an entire scene to complete, or it might be instantaneous, it might even grant you multiple actions in a single round, but those will be mundane actions. You may only attempt one feat per round. 
-
-### Feats have Effects
-
-  Feats have one, or more, distict Effects represented by an *effect die*. You choose how many and how large, the effect dice of your feat will be.
-  
-  Many feats have a single effect but complex feats may have many different effects. 
-  
+  One mage, or several together, may accomplish a working in a single roll, or over the course of several rolls. Each roll, if successful, accumulates *effect dice* until the working is accomplished or paradox triumphs.
 
 ### Effect Dice
 
-  Pick your Effect Dice, the larger they are the grander and more powerful the scope of your spell. You may choose effect dice of any size and number. 
+  Each working has one, or more, distict effects represented by an *effect die*. You choose how many and how large, the effect dice of your working will be.
   
-  To affect more then one target assign each an Effect Die. 
-
+  Pick your Effect Dice, the larger and grander they are, the more powerful your working will be. 
+  
   Successes | Effect Dice | Feat       | Examples
   :--------:|:-----------:|:----------:|:---------
   1         | d4          | Trivial    | 
@@ -57,15 +44,15 @@
 
 ## Spheres
 
-  Once your feat is clearly defined we'll determine how complex it is by determining its Sphere components. That is, what ratings of which Spheres your feat will require.
+  Once your working is clearly defined we'll determine how complex it is by determining its Sphere components. That is, what ratings of which Spheres your working will require.
 
-  > For example: You need to cross a gap between two building to escape some technocratic agents. You might calculate the coordinates of the rooftop you wish to be on and run a quick script on your wrist computer to alter your token's position in the virtual reality simulation that is reality; effectively teleporting across the distance. This would accomplish your feat using the sphere of Correspondence at d8. 
+  > For example: You need to cross a gap between two building to escape some technocratic agents. You might calculate the coordinates of the rooftop you wish to be on and run a quick script on your wrist computer to alter your token's position in the virtual reality simulation that is reality; effectively teleporting across the distance. This would accomplish your working using the sphere of Correspondence at d8. 
 
   > Alternately: You might speak a spell that calls upon mystick winds to levitate you across the gap. Making use of the Sphere of Forces at d8. 
   
-  It is possible for your Effect to have multiple components of the same Sphere. This is especially common with Correspondence and Prime because those Spheres are used for common meta-magickal components. Such as targeting and extending the duration of your feats. 
+  It is possible for your working to have multiple effects of the same Sphere. This is especially common with Correspondence and Prime because those Spheres are used for common meta-magickal effects. Such as targeting and extending the duration of your working. 
   
-  > For example, if you combine a d8 fire attack with a d8 levitation asset, you are controlling two distinct Forces which requires two d8 Forces components.
+  > For example, if you combine a d8 fire attack with a d8 levitation asset into a single working, you are controlling two distinct Forces which requires two d8 Forces components.
   
   Dice | Ability      | Description
   ----:|:------------:|:-----------
@@ -79,21 +66,25 @@
 
 ### Meta-magick 
 
-  Some sphere components extend the possibilities of your feat instead of directly relating to your effect and we refer to these as meta-magick. The two most common are Correspondence to target your feat and Prime to extend the duration of it.
+  Some spheres extend the possibilities of your work instead of directly relating to your effect and we refer to these as meta-magick. The two most common are Correspondence to target your working and Prime to extend the duration of it.
 
   Meta-magick components are not required, but they are always separate sphere components.
 
 #### Targeting
 
-  By default a feat is localized to you and your immediate environment, but by adding a Correspondence component  it can reach a distant target or location. With the addition of Spirit your feat can reach into other worlds as well. 
+  By default a working is localized to you and your immediate environment, but by adding a Correspondence component  it can reach a distant target or location. With the addition of Spirit your working can reach into other worlds as well. 
 
   Targeting with Correspondence can be a matter of distance or, reaching a target through something closely related to them. 
   
   > The use of a "lock of hair" is a classic example of relational Correspondence from the practice of Witchcraft. 
 
+##### Targeting by Range
+
   Range targeting allows for vast distances but even if you have the ability to target anywhere on earth you must be able to identify a particular target. This can be done with line of sight unaided by mundane effects such as cameras or telescopes (mystick effects that match your focus may help), or by knowing in great detail where your target is at this exact moment. Without one of those things, you will need to use relational targeting instead. 
 
-  With relational targeting you must possess something with a relation to your target which you'll use to channel your feat at your target. 
+##### Targeting by Relation
+
+  With relational targeting you must possess a thing that has some strong connection to your target which you'll use to channel your magick at them. 
 
   Dice    | Range (Correspondence)         | Relation (Correspondence) 
   -------:|:-------------------------------|:--------------------------
@@ -107,6 +98,11 @@
   d12, d6 | Anywhere on earth              | No object, only a concept that relates to your target.
 
   Table: Targeting Magick by Distance or Relation with Correspondence
+
+##### Targeting through Worlds
+
+  It is also possible to use the sphere of spirit to reach into other worlds and dimentions with your working. This usually must be done in conjunction with realtional targeting lest your working reach the intended world but not your target. However, for planes close to the physical, such as the astral, you may be able to combine extra-dimensionality with range targeting because the two share a spacial relation.
+
 
   Dice    | Extra-dimensionality (Spirit) 
   -------:|:---------------------------
@@ -123,11 +119,9 @@
 
 #### Duration
 
-  Reality relentlessly erodes active magick unless you constantly support it with Quintessence.
+  Reality relentlessly erodes active magick unless you continue to support it with Quintessence.
 
-  A feat lasts a short while, typically no more then the length of your action, but if you spend a point of Quintessence the effects will endure for the length of a scene.
-
-  Alternately, you may use the Sphere of Prime to fuel your feat from universal energy of creation.
+  A working lasts a short while, typically no more then the length of your action, unless you use the Sphere of Prime to fuel your it from universal energy of creation.
 
   Dice    | Duration (Prime)
   -------:|:-----------------
@@ -145,9 +139,9 @@
 
 #### Other Meta-effects
 
-  Use a pattern sphere to tether a feat to a pattern.
+  Use a pattern sphere to tether a working to a pattern.
 
-  > For example: Use Life to tie an effect to a person so it will follow them around.  
+  > For example: Use Life to tie your rain cloud effect to a person so it will follow them around whereever they go.
   
   Use Time to create a feat with delayed effect. 
 

@@ -3,7 +3,7 @@
 - [System](System/readme.md)
   - [Making a Mage](System/Making_a_Mage.md)
   - [Mundane Actions](System/Mundane_Actions.md) 
-  - [Magick](System/Magick.md)
+  - [Working Magick](System/Working_Magick.md)
 - [Setting](Setting/readme.md)
   - [Welcome to Reality](Setting/Welcome_to_Reality.md)
   - [Avatars](Setting/Avatars.md)
