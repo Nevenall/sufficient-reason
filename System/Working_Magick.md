@@ -141,11 +141,11 @@
 
   Use a pattern sphere to tether a working to a pattern.
 
-  > For example: Use Life to tie your rain cloud effect to a person so it will follow them around whereever they go.
+  > For example: Use Life to tie a rain cloud to a specific person so it will follow them around where ever they go.
   
   Use Time to create a feat with delayed effect. 
 
-  Use Mind to give your feat judgement about who or what to affect.  
+  Use Mind to give your feat judgement about who or what to affect.
 
 ## (draft section) Casting Time
 
@@ -163,18 +163,16 @@
 
 ## Realities & Localities 
 
-  There are no neutral spaces in the Ascension war and most places are closely aligned to the technocratic consensus.  
+  There are no neutral spaces in the Ascension war and most places mages will go are at least somewhat aligned to the technocratic consensus.  
   
-  Locality is a trait representing how strongly aligned a place is with it's ruling reality and consequently, how strongly reality will resist your workings within it.
+  Locality is a trait representing how strongly aligned a place is with it's ruling reality and consequently, how strongly reality will resist your workings within it, assuming you don't match it's paradim. 
   
-### Sanctums and Demesnes
+### Sanctums
 
   To aid their workings mages sometimes find or build localities that are friendly to their focus. 
 
-  - If your effect die does not exceed the locality die, the effect can be considered coincidental.
+  - If your effect die does not exceed the locality die of your sanctum, the effect is considered coincidental.
   - Reality gets no extra locality die.
-
-  localities do not add dice to magickal actions, on
 
 ### Technocratic Localities
 
