@@ -19,8 +19,7 @@ md.use(deflist);
 md.use(terms);
 
 gulp.task('clean', function () {
-  return del('html/**')
-    .then(paths => { console.log('cleaned'); });
+  return del('html/**');
 });
 
 
