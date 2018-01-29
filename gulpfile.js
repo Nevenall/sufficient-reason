@@ -3,6 +3,7 @@ var gutil = require('gulp-util');
 var tap = require('gulp-tap');
 var MarkdownIt = require('markdown-it');
 var deflist = require('markdown-it-deflist');
+var terms = require('markdown-it-special-terms');
 var del = require('del');
 var shell = require('gulp-shell');
 var count = require('gulp-count-stat');
@@ -13,7 +14,9 @@ var md = new MarkdownIt({
     breaks: true,
     typographer: true
 });
+
 md.use(deflist);
+md.use(terms);
 
 gulp.task('clean', function () {
   return del('html/**')

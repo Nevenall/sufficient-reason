@@ -24,6 +24,10 @@
     "gulp-tap": "^1.0.1",
     "gulp-util": "^3.0.8",
     "markdown-it": "^8.4.0",
-    "markdown-it-deflist": "^2.0.3"
+    "markdown-it-deflist": "^2.0.3",
+    "markdown-it-special-terms": "^1.0.0"
+  },
+  "dependencies": {
+    
   }
 }
