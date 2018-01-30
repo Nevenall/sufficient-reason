@@ -1,3 +1,8 @@
+
+<head>
+<link href="../../styles/website.css"type="text/css"/>
+</head>
+
 # Making a Mage
 
   This is a guide for creating yourself a new Mage. 

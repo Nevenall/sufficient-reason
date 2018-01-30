@@ -1,6 +1,6 @@
 {
   "pdf.paperSize": "a5",
   "styles": {
-    "website":"styles/website.css"
+    "website": "styles/website.css"
   }
 }
