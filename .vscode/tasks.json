@@ -41,7 +41,7 @@
       }
     },
     {
-      "taskName": "spell check this file",
+      "label": "spell check this file",
       "type": "shell",
       "command": "Write-Output \"${file}\"; OddSpell \"${file}\";",
       "presentation": {

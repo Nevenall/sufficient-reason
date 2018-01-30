@@ -10,7 +10,7 @@
 
   You might be a "wizard private detective", or an "oracular sculptor."
   
-## Avatar
+## {Avatar}
 
   *Pick a type [Dynamic, Pattern, Primordial, or Questing](../Setting/Avatars.html) and characterize your avatar a bit.*
 

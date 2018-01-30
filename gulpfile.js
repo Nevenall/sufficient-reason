@@ -9,10 +9,10 @@ var shell = require('gulp-shell');
 var count = require('gulp-count-stat');
 
 var md = new MarkdownIt({
-    html: true,
-    xhtmlOut: true,
-    breaks: true,
-    typographer: true
+  html: true,
+  xhtmlOut: true,
+  breaks: true,
+  typographer: true
 });
 
 md.use(deflist);
