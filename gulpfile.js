@@ -9,41 +9,40 @@ var shell = require('gulp-shell');
 var count = require('gulp-count-stat');
 
 var md = new MarkdownIt({
-  html: true,
-  xhtmlOut: true,
-  breaks: true,
-  typographer: true
+   html: true,
+   xhtmlOut: true,
+   breaks: true,
+   typographer: true
+   // linkify: true
 });
+
 
 md.use(deflist);
 md.use(terms);
 
+
 gulp.task('clean', function () {
-  return del('html/**');
+   return del('html/**');
 });
 
-
 gulp.task('build', ['clean'], function () {
-  return gulp.src(['**/*.md', '!node_modules/**'])
-    .pipe(tap(markdownToHtml))
-    .pipe(gulp.dest('./html'));
+   return gulp.src(['**/*.md', '!node_modules/**'])
+      .pipe(tap((file) => {
+         var result = md.render(file.contents.toString());
+         file.contents = new Buffer(result);
+         file.path = gutil.replaceExtension(file.path, '.html');
+         return;
+      }))
+      .pipe(gulp.dest('./html'));
 });
 
 gulp.task('spelling', function () {
-  return gulp.src(['**/*.md', '!node_modules/**'])
-    .pipe(shell(['echo "<%= file.path %>"', 'OddSpell "<%= file.path %>"']));
+   return gulp.src(['**/*.md', '!node_modules/**'])
+      .pipe(shell(['echo "<%= file.path %>"', 'OddSpell "<%= file.path %>"']));
 });
-
-
 
 gulp.task('count', function () {
-  return gulp.src(['**/*.md', '!node_modules/**'])
-    .pipe(count());
+   return gulp.src(['**/*.md', '!node_modules/**'])
+      .pipe(count());
 });
 
-function markdownToHtml(file) {
-  var result = md.render(file.contents.toString());
-  file.contents = new Buffer(result);
-  file.path = gutil.replaceExtension(file.path, '.html');
-  return;
-}
