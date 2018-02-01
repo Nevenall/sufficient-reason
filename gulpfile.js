@@ -7,6 +7,7 @@ var terms = require('markdown-it-special-terms');
 var del = require('del');
 var shell = require('gulp-shell');
 var count = require('gulp-count-stat');
+var url = require('url');
 
 var md = new MarkdownIt({
    html: true,
@@ -19,6 +20,23 @@ var md = new MarkdownIt({
 
 md.use(deflist);
 md.use(terms);
+
+// any link to a .md resource, we will convert to a link to an .html resource
+var defaultRender = md.renderer.rules.link_open || function (tokens, idx, options, env, self) {
+   return self.renderToken(tokens, idx, options);
+};
+
+md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
+   var aIndex = tokens[idx].attrIndex('href');
+   var href = tokens[idx].attrs[aIndex][1];
+
+   if ((href.startsWith(".") || href.startsWith("..") && href.endsWith(".md"))) {
+      tokens[idx].attrs[aIndex][1] = href.replace(".md", ".html");
+   }
+
+   // pass token to default renderer.
+   return defaultRender(tokens, idx, options, env, self);
+};
 
 
 gulp.task('clean', function () {

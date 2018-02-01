@@ -1,8 +1,4 @@
 
-<head>
-<link href="../../styles/website.css"type="text/css"/>
-</head>
-
 # Making a Mage
 
   This is a guide for creating yourself a new Mage. 
@@ -17,7 +13,7 @@
   
 ## {Avatar}
 
-  *Pick a type [Dynamic, Pattern, Primordial, or Questing](../Setting/Avatars.html) and characterize your avatar a bit.*
+  *Pick a type [Dynamic, Pattern, Primordial, or Questing](../Setting/Avatars.md) and characterize your avatar a bit.*
 
   *Avatar 1 costs 0d6, Avatar 2 costs 1d6, 3 costs 2d6, 4 costs 4d6, 5 costs 8d6, 6 costs 16d6*
 
@@ -25,7 +21,7 @@
 
 ## Focus
 
-  *Pick a [Paradigm, at least one Magickal practice, and 7 Instruments](../Setting/Focus.html)*
+  *Pick a [Paradigm, at least one Magickal practice, and 7 Instruments](../Setting/Focus.md)*
 
   Focus encompasses both your fundamental beliefs about reality, and the nuts and bolts of how you perform magick.  
 
