@@ -7,7 +7,7 @@ var terms = require('markdown-it-special-terms');
 var del = require('del');
 var shell = require('gulp-shell');
 var count = require('gulp-count-stat');
-var url = require('url');
+//var url = require('url');
 
 var md = new MarkdownIt({
    html: true,
