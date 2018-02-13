@@ -1,6 +1,6 @@
 # Mage - Sufficient Reason
 
-A play by post Mage campaign using Cortex Plus.
+A play by post Mage campaign using Cortex Prime.
 
 ## Principle of Sufficient Reason
 
