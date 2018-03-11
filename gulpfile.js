@@ -30,7 +30,7 @@ md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
    var aIndex = tokens[idx].attrIndex('href');
    var href = tokens[idx].attrs[aIndex][1];
 
-   if ((href.startsWith(".") || href.startsWith("..") && href.endsWith(".md"))) {
+   if ((href.startsWith("/") && href.endsWith(".md"))) {
       tokens[idx].attrs[aIndex][1] = href.replace(".md", ".html");
    }
 
