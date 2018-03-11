@@ -1,7 +1,7 @@
 # Summary
 
 - [System](System/readme.md)
-  - [Making a Mage]("System/Making%20a%20Mage.md")
+  - [Making a Mage](System/Making%20a%20Mage.md)
   - [Mundane Actions](System/Mundane%20Actions.md) 
   - [Working Magick](System/Working%20Magick.md)
 - [Setting](Setting/readme.md)
