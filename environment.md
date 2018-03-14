@@ -2,10 +2,10 @@
 
 ## External Dependencies
 
-  NodeJS
-  OddSpell
-  ValeLint
+NodeJS
+OddSpell
+ValeLint
 
-  Maybe Pandoc
-  Maybe LanguageTool / requires Java
+Maybe Pandoc
+Maybe LanguageTool / requires Java
   

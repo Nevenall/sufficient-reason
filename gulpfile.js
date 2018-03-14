@@ -17,20 +17,19 @@ var md = new MarkdownIt({
    // linkify: true
 });
 
-
 md.use(deflist);
 md.use(terms);
 
 // any link to a .md resource, we will convert to a link to an .html resource
-var defaultRender = md.renderer.rules.link_open || function (tokens, idx, options, env, self) {
+var defaultRender = md.renderer.rules.link_open || function(tokens, idx, options, env, self) {
    return self.renderToken(tokens, idx, options);
 };
 
-md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
+md.renderer.rules.link_open = function(tokens, idx, options, env, self) {
    var aIndex = tokens[idx].attrIndex('href');
    var href = tokens[idx].attrs[aIndex][1];
 
-   if ((href.startsWith("/") && href.endsWith(".md"))) {
+   if (href.endsWith(".md")) {
       tokens[idx].attrs[aIndex][1] = href.replace(".md", ".html");
    }
 
@@ -39,11 +38,11 @@ md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
 };
 
 
-gulp.task('clean', function () {
+gulp.task('clean', function() {
    return del('html/**');
 });
 
-gulp.task('build', ['clean'], function () {
+gulp.task('build', ['clean'], function() {
    return gulp.src(['**/*.md', '!node_modules/**'])
       .pipe(tap((file) => {
          var result = md.render(file.contents.toString());
@@ -54,13 +53,12 @@ gulp.task('build', ['clean'], function () {
       .pipe(gulp.dest('./html'));
 });
 
-gulp.task('spelling', function () {
+gulp.task('spelling', function() {
    return gulp.src(['**/*.md', '!node_modules/**'])
       .pipe(shell(['echo "<%= file.path %>"', 'OddSpell "<%= file.path %>"']));
 });
 
-gulp.task('count', function () {
+gulp.task('count', function() {
    return gulp.src(['**/*.md', '!node_modules/**'])
       .pipe(count());
 });
-
