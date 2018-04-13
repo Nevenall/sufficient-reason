@@ -1,21 +1,21 @@
 {
-  "name": "forkandwrite",
+  "name": "sufficientreason",
   "version": "1.0.0",
-  "description": "A template for markdown writing projects",
+  "description": "A mage campaign using cortex prime",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nevenall/ForkAndWrite.git"
+    "url": "git+https://github.com/Nevenall/SufficientReason.git"
   },
   "author": "Dan Behlings",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nevenall/ForkAndWrite/issues"
+    "url": "https://github.com/Nevenall/SufficientReason/issues"
   },
-  "homepage": "https://github.com/Nevenall/ForkAndWrite#readme",
+  "homepage": "https://github.com/Nevenall/SufficientReason#readme",
   "devDependencies": {
     "del": "^3.0.0",
     "gulp": "^3.9.1",

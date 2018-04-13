@@ -1,20 +1,12 @@
-# Fork and Write
+# Mage - Sufficient Reason
 
-My very template environment for markdown projects; just fork and write!
+A play by post Mage campaign using Cortex Prime.
 
-## External Dependencies
+## Principle of Sufficient Reason
 
-- [OddSpell](https://github.com/Nevenall/OddSpell) for spell checking.
-- [ValeLint](https://github.com/ValeLint/vale/) for style checking.
+The Principle of Sufficient Reason states "everything must have a cause or reason."
 
-## Compiles to Html
+The name of this campaign comes from the unstated corollary. "All causes can be found and understood by the human mind given sufficient reason."
 
-Uses Gulp and Markdown-It to compile markdown to html and execute other tasks such as spell checking and word counting.
+The question of whether this corollary holds for all of reality, or not, is intended to be a foundational flavor of the campaign. Not a theme, not necessarily a question to answer, but perhaps, an ever present background color.
 
-## Internal Links
-
-Includes custom tweaks to convert internal links to .md files to .html files upon compile.
-
-## Visual Studio Code Integration
-
-Includes vs code integration to execute Gulp tasks and a problem matcher for spell checking.
