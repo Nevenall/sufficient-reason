@@ -1,13 +1,20 @@
-var gulp = require('gulp');
-var gutil = require('gulp-util');
-var tap = require('gulp-tap');
-var MarkdownIt = require('markdown-it');
-var deflist = require('markdown-it-deflist');
-var terms = require('markdown-it-special-terms');
-var del = require('del');
-var shell = require('gulp-shell');
-var count = require('gulp-count-stat');
+const gulp = require('gulp');
+const gutil = require('gulp-util');
+const tap = require('gulp-tap');
+const shell = require('gulp-shell');
+
+const count = require('gulp-count-stat');
+
+const del = require('del');
+
+const MarkdownIt = require('markdown-it');
+const deflist = require('markdown-it-deflist');
+const terms = require('markdown-it-special-terms');
+const anchors = require('markdown-it-anchor');
+const containers = require('markdown-it-container');
+
 const markdownLint = require('markdownlint');
+
 const prose = require('write-good');
 
 
@@ -20,9 +27,78 @@ var md = new MarkdownIt({
 });
 
 md.use(deflist);
-md.use(terms);
+md.use(terms, {
+   open_1: "<span class='game-term'>",
+   close_1: "</span>",
+   // open_2: "<aside class='callout'>",
+   // close_2: "</aside>",
+   // open_3: "<div class='stat-block'>",
+   // close_3: "</div>"
+});
+md.use(anchors);
+
+md.use(containers, 'aside', {
+   validate: function(params) {
+      return params.match(/\s*aside\s*/i);
+   },
+
+   render: function(tokens, idx) {
+      var m = tokens[idx].info.match(/\s*aside\s+(.*)/i);
+      if (tokens[idx].nesting === 1) {
+         if (m) {
+            return `<aside class="${m[1]}">\n`;
+         } else {
+            return '<aside>\n';
+         }
+      } else {
+         return "</aside>\n"
+      }
+   }
+});
+
+md.use(containers, 'article', {
+   validate: function(params) {
+      return params.match(/\s*article\s*/i);
+   },
+
+   render: function(tokens, idx) {
+      var m = tokens[idx].info.match(/\s*article\s+(.*)/i);
+      if (tokens[idx].nesting === 1) {
+         if (m) {
+            return `<article class="${m[1]}">\n`;
+         } else {
+            return '<article>\n';
+         }
+      } else {
+         return "</article>\n"
+      }
+   }
+});
+
+md.use(containers, 'figure', {
+   validate: function(params) {
+      return params.match(/\s*figure\s*/i);
+   },
+
+   render: function(tokens, idx) {
+      var m = tokens[idx].info.match(/\s*figure\s+(.*)/i);
+      if (tokens[idx].nesting === 1) {
+         if (m) {
+            return `<figure>\n<figcaption>${ md.render(m[1])}</figcaption>\n`;
+         } else {
+            return '<figure>\n';
+         }
+      } else {
+         return "</figure>\n"
+      }
+   }
+});
+
+
+// add container config for figure with a figure caption
 
 // any link to a .md resource, we will convert to a link to an .html resource
+// links with \ will be converted to /
 var defaultRender = md.renderer.rules.link_open || function(tokens, idx, options, env, self) {
    return self.renderToken(tokens, idx, options);
 };
@@ -31,7 +107,9 @@ md.renderer.rules.link_open = function(tokens, idx, options, env, self) {
    var aIndex = tokens[idx].attrIndex('href');
    var href = tokens[idx].attrs[aIndex][1];
 
-   if(href.endsWith(".md")) {
+   tokens[idx].attrs[aIndex][1] = href.replace('\\', '/');
+
+   if (href.endsWith(".md")) {
       tokens[idx].attrs[aIndex][1] = href.replace(".md", ".html");
    }
 
@@ -39,7 +117,15 @@ md.renderer.rules.link_open = function(tokens, idx, options, env, self) {
    return defaultRender(tokens, idx, options, env, self);
 };
 
+
+
 const source = ['**/*.md', '!node_modules/**', '!tools/**'];
+
+gulp.task('copy', ['build'], function() {
+   console.log("specify the path to copy to");
+  // return gulp.src('html/**').pipe(gulp.dest("c:/src/BookShelf-GhostingTheEdge/src/pages"));
+});
+
 
 gulp.task('clean', function() {
    return del('html/**');
@@ -78,7 +164,7 @@ gulp.task('lint', function() {
             }
          }, function(err, result) {
             var resultString = (result || "").toString();
-            if(resultString) {
+            if (resultString) {
                console.log(resultString);
             }
          });
