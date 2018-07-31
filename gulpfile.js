@@ -196,8 +196,8 @@ gulp.task('build', ['clean'], function() {
 });
 
 gulp.task('copy', ['build'], function() {
-   console.log("copy task not configured");
-  // return gulp.src('html/**').pipe(gulp.dest("c:/src/BookShelf-GhostingTheEdge/src/pages"));
+   console.log("copying pages to to c:/src/BookShelf-SufficientReason/src/pages");
+   return gulp.src('html/**').pipe(gulp.dest("c:/src/BookShelf-SufficientReason/src/pages"));
 });
 
 gulp.task('spelling', function() {
