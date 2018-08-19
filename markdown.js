@@ -15,7 +15,7 @@ var md = new MarkdownIt({
 
 md.use(deflist)
 md.use(terms, {
-   open_1: '<span class="game-term">',
+   open_1: '<span class="trait">',
    close_1: "</span>",
    open_2: '<span class="game-term2">',
    close_2: "</span>",
