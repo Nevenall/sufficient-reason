@@ -28,6 +28,7 @@ Each working has one, or more, distict effects represented by an *effect die*. Y
 
 Pick your Effect Dice, the larger and grander they are, the more powerful your working will be. 
 
+:::table Effect Die rating
 Successes | Effect Dice | Feat       | Examples
 :--------:|:-----------:|:----------:|:---------
 1         | d4          | Trivial    | 
@@ -39,8 +40,7 @@ Successes | Effect Dice | Feat       | Examples
 7         | d12,d6      |            |
 10        | 2d12        | Godlike    |
 20        | 4d12        |            |
-
-Table: Effect Die rating
+:::
 
 ## Spheres
 
@@ -54,6 +54,7 @@ It is possible for your working to have multiple effects of the same Sphere. Thi
 
 > For example, if you combine a d8 fire attack with a d8 levitation asset into a single working, you are controlling two distinct Forces which requires two d8 Forces components.
 
+::: table Generic Sphere Ratings
 Dice | Ability      | Description
 ----:|:------------:|:-----------
 d4   | Perception   | Observe and perceive elements of this Sphere beyond any mortal ken. 
@@ -61,8 +62,7 @@ d6   | Manipulation | Make small chanzges to existing elements of this Sphere.
 d8   | Control      | Create noticeable effects with elements of this Sphere. This rank is generally for an effect to cause damage. 
 d10  | Command      | Create major effects. This rank is typically required to cause significant changes to the patterns of others.  
 d12  | Mastery      | Command vast effects with the elements of this Sphere.
-
-Table: Generic Sphere Ratings
+:::
 
 ### Meta-magick 
 
