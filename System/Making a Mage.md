@@ -11,17 +11,17 @@ It helps to have a simple concept in mind as you create your character. It doesn
 
 You might be a "wizard private detective", or an "oracular sculptor."
 
-## {Avatar}
+## Avatar
 
-*Pick a type [Dynamic, Pattern, Primordial, or Questing](/Setting/Avatars.md) and characterize your avatar a bit.*
+*Pick a type [Dynamic, Pattern, Primordial, or Questing](Setting/Avatars.md) and characterize your avatar a bit.*
 
 *Avatar 1 costs 0d6, Avatar 2 costs 1d6, 3 costs 2d6, 4 costs 4d6, 5 costs 8d6, 6 costs 16d6*
 
-Avatar is a mystickal rating of how much personal Quintessence you can hold and how much, from any source, you can spend on a single magickal action.
+{Avatar} is a mystickal rating of how much personal Quintessence you can hold and how much, from any source, you can spend on a single magickal action.
 
 ## Focus
 
-*Pick a [Paradigm, at least one Magickal practice, and 7 Instruments](/Setting/Focus.md)*
+*Pick a [Paradigm, at least one Magickal practice, and 7 Instruments](Setting/Focus.md)*
 
 Focus encompasses both your fundamental beliefs about reality, and the nuts and bolts of how you perform magick.  
 
