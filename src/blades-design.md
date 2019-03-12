@@ -7,12 +7,13 @@
 Name – Who you be?
 Concept – What's the two sentence version of who you are?
 Avatar – The essence and details of your avatar
-Affiliation – Which faction and sect do you hang with?
+Affiliation – Which faction and cabal do you hang with? Do you have a relationship with any larger chantries?
+
+<!-- like blades, we can start creating the various factions and placing them in sf. then the PCs have an existing work to enter. also characters, cabals, chantries and other factions  they can be connected with.  -->
 
 ### Actions & Attributes
 
 Actions & attributes are mundane traits, and though they have different names, they operate the same as actions do in blades in the dark. 
-
 
 INSIGHT
 Craft – science, craft, tinker, build, operate, figure out
@@ -34,11 +35,11 @@ Socialize – befriend, establish rapport, hangout, make connections
 
 ### Mystick Traits
 
-Mages are complex beings and possess a second entire set of traits that mundane sleepers do not. The awakened have Mystick traits which are used to exercise their will against reality. 
+Mages are complex beings and possess a second entire set of traits that sleepers do not. The awakened have Mystick traits which are used to exercise their will against reality. 
 
 #### Arete
 
-the center-piece of the mystick traits is Arete, or Enlightenment according the technomancers. This trait is a measure of a mage's overall awakened will. For magickal actions and resisting mystick paradox you'll roll dice equal to your Arete. 
+the center-piece of mystick traits is Arete, or Enlightenment according the technomancers. This trait is a measure of a mage's overall awakened will. For magickal actions and resisting mystick paradox you'll roll dice equal to your Arete. 
 
 Arete doesn't advance without difficulty, in fact, this is often the primary pursuit of mages because advancing Arete requires completing a 20-tick downtime clock and performing some variety of seeking. 
 
@@ -50,15 +51,15 @@ Arete for starting character is 1.
 
 These are ratings in the nine facets of reality and they represent your ability to work your will in that facet without invoking paradox. 
 
-Take 1 point in your Affinity Sphere and distribute 5 other points. 
+Take 1 point in your Affinity Sphere and distribute 5 other points. (this is the same as Mage20 and I think it's approps. You miss out on the chances for freebie points, but that's just as well)
 
 <!-- Not sure we need a start limit for spheres. but if we find we do...No sphere can start greater than 2.  -->
 
-Spheres advance with XP like actions. Take 1 xp when you use a sphere in a desperate action. though only 1 sphere per desperate roll. 
+Spheres advance with XP like actions. Take 1 xp when you use a sphere in a desperate action. though only 1 sphere per desperate roll. When you get xp you can add it to a sphere, or an advancement, or attribute.
 
 ##### Affinity Sphere
 
-Every mage has one sphere that they have a most intimate knowledge of. One sphere that speaks to them more than any other. This is the affinity sphere. Your tradition will give a choice of spheres to choose for this. 
+Every mage has one sphere that they have a most intimate knowledge of. One sphere that speaks to them more than any other. This is the affinity sphere. Your tradition will give a few spheres to choose from. 
 
 When your working uses your affinity sphere you may take +1 Effect.
 
@@ -70,11 +71,9 @@ When your working uses your affinity sphere you may take +1 Effect.
 Every mage has a spirit guide which can manifest an appearance to that mage allow. This teacher, guide, torrturer, master, demon, is to some degree responsible for a mage's awakening and also for their connection to the prime enegy 
 of reality.
 You can take this advancement 1-3 times. Each time you gain an extra quintessence box and your avatar becomes a more powerful presence.  
-
-
 #### Dreaming/Past Lives
 
-The point is access to knowledge and ability you don't normally have. Like the Rook's Gambit ability you can spend 2 quintessence and add +1D to an action for the duration of scene.
+The point is access to knowledge and ability you don't normally have. Like the Rook's Gambit ability you can spend 2 quintessence and add +1D to an action of your choice for the duration of scene.
 
 #### Demesne
 
@@ -97,6 +96,34 @@ Wonders can also be batteries for storing quintessence, and are much prized by m
 #### Arcane
 
 A somewhat helpful Weird Arcane is a mystick trait which makes you forgettable. You will fade from memories and even recordings and paper records over time. You may come to wonder if you real exist. It can be hard to get attention when you need it. You don't necessarily control this trait and you fear that one day you will fade away entirely. 
+
+
+
+
+<!-- some other advancements some of these are cabal traits
+
+Allies
+backup
+Blessing, you have some kind of otherworldly blessing
+Chantry, dont think this is directly an advancement
+Contacts, again, more ways to say people.
+Cult,
+Fame?
+Influence
+Legend, a chance to refresh your quintessence because you are legendary
+Library, great for researching and advancing mystick traits.
+Mentor, more people, this time personal.
+Node, access to a node, key for the old quintessence recharge, may have a nasty flavor though
+Patron, a msytickal power who is friendly
+Rank, rank amoungst mages, you may have some
+Resources, mundane cash
+retainers,
+Sanctum, a small locality aligned to your practice makes it easier and safer to do magick. More likely controlled. 
+Spies, 
+Status, you have a positive reputation
+
+
+ -->
 
 
 ### How Much Quintessence?
@@ -218,8 +245,16 @@ Paradox can result in various forms of mystickal harm such as weirds and quiets.
 
 Paradox is reality defending itself from being ripped apart and changed. That's why spheres are important. They represent your ability to make changes in a particular area without incurring the wrath of the consensus. 
 
-Simple enough. 
+## Trauma
 
+This is a section to move, but a skilled mind mage could very well heal himself of a trauma fairly easily. It would be delicate work, but why not? In some ways I like how easy it is to do with magick. Reinforces the genre and makes for an interesting decision. 
 
+## Downtime
 
+### Healing
 
+physical healing, even mental healing, for mages can be trivial, but healing mystick pattern damage, that is more difficult. A familiar or another mage of your practice can help you with the treatment roll, after that it will take time to heal things liek weirds and quiet and other pattern damage.  
+
+### Crafting
+
+there's lots of things a mage could do with downtime, even large workings, but what about crafting fetishes and wonders? that's an interesting question. 
