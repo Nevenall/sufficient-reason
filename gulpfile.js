@@ -130,7 +130,7 @@ function spelling() {
                misspellings.forEach(err => {
                   let word = line.substring(err.start, err.end)
                   let suggestions = spellchecker.getCorrectionsForMisspelling(word)
-                  console.log(`'${file.basename}' ${idx + 1}:${err.start + 1} ${word} -> ${suggestions.join(' ')}`)
+                  console.log(`"${file.path}" ${idx + 1}:${err.start + 1} ${word} -> ${suggestions.join(' ')}`)
                })
             })
             callback(null, file)

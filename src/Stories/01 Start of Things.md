@@ -26,7 +26,7 @@ You become conscious that you are standing in a park looking at a statue.
 
 ![By Glen Bowman from Newcastle, England [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bufano_statue_and_stars_and_stripes_flag_-_Great_Meadow_Park_at_Fort_Mason_-_San_Francisco%2C_California%2C_USA_%2821001399300%29.jpg/450px-Bufano_statue_and_stars_and_stripes_flag_-_Great_Meadow_Park_at_Fort_Mason_-_San_Francisco%2C_California%2C_USA_%2821001399300%29.jpg)
 
-{How do you recieve a command/feeling/direction to find someone called the Bag Lady?}
+{How do you receive a command/feeling/direction to find someone called the Bag Lady?}
 
 
 ## Notes about the Bag Lady's response
