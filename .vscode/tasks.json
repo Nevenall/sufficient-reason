@@ -13,7 +13,7 @@
              "owner": "build",
              "source": "markdown-lint",
              "severity": "warning",
-             "fileLocation": ["relative", "${workspaceFolder}/src"],
+             "fileLocation": "absolute",
              "pattern": [{
                 "regexp": "'(.+?)' (\\d+,\\d+,\\d+,\\d+) (.*)",
                 "file": 1,
@@ -31,7 +31,6 @@
              "owner": "spelling",
              "source": "spelling",
              "severity": "error",
-            //  "fileLocation": ["relative", "${workspaceFolder}/src"],
              "fileLocation": "absolute",
              "pattern": [{
                 "regexp": "\"(.+?)\" (\\d+):(\\d+) (.+ ->.*)",
@@ -78,7 +77,7 @@
              "owner": "prose",
              "source": "prose-lint",
              "severity": "warning",
-             "fileLocation": ["relative", "${workspaceFolder}/src"],
+             "fileLocation": "absolute",
              "pattern": [{
                 "regexp": "'(.+)' (\\d+):(\\d+):(\\d+) (.*)",
                 "file": 1,
