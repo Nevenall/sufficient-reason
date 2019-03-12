@@ -1,6 +1,6 @@
-# Sufficient Reason
+ # Sufficient Reason
 
-*Everything must have a cause or reason* but there is an unstated assumption these reasons are sufficient to explain an event and will be conprehensible to a human mind.
+*Everything must have a cause or reason* but are there reasons the human cannot see?
 
 ## Making a Mage
 
@@ -11,7 +11,7 @@ Affiliation – Which faction and sect do you hang with?
 
 ### Actions & Attributes
 
-Actions & attrributes are mundane traits, and though they have different names, they operate the same as actions do in blades in the dark. 
+Actions & attributes are mundane traits, and though they have different names, they operate the same as actions do in blades in the dark. 
 
 
 INSIGHT
@@ -34,13 +34,13 @@ Socialize – befriend, establish rapport, hangout, make connections
 
 ### Mystick Traits
 
-Mages are complex beings and possess a second entire set of traits that mundane sleepers do not. The awakened have Mystick traits which are used to execise their will against reality. 
+Mages are complex beings and possess a second entire set of traits that mundane sleepers do not. The awakened have Mystick traits which are used to exercise their will against reality. 
 
 #### Arete
 
-the center-piece of the mystick traits is Arete, or Enlightment according the technomancers. This trait is a measure of a mage's overall awakened will. For magickal actions and resisting mystick paradox you'll roll dice equal to your Arete. 
+the center-piece of the mystick traits is Arete, or Enlightenment according the technomancers. This trait is a measure of a mage's overall awakened will. For magickal actions and resisting mystick paradox you'll roll dice equal to your Arete. 
 
-Arete doesn't advance without difficulty, in fact, this is often the primary pursuit of mages becuase advancing Arete requires completing a 20-tick downtime clock and performing some variety of seeking. 
+Arete doesn't advance without difficulty, in fact, this is often the primary pursuit of mages because advancing Arete requires completing a 20-tick downtime clock and performing some variety of seeking. 
 
 Arete is a measure of understanding, not knowledge. The greater your arete rises the more god-like you shall become and the easier it shall be for you to recognize the crutch that is your focus and discard it. 
  
@@ -62,19 +62,41 @@ Every mage has one sphere that they have a most intimate knowledge of. One spher
 
 When your working uses your affinity sphere you may take +1 Effect.
 
-### Special Abilities
+### Special Abilities/Advancements
+<!-- or do we call them advancements? good for mage -->
 
-Avatar – can take it once maybe even twice. Your avatar can casually manifest to others, not just you. And you have 2 additional quintessence boxes. 
+#### Avatar
 
-Dreaming/Past Lives – The point is access to knowledge and ability you don't normally have
+Every mage has a spirit guide which can manifest an appearance to that mage allow. This teacher, guide, torrturer, master, demon, is to some degree responsible for a mage's awakening and also for their connection to the prime enegy 
+of reality.
+You can take this advancement 1-3 times. Each time you gain an extra quintessence box and your avatar becomes a more powerful presence.  
 
-Demesne – There is a magical place where you go in your dreams. 
 
-Familiar - a companion. Can help you with knowledge skills, and armor against paradox, sacrifice one quintessence box. It can't be killed by mundane means because it's a part of your being. It will reform after a while. Or will it? that might be too dnd. 
+#### Dreaming/Past Lives
 
-Wonders - these can be all kinds of things. 
+The point is access to knowledge and ability you don't normally have. Like the Rook's Gambit ability you can spend 2 quintessence and add +1D to an action for the duration of scene.
 
-Arcane - almost a weird in someways, arcane makes you forgettable. You will fade from memories and recordings and sometimes it is hard to get attention when you need it. You don't necessarily control this, and you fear that oneday you'll wake up and no one will remember you. 
+#### Demesne
+
+There is a magical place where you go in your dreams. Unlike most people's though, this is a real place. Somewhere in the Umbral. You might even travel there in corporeal form some day. You have an outsized imporance in this realm, like Dorothy to Oz. 
+
+#### Familiar
+
+Many mage's have a mystickal companion. You may take this advancement upto 3 times. Each time you must sacrifice a permenant box of quintessce to your familiar. For each box given, they can add that many dice to appropriate gather info rolls and they have one box of special armor. When your familiar is close by you may spend their special armor to resist paradox. 
+
+Familiars are independant beings, but you have given them a chunk of your very reality. You share a most intimate bond with them. Can feel what they feel and often share thoughts, even across distances. However, they can be killed, taking their fraction of your being with them.
+
+#### Wonders
+
+Items of signifigance and power. Things that have been crafted and embued.
+
+Mystick abilities powered by quintessence, they are generally faster and safer than ordinary Workings.
+
+Wonders can also be batteries for storing quintessence, and are much prized by mages. 
+
+#### Arcane
+
+A somewhat helpful Weird Arcane is a mystick trait which makes you forgettable. You will fade from memories and even recordings and paper records over time. You may come to wonder if you real exist. It can be hard to get attention when you need it. You don't necessarily control this trait and you fear that one day you will fade away entirely. 
 
 
 ### How Much Quintessence?
@@ -84,6 +106,16 @@ this is an important question. the greater the quintessence the longer and stron
 Start with 9 and +1 for each Avatar advancement you take. 
 
 Seems reasonable. 
+
+if a mage has 9 or more quintessence, how much would a vampire, werewolf, or sleeper have? 
+
+#### Running out of Quintessence
+
+What happens? do you suffer some kind of equivelent to trauma, or do you simply lose your ability to resist paradox and power some spells? If you are good at prime you can recharge yourself, though it has to come from somewhere. I think that's the way it should work. your quintessence rating is your extra, if you run out you are just out, 
+
+but if you are desperate you can start eating the reality of your own pattern to fuel your magick. Take mystick harm to your very being and you get an equivelent amount of quintessence to spend. 
+
+most moving of quintessence is coincidental, but can become vulgar if it's more than 3. 
 
 
 ## Chantry/Cabal
@@ -98,7 +130,7 @@ The PC group (cabal?) may or my not have their own chantry with a node and every
 cabal being the equivalent of gang. 
 Sufficient Reason is less about the cabal fighting for territory and status and doing scores together though. It's about very different things, which makes me wonder if the cabal should have a playbook of its own? 
 if it did it would have useful things on it, like nodes and libraries and sphere training grounds. 
-but it might be interesting if aquiring things like that was more of a downtime action. Meaning that a mage would have to set aside his quest for greater understanding of reality and Will advancement to gather a library or tap a node. that could be an interesting challenge. 
+but it might be interesting if acquiring things like that was more of a downtime action. Meaning that a mage would have to set aside his quest for greater understanding of reality and Will advancement to gather a library or tap a node. that could be an interesting challenge. 
 
 the mechanics of that are saying that Sufficient Reason is about all the things that can get in the way of a Mage's dedication to advancing his power in the form of Will. 
 at least a fair bit of the game is about that. Kind of harkens to Ars Magica. 
@@ -106,7 +138,7 @@ Nothing wrong with that, but good to recognize.
 
 ### Drawing Together
 
-One of the more important things to record is how you all came together. Especially if you are from different traditions. and maybe what keeps you together? and are their other lesser mages in your chantry? that's an interesting question. Or even mundanes? Your chantry could be a homeless shelter that you have only ocassional access to. 
+One of the more important things to record is how you all came together. Especially if you are from different traditions. and maybe what keeps you together? and are their other lesser mages in your chantry? that's an interesting question. Or even mundanes? Your chantry could be a homeless shelter that you have only occasional access to. 
 
 ## Recovery
 
@@ -117,9 +149,11 @@ Stress recovery comes from your relationships and things that connect you to the
 Stress recovery can be things like parties, conversations, debates, sex. Karaoke. 
 Something that involves sleepers. Stress is a human quality and you may be a supermage, but you are still somewhat human. 
 
+Like blades, you roll your weakest attribute to see how much stress you recover. If you recover more than you lack, there is some kind of complication from your activities. Accidentally revealing some magely powers or otherwise catching unwelcome attention. 
+
 ### Quintessence
 
-Quintessence recovery requires time at a node, or some advanced Prime magick to steal Quintessence from some other source. 
+Quintessence recovery requires time at a node and some kind of private activity. Often something creative, occassionally something more active like a dance party. Regardless, a node is required. To recover quintessence you roll your Arete and maybe get a +1 for every avatar advancement you have. There are no complications from overdoing it. 
 
 ## Shape of the Game
 
@@ -135,29 +169,29 @@ doesn't have to be a huge thing, could be really mundane like the death of a fam
 
 Seems like there is no equivalent of a score. there may be action sequences that are similar, and a cabal might decide to do a thing together, maybe take action together to advance their chantry even. Like setup a node. 
  
-interesting, I like a lot of this. And mages have real lifes
+interesting, I like a lot of this. 
 
 ## Magick
 
-We'll call the thing you are doing a Working to differentiate it from effect. becuase effect for blades is more like successes. 
+We'll call the thing you are doing a Working to differentiate it from effect. because effect for blades is more like successes. 
 
 ### Magick Action
 
 - Roll Arete
 - Insufficient Spheres incurs automatic paradox sized to your deficit
 - resist paradox with Arete for mystick consequences or an attribute for paradox that is mundane
-- position is set based mostly on coincidental vs. vulgar. The more vulgar the greater the consiquences for failing
+- position is set based mostly on coincidental vs. vulgar. The more vulgar the greater the consequences for failing
 - Effect: for the most part the number of successes required translates to the level of effect needed for the Working
 
 #### Position, Focus, and Locality
 
-The primary consideration for setting position is coincidental vs. vulgar but there are sometimes another axises to look at. 
+The primary consideration for setting position is coincidental vs. vulgar but there are sometimes another axis to look at. 
 
 One is focus; is your working easily part of your focus and are you taking your time to perform it according to the constraints of your focus? or are you cutting corners and trying something that can't be clearly placed in your focus? 
 
 Another aspect is locality; workings deeply related to your focus are easier and performing in localities closely related your focus, (ie sanctums or resonant locations) are even more likely to be coincidental rather then vulgar. 
 
-Oh the other hand perform your workign without paying proper attention to the requirements of your focus, or even performing raw magick without the support of any focus at all, this is more likely to be desperate than controlled. 
+Oh the other hand perform your working without paying proper attention to the requirements of your focus, or even performing raw magick without the support of any focus at all, this is more likely to be desperate than controlled. 
 
 ### Spheres
 
