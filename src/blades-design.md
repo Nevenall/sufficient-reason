@@ -63,17 +63,39 @@ Every mage has one sphere that they have a most intimate knowledge of. One spher
 
 When your working uses your affinity sphere you may take +1 Effect.
 
-### Special Abilities/Advancements
-<!-- or do we call them advancements? good for mage -->
+#### Quintessence
+
+Every mage has an Avatar. Some thing of it as a second soul, or a spirit guide. Regardless of what it really is, it gives a mage their connection to the primal energy of reality called Quintessence by mages.
+
+Everyone possesses enough Quintessence for whatever existance they might have, but through their avatar, mages store quintessence above and beyond what they need for mere existence and mages may employ this stored energy to power spells and resist paradox. 
+
+Mechanically, quintessence is stress for powering magickal actions and resisting paradox. 
+
+Each mage have 9 quintessence boxes. They can be recovered through practice specific rituals at nodes.
+
+Unlike stress, using your last quintessence has no additional detriment, though despirate mages can rip additional energy from their pattern.
+
+#### Pattern 
+
+Pattern is a term for the mystickal tapistry that is a material being. Though the patterns of living beings are complex, being made of life, mind, and spirit, even the lowliest pebble has a matter pattern. 
+
+as the the physical body is subject damage, so is the metaphysical pattern body. Pattern is a mystick trait that paralells harm. As mages suffer harm from magick and paradox, they will write in pattern damage.   
+
+### Advancements
+
+Mage's don't have a playbook but they do have special abilities. 
 
 #### Avatar
 
-Every mage has a spirit guide which can manifest an appearance to that mage allow. This teacher, guide, torrturer, master, demon, is to some degree responsible for a mage's awakening and also for their connection to the prime enegy 
-of reality.
+Every mage has a spirit guide which can manifest an appearance to that mage allow. This teacher, guide, torrturer, master, demon, is to some degree responsible for a mage's awakening and also for their connection to the prime enegy of reality.
+
+Some mages are blessed/cursed with an even more powerful avatar. One which can manifest in appearance to other mages and not just yourself. Even more powerful avatars can manifest physical effects on rare occasions. 
+
 You can take this advancement 1-3 times. Each time you gain an extra quintessence box and your avatar becomes a more powerful presence.  
+
 #### Dreaming/Past Lives
 
-The point is access to knowledge and ability you don't normally have. Like the Rook's Gambit ability you can spend 2 quintessence and add +1D to an action of your choice for the duration of scene.
+You have access to knowledge and ability you don't normally have. Like the Rook's Gambit ability you can spend 2 quintessence and add +1D to an action of your choice for the duration of scene.
 
 #### Demesne
 
@@ -95,10 +117,7 @@ Wonders can also be batteries for storing quintessence, and are much prized by m
 
 #### Arcane
 
-A somewhat helpful Weird Arcane is a mystick trait which makes you forgettable. You will fade from memories and even recordings and paper records over time. You may come to wonder if you real exist. It can be hard to get attention when you need it. You don't necessarily control this trait and you fear that one day you will fade away entirely. 
-
-
-
+A somewhat helpful weird, Arcane is a mystick trait which makes you forgettable. You will fade from memories and even recordings and paper records over time. You may come to wonder if you real exist. It can be hard to get attention when you need it. You don't necessarily control this trait and you fear that one day you will fade away entirely. 
 
 <!-- some other advancements some of these are cabal traits
 
@@ -168,6 +187,10 @@ Nothing wrong with that, but good to recognize.
 One of the more important things to record is how you all came together. Especially if you are from different traditions. and maybe what keeps you together? and are their other lesser mages in your chantry? that's an interesting question. Or even mundanes? Your chantry could be a homeless shelter that you have only occasional access to. 
 
 ## Recovery
+
+### Healing
+
+there are two kinds of harm to heal, phsyical and pattern or mystickal. Physical damage is dangerous but fairly easy for mages to heal. more difficult kind of harm is pattern damage for this metaphysical injury to the very being of a mage.
 
 ### Stress
 
@@ -242,8 +265,21 @@ Mechanically speaking, Paradox is actually a general term for consequences  from
 
 Paradox can result in various forms of mystickal harm such as weirds and quiets. Auras of strangeness around the mage, or "delusions" that separate them from the mundane world. 
 
-
 Paradox is reality defending itself from being ripped apart and changed. That's why spheres are important. They represent your ability to make changes in a particular area without incurring the wrath of the consensus. 
+
+#### Weirds
+
+A weird is a strangeness that paradox marks upon a mage's pattern as if in warning to sleepers to stay away. Some weirds have a long tradition: spoiling milk, or distrupting technology. 
+
+Weirds are recorded on a mage's pattern though they tend to be lesser kinds of pattern harm.
+
+#### Quiet
+
+Quiet is the inverse of a weird. Where a weird separates a mage by marking them from the outside a quiet separates a mage from reality by marking them on the inside. A quiet can seem very much like psychosis or hallucination, but for a mage it can be much more real. 
+
+#### Pattern Burn
+
+there are all kinds of other damage that can happen to a mage's being. 
 
 ## Trauma
 
