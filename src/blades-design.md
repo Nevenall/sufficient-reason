@@ -7,13 +7,15 @@
 Name – Who you be?
 Concept – What's the two sentence version of who you are?
 Avatar – The essence and details of your avatar
-Affiliation – Which faction and cabal do you hang with? Do you have a relationship with any larger chantries?
+Affiliation – Which tradition and cabal do you hang with? Do you have a relationship with any other chantries or cabals? How do 
 
 <!-- like blades, we can start creating the various factions and placing them in sf. then the PCs have an existing work to enter. also characters, cabals, chantries and other factions  they can be connected with.  -->
 
 ### Actions & Attributes
 
 Actions & attributes are mundane traits, and though they have different names, they operate the same as actions do in blades in the dark. 
+
+You get 7 dots of actions? No higher than 2 to start.
 
 INSIGHT
 Craft – science, craft, tinker, build, operate, figure out
@@ -83,7 +85,7 @@ as the the physical body is subject damage, so is the metaphysical pattern body.
 
 ### Advancements
 
-Mage's don't have a playbook but they do have special abilities. 
+Mage's don't have specific playbooks but they do have special abilities. 
 
 #### Avatar
 
@@ -91,7 +93,9 @@ Every mage has a spirit guide which can manifest an appearance to that mage allo
 
 Some mages are blessed/cursed with an even more powerful avatar. One which can manifest in appearance to other mages and not just yourself. Even more powerful avatars can manifest physical effects on rare occasions. 
 
-You can take this advancement 1-3 times. Each time you gain an extra quintessence box and your avatar becomes a more powerful presence.  
+You can take this advancement 1-3 times. Each time you gain an extra quintessence box and you may spend an additonal point of quintessence per Workingf for extra effect.
+
+Also your avatar becomes a more powerful presence. 
 
 #### Dreaming/Past Lives
 
@@ -119,6 +123,22 @@ Wonders can also be batteries for storing quintessence, and are much prized by m
 
 A somewhat helpful weird, Arcane is a mystick trait which makes you forgettable. You will fade from memories and even recordings and paper records over time. You may come to wonder if you real exist. It can be hard to get attention when you need it. You don't necessarily control this trait and you fear that one day you will fade away entirely. 
 
+#### Legend
+
+You, or more likely your avatar, are legendary. Once per session and with a momement's peace, you can tap deep reserves of power through your avatar and recover quintessence.
+
+#### Sanctum
+
+You have a special place. A place aligned with your practice where your magick can flourish and other realties are held off. Your sanctum may be part of a larger chantry or it may be a special place of your own. 
+
+#### Node
+
+Are these personal advancements or are these cabal advancements? I feel cabal. Though a mage might take them as personal things. I guess they could be either or. Gives some flex to the kind of game youa re after.  
+
+#### Library
+
+This 
+
 <!-- some other advancements some of these are cabal traits
 
 Allies
@@ -141,8 +161,7 @@ Sanctum, a small locality aligned to your practice makes it easier and safer to 
 Spies, 
 Status, you have a positive reputation
 
-
- -->
+-->
 
 
 ### How Much Quintessence?
@@ -163,8 +182,7 @@ but if you are desperate you can start eating the reality of your own pattern to
 
 most moving of quintessence is coincidental, but can become vulgar if it's more than 3. 
 
-
-## Chantry/Cabal
+## Chantry
 
 Are the PCs small parts of a larger Chanty or are they their own small Chantry trying to make their own way? 
 this has a big effect on what kind of game we play. 
@@ -181,6 +199,15 @@ but it might be interesting if acquiring things like that was more of a downtime
 the mechanics of that are saying that Sufficient Reason is about all the things that can get in the way of a Mage's dedication to advancing his power in the form of Will. 
 at least a fair bit of the game is about that. Kind of harkens to Ars Magica. 
 Nothing wrong with that, but good to recognize. 
+
+Lets say that the PCs all belong to the same chantry. It could be one they have built together, or it could be a larger one that other mages lead. Of course, if that is the case then how would advancements work?
+
+Still, this is perhaps the biggest weakness in mage. We have to create for ourselves a unification. Not that disperate mages doing their disperate things is terrible, but it might be less interesting than it could be. 
+
+So, PCs are their own group for whatever reason we decide and whatever their group, they lead it. It is their chantry come hell or high water. Later on things might slip. they might separte and join others. 
+
+Maybe if you don't lead your chantry than the best you can do to improve it is downtime activities? That makes sense. If its already established it doesn't grow that much anymore except by effort. 
+
 
 ### Drawing Together
 
@@ -279,7 +306,7 @@ Quiet is the inverse of a weird. Where a weird separates a mage by marking them 
 
 #### Pattern Burn
 
-there are all kinds of other damage that can happen to a mage's being. 
+There are many other kinds of damage paradox can inflict on a mage's being from simple burning away of the mage's native quintessence to strangely appropos inversions of whatever working caught the attention of reality. 
 
 ## Trauma
 
@@ -291,6 +318,45 @@ This is a section to move, but a skilled mind mage could very well heal himself 
 
 physical healing, even mental healing, for mages can be trivial, but healing mystick pattern damage, that is more difficult. A familiar or another mage of your practice can help you with the treatment roll, after that it will take time to heal things liek weirds and quiet and other pattern damage.  
 
+I have like three healing sections now...
+
+#### Mundane Treatment
+
+Healing mundane harm works just like it does in blades. Its better to have help from a mundane  {Care} action. Also, a skilled mage can fill a mundane healing clock in really fast because they can treat it as a single working. Might take a couple of rolls but the time depends on their practice rather than a downtime project. 
+
+#### Mystick Treatment
+
+Healing pattern harm however is more difficult. It requires magick of some kind. What kind of magick though? specific pattern spheres? Life and Prime? or Life, Spirit and Prime? Does it depend on the damage? Seems like either life or spirit would be the most accurate, sometimes both. Oh and or mind. Depending on how twisted things got. So, treatment requires a Working of pattern spheres depending on the wound. You can try it yourself, but that could be dangerous, and costs 2 stress. 
+
+<!-- so, pattern burn, pattern harm, quintessence, weirds, what shall we call the more metaphysical level of damage? pattern harm is a little boring but accurate. Or twistings? We'll need good examples of what this kind of damage can be. It could be something crazy like a geas or taboo even.  -->
+
 ### Crafting
 
 there's lots of things a mage could do with downtime, even large workings, but what about crafting fetishes and wonders? that's an interesting question. 
+
+## Adding Mind Sphere
+
+When you're doing forces, for example, you can add a mind effect so you can control the, lets say flames, with your mind. The benefit or reason to do this is so you can attack people with that flame, but with a different action. Normally you'd use Fight. But with the added Mind you can use Confront or Reveal to attack them with flames. Depends on wether your flame will be powered by emotions or not. 
+
+Though lots of flames might better use destroy than fight. 
+
+## Pushing a Working with Stress?
+
+Here is a question...can you push yourself with Stress to add dice to a working? if so, can you use quintessence and stress for the same working? 
+Can you add dice to a working with quintessence or only effect? 
+Can anything add dice to your working? I could make an argument that nothing could. I could also make an argument that quintessence could (you fuel it through your avatar for a temporary boost). Is there an argument that stress can too? Stress is an abstract thing. an edge, a measure of narrative stamina. A pacing mechanism. Quintessence is too, but lesser because there is no trauma to be had from running out. At least, as I have conceived of it. I think permenant weirds and twists come from taking ones larger than 3 levels of effect. Essentially fatal paradox. It could hurt and burn but could also twist you permenantly. At least, mostly permenantly. 
+
+Anyway, how do mundane and mystick stress interact? 
+that is somethingto work out for sure. 
+
+If you can't use stress for magick there may be rather a lot of it hanging about. Of course, for many things you still have to use an action even if you have summoned up some kind of magick, which leads to stress use. 
+You can't, by default, use magick to resist ordinary consequences, though that could be an interesting spell. Like harry dresden's shield, you can use arete to resist physical harm and use quintessence instead of stess to do it.
+there is a lot to be said for that general construction. 
+
+ok, this is probably a thing that needs play testing more than elaborate thought execises. 
+
+I think quintessence can only be used for effect? and resisting paradox? can you only use stress for extra dice or of couse the devils bargin. 
+
+I may want to change my mind about that but once a mage gets that second die of arete, they will become quite powerful. At least magickally. ha! 
+
+

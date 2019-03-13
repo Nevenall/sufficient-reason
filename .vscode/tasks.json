@@ -45,7 +45,6 @@
        "label": "prose",
        "type": "gulp",
        "task": "prose",
-
        "problemMatcher": {
          "owner": "prose",
          "source": "prose-lint",
