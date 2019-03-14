@@ -209,7 +209,7 @@ So, PCs are their own group for whatever reason we decide and whatever their gro
 Maybe if you don't lead your chantry than the best you can do to improve it is downtime activities? That makes sense. If its already established it doesn't grow that much anymore except by effort. 
 
 
-### Drawing Together
+### A Drawing Together
 
 One of the more important things to record is how you all came together. Especially if you are from different traditions. and maybe what keeps you together? and are their other lesser mages in your chantry? that's an interesting question. Or even mundanes? Your chantry could be a homeless shelter that you have only occasional access to. 
 
@@ -358,5 +358,84 @@ ok, this is probably a thing that needs play testing more than elaborate thought
 I think quintessence can only be used for effect? and resisting paradox? can you only use stress for extra dice or of couse the devils bargin. 
 
 I may want to change my mind about that but once a mage gets that second die of arete, they will become quite powerful. At least magickally. ha! 
+
+
+## Setting
+
+there is setting about magick and how it works, and than there is real setting about sf and the characters that live there. in magickal terms. 
+
+In some ways inseperable. 
+
+the current setting essays about what magick is, they belong in text somewhere. Maybe written in through out.
+
+the focus is important, the lists of high level beliefs..eh, they are interesting but in some ways too abstract to be useful. they are fine to have and to know, but it might be more interesting to have lowerlevel burnging wheel style beliefs that can be tested.
+Of course, a mage's belief is kind of a source of their power. Or is it? they have the ability to make their beliefs real and they they use belief as  afocus, but that doens't mean that is where their power acutally comes from. Like, the higher ytour arete the less you need instruments, so, can ytoun transcend your dominate beliefs to perform magick in the same way? 
+
+cool. 
+
+### SF
+
+the city, a fairly strong technocratic presence, but the city it's self is adjacent to it, and the spirit fgo the city if far more traditional and diverse. 
+
+we can have strong asian influence and hippie in the magick world. 
+
+What would we need for a game? 
+the major chantries and strongholds in the area. the leaders who control those. their resources and goals. Just like a blades faction. Also, the tier will be super handy tool. Want to know how hard it is to break into a stronghold? What tier is it? Also, the connections here are stronger. Unlike blades, these factions are often, the childen or offshoots of larger factions, like there may be two akashic factions in the city that are at war, or at least rivals. 
+but they still have the larger tradition kind of directing them. 
+
+
+DFoes there exisit in sf a local representative of the council? are there nine mages who direct mystick actions in the city? hieracical leadership is very unmage like to me. But having some kind of leadership... probably the hermetics want to believe that is how things are working. 
+
+Order of Hermes there are probably a fair number of thema and they form the most traditional organization of the city. 
+Who are they? What is their goal? and what is their history? Are they for or against war? 
+
+
+Akashics, there is mefuine, jon's mentor character who has his little band of warriors. He is a warrior at heart and wants to strike the technocracy in whatever way he can. 
+
+There are other akashics that are more 
+
+
+
+### The War
+
+Speaking of the war, what is the current state of technocratic/mystick conflict? are they are open battle? Simmering cold war spying and carefully controlled covert action? Have they decided to more or lessd ignore each other but be on guard. With some conflicts happening and some factions wanting more direct conflict?
+
+Any of those could be the current state. changing from on guard to cold war? or open conflict? 
+
+That's my first though, on guard to simmering conflict. The PCs could add to it, or try to find other ways. It's a major topic/belief. 
+
+So, my questions were a little off. We should assume knowledge, and ask what your character belives is right. that's more interesting than ignorance in most cases. We don't need to fill the character's in on what they need to know, we don't have an audience to education. We don't need an outsider character in an RPG, in fact, they can be annoying. 
+
+
+### The Council
+
+Another important factor is the council. there are meetings, directives and such. What ar they up to and what are they upto in sf? Is the general state of the war the same all over the world? is the council trying to keep the status quo as it is? War is a reality...ha! 
+
+Open conflict in a populous city like sf is bad for both sides it seems to me because neither side has control of the civilain authorities. They are both disgraced in some ways. No one likes science much either. 
+
+So, there is a war out there and there are front lines, but they are more distant from places like sf, though it's such a good place for covert activity. Could be like dc during the cold war. The battles are happening more distantly. 
+
+How imporant is SF to the council's goals and to the overall war? They want to keep it as it is, because it is imporant to the council, and it's a good place to keep tabs on the techs, but it's also kind of a lost cause. Most of the conflict is in africa and china. The council wants to keep sf quiet so it doens't draw resources away. 
+
+#### The Traditions in SF
+
+the order is commanded by the council to keep the peace in sf? which is kind of a  tall order, but they will talk to mages about vulgar displays. 
+
+There is a strong verbena chantry based near the muir woods. 
+
+There is a grand old order of hermes chantry in the city. Maybe an old victorian house? Maybe downtown? 
+
+There are a fair number of akashic too, I feel like they are less organized, more like several large groups. 
+
+All kinds of virtual adepts maybe even well organized 
+
+estatics too
+
+There are mages of other traditionn too, but in smaller less organized numbers. I think. 
+
+
+### The technocracy 
+
+The technocracy feels similarly about sf. We can watch each other and do our work nearby. it's fine to ignore eachh other as long as they aren't too obvious and we don't have to use resources on it. 
 
 
