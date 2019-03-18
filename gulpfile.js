@@ -18,10 +18,15 @@ const spellchecker = require('spellchecker')
 
 const path = require('path')
 const fs = require('fs')
+
 const {
    Book,
    Page
 } = require('book')
+
+const glob = require('fast-glob')
+const git = require('simple-git')()
+const min = require('minimist')
 
 const title = 'Sufficient Reason'
 
@@ -33,8 +38,7 @@ const publishTarget = "c:/src/BookShelf-SufficientReason/src/pages"
 
 var book = null
 
-// todo - what if we run all the linters when we build and make one generic problem output? 
-function render(callback) {
+function render() {
    book = new Book(title, path.resolve(destination))
 
    return src(sourceGlob)
@@ -143,7 +147,7 @@ function count() {
       .pipe(stats())
 }
 
-function prose(callback) {
+function prose() {
    return src(sourceGlob)
       .pipe(through2.obj(function(file, _, callback) {
          if (file.isBuffer()) {
@@ -158,6 +162,30 @@ function prose(callback) {
       }))
 }
 
+function save(callback) {
+   var options = min(process.argv.slice(2), {
+      string: 'm'
+   })
+
+   if (!options.m) {
+      options.m = 'page edits'
+   }
+
+   // todo - we'll add interesting stuff to the additional data like location and weather and word count. 
+   var additional = ``
+
+   const files = glob.sync(sourceGlob)
+
+   git.commit([options.m, additional], files, {}, (err, data) => {
+      if (err) {
+         callback(err)
+      }
+      console.log(JSON.stringify(data, null, 2))
+      callback()
+   })
+
+}
+
 const build = series(clean, render, writeBook, assets)
 
 exports.build = build
@@ -167,4 +195,6 @@ exports.spell = spelling
 exports.count = count
 exports.prose = prose
 exports.render = render
+exports.check = series(spelling, prose, render, count)
+exports.save = save
 exports.default = build
