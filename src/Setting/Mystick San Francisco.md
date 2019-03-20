@@ -8,5 +8,9 @@
 
 ## Mystick Factions & Chantries
 
+### [tbd] Dojo
+
+A chantry of agressive Akasshyana lead by [Mifune](Characters/Mifune.md)
+
 ## Technocratic Factions & Labs
 
