@@ -8,7 +8,7 @@ Masters of mind, body, and spirit through the Arts of personal discipline.
 
 Mind or Life
 
-## Celestial Chorus 
+## Celestial Chorus (Choristers)
 
 Sacred singers who give a human Voice to the Divine Song. 
 

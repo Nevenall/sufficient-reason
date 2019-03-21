@@ -8,25 +8,44 @@
 
 ## Mystick Factions & Chantries
 
-### [tbd] Dojo
+### [tbd] Dojo/fight club? [Tier II]
 
 A chantry of agressive Akasshyana lead by [Mifune](Characters/Mifune.md)
 
-### The New Celestial Alignment Chantry
+Maybe the dojo is a front, the fight club is what its really about. 
 
-Based in Marin County they are a powerful alliance of hermetic and some choristers/verbena which formed in the 60s and still ruled by those really 60s mages. 
-They have wealth and power and the Muir Woods node. Which is a fuck of a powerful node to control. 
-How do they maintain it? 
-What do they do with that quintessence? 
-Build up power and stuff
+Mifune is a tradtion warrior and he is serious about fighting the technocrats and in training/indoctrinating others to do so. 
+He's building a small army to attack large technocratic strongholds. 
 
-### Alba and the city under chantry [Undercity Chantry?]
+### The New Celestial Alignment [Tier V]
 
-they are a kinda random collection of misfits who have hidden network of underground/secret passages throughout the city. Like the steps behind the Fisherman's Wharf hostel.
-They are an anarcho-syncladic commune where each mage tries to make a difference in a way that makes sense to them. They do sometimes work together though
+Based in Marin County they are a powerful alliance of Gaia flavored Choristers, Verbena, and a few Hermetics which formed in the 60s. 
 
+They have wealth and power and control the Muir Woods node. Which is a fuck of a powerful node. 
 
-[dark house chantry](https://www.reddit.com/r/pics/comments/b238wf/dark_victorian/?utm_medium=android_app&utm_source=share)
+Outstanding questions: who are the mages of this chantry and what is their goal?
+
+Mostly they try to maintain order in the bay area, and further areas. They have a vested interest in keeping things calm. They also make a lot of money from the concentrated technocracy endevors here. Which is something other mages give them grief for. 
+
+### Undercity [Tier III]
+
+A diverse collection of willworkers, but especially misfits, orphans, and mages with paradox that complicates normal social interaction. 
+
+Undercity is sort of an anarcho-syncladic commune where each mage tries to make a difference in a way that makes sense to them. They share information and protection. 
+
+[Alba Caduca](Characters/Alba%20Caduca.md) is one of the elders of the chantry.
+
+Territorially, they control a network of concealed areas under the city which includes several small nodes and localities. 
+
+Undercity is a lot larger then most mages know. Given it's decentralized nature, its probably a lot larger than even Alba knows.
+
+### Darkhouse [Tier II]
+
+![dark house chantry](assets/Darkhouse.jpg)
+
+A chantry of mages who enjoy meeting in a classic victorian house painted entirely black. 
+
+They don't have a strong direction. The mages of Darkhouse mostly persue their own personal agendas and dabble in gothy magick.
 
 ## Technocratic Factions & Labs
 
