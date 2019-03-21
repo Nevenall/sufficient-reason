@@ -41,7 +41,7 @@ Undercity is a lot larger then most mages know. Given it's decentralized nature,
 
 ### Darkhouse [Tier II]
 
-![dark house chantry](assets/Darkhouse.jpg)
+![dark house chantry](/src/assets/Darkhouse.jpg)
 
 A chantry of mages who enjoy meeting in a classic victorian house painted entirely black. 
 
