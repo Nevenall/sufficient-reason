@@ -1,6 +1,6 @@
 # Disparate Crafts
 
-From the Tradition's point of view a collection of not them.
+A smaller mystick groups that have not joined the Traditions. 
 
 ## Ahl-i-Batin 
 

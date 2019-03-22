@@ -8,6 +8,8 @@
 
 ## Mystick Factions & Chantries
 
+A small example of the mystickally inclined factions in SF. 
+
 ### [tbd] Dojo/fight club? [Tier II]
 
 A chantry of agressive Akasshyana lead by [Mifune](Characters/Mifune.md)
@@ -48,4 +50,16 @@ A chantry of mages who enjoy meeting in a classic victorian house painted entire
 They don't have a strong direction. The mages of Darkhouse mostly persue their own personal agendas and dabble in gothy magick.
 
 ## Technocratic Factions & Labs
+
+The city has its pockets of technocracy but the true power centers lie nearby. Most of the well known technocracy factions in the city are amalgams with specific agendas. 
+
+### YCombinator [Tier IV]
+
+A really important amalgam that serves the union is so many ways. It is an incubator for tech start-up and so generates wealth for Syndicate investors, it can train budding entrepaneours for the NWO, it can normalize new tech for Iteration X. Mountain View CA.
+
+### Palantir []
+
+Palo Alto, CA.
+
+<!-- we can create other smaller tech companies based in the city. Quantum computing an AI, survellance like palantir, oh and Black Water style mercenary organizations. Also, there is proably several factions that represent large Chinese technocatic factions.  -->
 

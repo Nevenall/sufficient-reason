@@ -1,5 +1,7 @@
 # Technocatic Union
 
+The conventions of the Technocratic Union. 
+
 ## Iteration X 
 
 Perfectors of the human machine. 
