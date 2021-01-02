@@ -1,64 +1,168 @@
- {
-   // See https://go.microsoft.com/fwlink/?LinkId=733558
-   // for the documentation about the tasks.json format
-   "version": "2.0.0",
-   "tasks": [{
-       "label": "build",
-       "type": "gulp",
-       "task": "build",
-       "group": {
-         "kind": "build",
-         "isDefault": true
-       },
-       "problemMatcher": {
-         "owner": "build",
-         "source": "markdown-lint",
-         "severity": "warning",
-         "fileLocation": "absolute",
-         "pattern": [{
-           "regexp": "'(.+?)' (\\d+,\\d+,\\d+,\\d+) (.*)",
-           "file": 1,
-           "location": 2,
-           "message": 3
-         }]
-       }
-     },
-     {
-       "label": "spell check",
-       "type": "gulp",
-       "task": "spelling",
-       "problemMatcher": {
-         "owner": "spelling",
-         "source": "spelling",
-         "severity": "error",
-         "fileLocation": "absolute",
-         "pattern": [{
-           "regexp": "'(.+?)' (\\d+):(\\d+) (.+ ->.*)",
-           "file": 1,
-           "line": 2,
-           "column": 3,
-           "message": 4
-         }]
-       }
-     },
-     {
-       "label": "prose",
-       "type": "gulp",
-       "task": "prose",
-       "problemMatcher": {
-         "owner": "prose",
-         "source": "prose-lint",
-         "severity": "warning",
-         "fileLocation": "absolute",
-         "pattern": [{
-           "regexp": "'(.+)' (\\d+):(\\d+):(\\d+) (.*)",
-           "file": 1,
-           "line": 2,
-           "column": 3,
-           "endColumn": 4,
-           "message": 5
-         }]
-       }
-     }
-   ]
- }
+{
+  // See https://go.microsoft.com/fwlink/?LinkId=733558
+  // for the documentation about the tasks.json format
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build​",
+      "type": "gulp",
+      "task": "build",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": {
+        "owner": "build",
+        "source": "markdown-lint",
+        "severity": "warning",
+        "fileLocation": "absolute",
+        "pattern": [
+          {
+            "regexp": "'(.+?)' (\\d+,\\d+,\\d+,\\d+) (.*)",
+            "file": 1,
+            "location": 2,
+            "message": 3
+          }
+        ]
+      }
+    },
+    {
+      "label": "check",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "dedicated",
+        "showReuseMessage": false,
+        "clear": true
+      },
+      "dependsOrder": "sequence",
+      "dependsOn": [
+        "spell",
+        "prose",
+        "lint"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "spell",
+      "type": "shell",
+      "command": "gulp spelling --file '${file}'",
+      "problemMatcher": {
+        "owner": "spelling",
+        "source": "spelling",
+        "severity": "error",
+        "fileLocation": "absolute",
+        "pattern": [
+          {
+            "regexp": "'(.+?)' (\\d+):(\\d+) (.+ ->.*)",
+            "file": 1,
+            "line": 2,
+            "column": 3,
+            "message": 4
+          }
+        ]
+      }
+    },
+    {
+      "label": "prose",
+      "type": "shell",
+      "command": "gulp prose --file '${file}'",
+      "problemMatcher": {
+        "owner": "prose",
+        "source": "prose-lint",
+        "severity": "warning",
+        "fileLocation": "absolute",
+        "pattern": [
+          {
+            "regexp": "'(.+)' (\\d+):(\\d+):(\\d+) (.*)",
+            "file": 1,
+            "line": 2,
+            "column": 3,
+            "endColumn": 4,
+            "message": 5
+          }
+        ]
+      }
+    },
+    {
+      "label": "lint",
+      "type": "shell",
+      "command": "gulp lint --file '${file}'",
+      "problemMatcher": {
+        "owner": "build",
+        "source": "markdown-lint",
+        "severity": "warning",
+        "fileLocation": "absolute",
+        "pattern": [
+          {
+            "regexp": "'(.+?)' (\\d+,\\d+,\\d+,\\d+) (.*)",
+            "file": 1,
+            "location": 2,
+            "message": 3
+          }
+        ]
+      }
+    },
+    {
+      "label": "spell—all​",
+      "type": "gulp",
+      "task": "spelling",
+      "problemMatcher": {
+        "owner": "spelling",
+        "source": "spelling",
+        "severity": "error",
+        "fileLocation": "absolute",
+        "pattern": [
+          {
+            "regexp": "'(.+?)' (\\d+):(\\d+) (.+ ->.*)",
+            "file": 1,
+            "line": 2,
+            "column": 3,
+            "message": 4
+          }
+        ]
+      }
+    },
+    {
+      "label": "prose​—all",
+      "type": "gulp",
+      "task": "prose",
+      "problemMatcher": {
+        "owner": "prose",
+        "source": "prose-lint",
+        "severity": "warning",
+        "fileLocation": "absolute",
+        "pattern": [
+          {
+            "regexp": "'(.+)' (\\d+):(\\d+):(\\d+) (.*)",
+            "file": 1,
+            "line": 2,
+            "column": 3,
+            "endColumn": 4,
+            "message": 5
+          }
+        ]
+      }
+    },
+    {
+      "label": "lint​—all",
+      "type": "gulp",
+      "task": "lint",
+      "problemMatcher": {
+        "owner": "build",
+        "source": "markdown-lint",
+        "severity": "warning",
+        "fileLocation": "absolute",
+        "pattern": [
+          {
+            "regexp": "'(.+?)' (\\d+,\\d+,\\d+,\\d+) (.*)",
+            "file": 1,
+            "location": 2,
+            "message": 3
+          }
+        ]
+      }
+    }
+  ]
+}

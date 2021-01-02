@@ -44,11 +44,11 @@ function render() {
    book = new Book(title, path.resolve(destination))
 
    return src(sourceGlob)
-      .pipe(through2.obj(function(vinyl, _, callback) {
+      .pipe(through2.obj(function (vinyl, _, callback) {
          if (vinyl.isBuffer()) {
             var vfile = convert(vinyl)
 
-            markdown.process(vfile, function(err, parsed) {
+            markdown.process(vfile, function (err, parsed) {
                var contents
 
                if (err) {
@@ -86,7 +86,7 @@ function render() {
          extname: ".html"
       }))
       .pipe(dest(destination))
-      .pipe(through2.obj(function(vinyl, _, callback) {
+      .pipe(through2.obj(function (vinyl, _, callback) {
          if (vinyl.pageData) {
             let page = new Page(vinyl.pageData.title, path.relative(book.root, vinyl.path), vinyl.pageData.order)
             page.data = vinyl.pageData
@@ -98,7 +98,53 @@ function render() {
 
    function logWarnings(parsed) {
       parsed.messages.forEach(msg => {
-         console.log(`'${parsed.path}' ${msg.location.start.line},${msg.location.start.column},${msg.location.end.line||msg.location.start.line},${msg.location.end.column||msg.location.start.column} ${msg.reason}`)
+         console.log(`'${parsed.path}' ${msg.location.start.line},${msg.location.start.column},${msg.location.end.line || msg.location.start.line},${msg.location.end.column || msg.location.start.column} ${msg.reason}`)
+      })
+   }
+}
+
+
+
+function lint() {
+
+   var options = min(process.argv.slice(2), {
+      string: 'file'
+   })
+
+
+   return src(options.file || sourceGlob)
+      .pipe(through2.obj(function (vinyl, _, callback) {
+         if (vinyl.isBuffer()) {
+            var vfile = convert(vinyl)
+
+            markdown.process(vfile, function (err, parsed) {
+               var contents
+
+               if (err) {
+                  return callback(new Error(err))
+               }
+
+               logWarnings(parsed)
+               contents = parsed.contents
+
+               /* istanbul ignore else - There aren’t any unified compilers
+                * that output buffers, but this logic is here to keep allow them
+                * (and binary files) to pass through untouched. */
+               if (typeof contents === 'string') {
+                  contents = Buffer.from(contents, 'utf8')
+               }
+
+               vinyl.contents = contents
+               
+               callback(null, vinyl)
+            })
+         }
+      }))
+
+
+   function logWarnings(parsed) {
+      parsed.messages.forEach(msg => {
+         console.log(`'${parsed.path}' ${msg.location.start.line},${msg.location.start.column},${msg.location.end.line || msg.location.start.line},${msg.location.end.column || msg.location.start.column} ${msg.reason}`)
       })
    }
 }
@@ -106,7 +152,7 @@ function render() {
 function writeBook(callback) {
    // todo - write out a list of pages in order so that consuming apps can construct a book object?
    // could also write an export for each page 
-   fs.writeFile("html/book.js", `module.exports = ${JSON.stringify(book,null,3)}`, err => {
+   fs.writeFile("html/book.js", `module.exports = ${JSON.stringify(book, null, 3)}`, err => {
       if (err) throw err
       log.info(`wrote book.js`)
    })
@@ -128,8 +174,13 @@ function publish() {
 }
 
 function spelling() {
-   return src(sourceGlob)
-      .pipe(through2.obj(function(file, _, callback) {
+
+   var options = min(process.argv.slice(2), {
+      string: 'file'
+   })
+
+   return src(options.file || sourceGlob)
+      .pipe(through2.obj(function (file, _, callback) {
          if (file.isBuffer()) {
             file.contents.toString().split("\n").forEach((line, idx) => {
                let misspellings = spellchecker.checkSpelling(line)
@@ -150,8 +201,13 @@ function count() {
 }
 
 function prose() {
-   return src(sourceGlob)
-      .pipe(through2.obj(function(file, _, callback) {
+
+   var options = min(process.argv.slice(2), {
+      string: 'file'
+   })
+
+   return src(options.file || sourceGlob)
+      .pipe(through2.obj(function (file, _, callback) {
          if (file.isBuffer()) {
             file.contents.toString().split("\n").forEach((line, idx) => {
                let suggestions = writeGood(line)
@@ -224,7 +280,8 @@ exports.spelling = spelling
 exports.spell = spelling
 exports.count = count
 exports.prose = prose
+exports.lint = lint
 exports.render = render
-exports.check = series(spelling, prose, render, count)
+exports.check = series(spelling, prose, lint, count)
 exports.save = save
 exports.default = build
