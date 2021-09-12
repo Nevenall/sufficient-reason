@@ -4,7 +4,8 @@
    ],
    "spellright.documentTypes": [
       "latex",
-      "plaintext"
+      "plaintext",
+      "markdown"
    ],
    "workbench.colorCustomizations": {}
 }
